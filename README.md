@@ -1,2 +1,2 @@
-# DesignEskola
-Learning Path - Diseño Digital
+# Initial page
+
