@@ -10,7 +10,7 @@
   * [Recursos](recursos/recursos-3.md)
   * [Ver](recursos/ver-1.md)
 * [Contacto](contacto.md)
-* [BORRADORES](untitled-1/README.md)
+* [BORRADORES - no leer](untitled-1/README.md)
   * [DesignEskola](untitled-1/designeskola-1.md)
   * [DesignEskola](untitled-1/designeskola-2.md)
   * [DesignEskola](untitled-1/designeskola-3.md)
