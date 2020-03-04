@@ -12,25 +12,35 @@ description: Como dijo alguien… no hay segunda oportunidad para una primera im
 
 {% embed url="https://www.behance.net/" caption="https://www.behance.net/" %}
 
+Y a veces la solución más sencilla una simple búsqueda por imágenes en cualquier buscador
 
+## Moodboard
 
+Una buena manera de organizar este archivo gráfico es crearte el tuyo propio. O bien con un sistema de carpetas, algún software de organización de imágenes tipo Adobe Bridge o con algo más especializado. Yo utilizo
 
-
-Google Images
-
-Moodboard
-
-
+{% embed url="https://en.eagle.cool/" caption="https://en.eagle.cool/" %}
 
 ## Estudios que me molan
 
-Tu deberías buscar tus propias referencias… y sobre todo no centrarte en un estilo \(esa es la maldición del creador de imágenes\) sino tener un
+Tu deberías buscar tus propias referencias… y sobre todo no centrarte en un estilo \(esa es la maldición del creador de imágenes\) sino tener referencias diversas.
 
-studio Feixen
+Comparto algunas de las que a mi me parecen interesantes…
+
+{% embed url="https://www.studiofeixen.ch/" caption="https://www.studiofeixen.ch/" %}
+
+
+
+
+
+## Conclusiones
 
 En diseño no creamos imágenes… debemos tender a crear **Universos visuales.** Luis de Equipo Sopa lo explica fenomenal.
 
 {% embed url="https://www.youtube.com/watch?v=xYf509k47co" %}
+
+Tampoco soy el mayor defensor de los sitemas de diseño, si no es para grandes proyectos o corporaciones. Creo más adecuado para la mayoría de los proyectos la visión que compartía Paula Scher sobre **Diseño dinámico**. Recomendable su curso en [skillshare](https://www.skillshare.com/classes/Dynamic-Brand-Identity-Designing-Logos-That-Evolve/239606488?via=user-profile).
+
+{% embed url="https://www.skillshare.com/classes/Dynamic-Brand-Identity-Designing-Logos-That-Evolve/239606488?via=user-profile" %}
 
 
 
