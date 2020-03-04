@@ -4,5 +4,5 @@ description: Cómo convertirse en Diseñador/a Digital
 
 # DesignEskola
 
-safgs
+![](.gitbook/assets/designeskola-cover.png)
 
