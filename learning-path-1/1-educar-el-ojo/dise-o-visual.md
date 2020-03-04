@@ -20,6 +20,8 @@ Una buena manera de organizar este archivo gráfico es crearte el tuyo propio. O
 
 {% embed url="https://en.eagle.cool/" caption="https://en.eagle.cool/" %}
 
+Esto te servirá para crearte un MOODBOARD que no es otra cosa que una pizarra de recortes \(analógica o virtual\) para dar contexto a tu proyecto. No solo es una buena práctica como inspiración sino sobre todo para mantener la coherencia en el proyecto y no salirte de línea de trabajo que se ha definido con oficio, investigación…
+
 ## Estudios que me molan
 
 Tu deberías buscar tus propias referencias… y sobre todo no centrarte en un estilo \(esa es la maldición del creador de imágenes\) sino tener referencias diversas.
