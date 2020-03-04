@@ -1,3 +1,7 @@
+---
+description: Un diseñador con "500 años de experiencia".
+---
+
 # Quién soy
 
 ![](.gitbook/assets/diego%20%281%29.png)
