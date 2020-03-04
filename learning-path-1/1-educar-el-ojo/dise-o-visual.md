@@ -12,6 +12,10 @@ description: Como dijo alguien… no hay segunda oportunidad para una primera im
 
 {% embed url="https://www.behance.net/" caption="https://www.behance.net/" %}
 
+No me gusta nada pinterest, por su ecosistema cerrado, pero es cierto que es un gran recurso de referencias.
+
+{% embed url="https://www.pinterest.es/" caption="https://www.pinterest.es/" %}
+
 Y a veces la solución más sencilla una simple búsqueda por imágenes en cualquier buscador
 
 ## Moodboard
