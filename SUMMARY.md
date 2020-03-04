@@ -7,7 +7,7 @@
 * [Learning Path simplificado](learning-path-simplificado.md)
 * [100 cosas sobre Diseño](100-cosas-sobre-dise-o.md)
 * [LEARNING PATH](learning-path-1/README.md)
-  * [EDUCAR EL OJO](learning-path-1/1-educar-el-ojo/README.md)
+  * [EDUCAR LA MIRADA](learning-path-1/1-educar-el-ojo/README.md)
     * [Diseño Visual](learning-path-1/1-educar-el-ojo/dise-o-visual.md)
     * [Cine](learning-path-1/1-educar-el-ojo/cine.md)
     * [Fotografía](learning-path-1/1-educar-el-ojo/fotograf-a.md)
