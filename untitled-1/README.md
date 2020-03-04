@@ -10,7 +10,7 @@ Un _learning path_ accesible
 
   [Quién soy](DesignEskola/Qui%20n%20soy.md)
 
-  [Disclaimer](../disclaimer.md)
+  [Disclaimer](disclaimer.md)
 
   [100 cosas sobre Diseño…](DesignEskola/100%20cosas%20sobre%20Dise%20o.md)
 
@@ -18,7 +18,7 @@ Un _learning path_ accesible
 
   [Recursos](recursos.md)
 
-  [Contacto](../contacto.md)
+  [Contacto](contacto.md)
 
 by [arketipo](http://twitter.com/arketipo)
 
