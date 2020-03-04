@@ -2,6 +2,10 @@
 
 **¡ÉSTE NO ES UN PROYECTO PARA GENTE QUE SE PUEDA PAGAR UNA FORMACIÓN PRIVADA O PROFESIONALES EN ACTIVO!**
 
+## Si tienes pasta…
+
+Hay formación que está muy bien, con profesionales reconocidos y con buenos contactos en el sector. Si te lo puedes permitir hazlo. Esto no es para ti. Esto es un humilde recurso para los que nos formamos a nosotros mismos.
+
 ## En inglés
 
 Decía un compañero al que admiro que si quieres ser programador el primer lenguaje que deberías conocer era el inglés y opino lo mismo en el campo del diseño. No por esnobismos sino por poder beber de las fuentes, entender lo que hacen algunas de las empresa más interesantes… así que ese es el primer esfuerzo. Y no es tan difícil se trata de tener un conocimiento de los pocos cientos de palabras que usamos a nivel técnico.
