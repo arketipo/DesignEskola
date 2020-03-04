@@ -5,7 +5,9 @@
 * **El Diseño NO es arte**, aunque compartan técnicas, inspiración, procesos… En su libro "Design as Art" que habla sobre el tema Bruno Munari propone que sean los artistas los que se conviertan en diseñadores. Un poco siguiendo el model de Jeff Koons o la factoria de Warhol. El diseño debe ser reproducible en serie y responder a una necesidad. El arte es libre. Muy recomendable este libro si como yo tienes prejuicios con el arte moderno.
 * Si tienes un **bloqueo creativo** puede ser por dos razones: falta de concepto, falta de conocimientos… si no es por ninguna de las dos causas la solución es dejarlo e ir a hacer dar un paseo, nadar…
 
-{% embed url="https://www.youtube.com/watch?v=mK2WZVXBQvI" caption="Fotograma de la película \"Midiendo el mundo\"" %}
+{% embed url="https://www.youtube.com/watch?v=mK2WZVXBQvI" %}
+
+
 
 * **Un trabajo está terminado** cuando has eliminado todo lo superfluo que no aporta a la comunicación… \(el presupuesto también hay que tenerlo en cuenta, no se debe trabajar gratis… si pagas por pollo no comes txuleta\).
 * Las **tendencias son como la moda** van y vuelven pero no perduran en el tiempo. Perdura el concepto y el propósito.
@@ -36,6 +38,8 @@
 
 {% embed url="https://www.youtube.com/watch?v=davR-deyuho" %}
 
+
+
 * Las **restricciones** \(retículas, sistemas…\) no coartan la creatividad, sino todo lo contrario.
 * No mates conejos a cañonazos, si incluyes perfil Adobe RGB en una imagen para internet, casi nadie podrá ver esos colores.
 * Lo bueno si breve… sobre todo en los tiempos de carga.
@@ -43,13 +47,19 @@
 
 {% embed url="https://www.youtube.com/watch?v=\_CtZdE7rPnA" %}
 
+
+
 * **No money, no details /** Demian Conrad.
 
 {% embed url="https://www.automaticostudio.ch/" %}
 
+
+
 * Si tienes una buena idea no la camufles con artificios.
 
 {% embed url="https://www.youtube.com/watch?v=vcfKwK05oS4" %}
+
+
 
 * **Menos es más… casi siempre.**
 * Huye del **“por defecto”.** Tanto en ajustes tipográficos, como efectos de postproducción, como en recursos de trabajo. Personaliza.
@@ -92,7 +102,7 @@
 * Ahora mismo la interfaz es el elemento más habitual de interacción del ser humano con los dispositivos pero no tiene porque ser así en el futuro. Más info en el Libro "best interface is no interface".
 * A veces **las debilidades pueden ser una fortaleza**. Con buenas gafas no habría existido el impresionismo. Otro ejemplo es el fantástico trabajo de estos diseñadores cubanos.
 
-{% embed url="https://www.youtube.com/watch?v=KcTWjbAaG3o" %}
+  [https://www.youtube.com/watch?v=KcTWjbAaG3o](https://www.youtube.com/watch?v=KcTWjbAaG3o)
 
 * **El color no existe**, solo la interpretación que hace nuestro cerebro. Los japoneses jovenes no ven bien los colores…
 * **Las cosas demasiado perfectas son frías** y no nos gustan tanto. Podría hablar del auge del letterpress y la risografía o simplemente de porque seguimos tiñendo los vaqueros con índigo. Pero cierta imperfección es necesaria.
