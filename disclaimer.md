@@ -26,7 +26,7 @@ Suelo leer mucho y recomendar libros, si puedes cómpralos, préstalos y compár
 
 ## Work in Progress
 
-Los capítulos que están terminados tienen el icono de DesignEskola, aunque en el futuro puedan ser editados, completados… si solo ves el icono genérico es que están en proceso.
+Este es un **documento vivo**, publicado gracias a la ayuda de Gitbook. No tomes nada como definitivo.
 
 **¡ESPERO QUE TE SEA ÚTIL!**
 
