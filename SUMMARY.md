@@ -7,7 +7,6 @@
 * [100 cosas sobre Diseño](100-cosas-sobre-dise-o.md)
 * [Recursos](recursos/README.md)
   * [Leer](recursos/leer-1.md)
-  * [Recursos](recursos/recursos-3.md)
   * [Ver](recursos/ver-1.md)
 * [Contacto](contacto.md)
 * [BORRADORES - no leer](untitled-1/README.md)
