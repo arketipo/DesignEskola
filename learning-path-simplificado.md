@@ -13,6 +13,8 @@ Lo primero que habría que definir es que se necesita para ser un buen diseñado
   * Conocer bien las bases del diseño
   * Dominar tu herramienta de trabajo
   * Saber resolver problemas
+* Proyectos
+  * Hay que enseñar trabajos de impacto
 
 **EL PERFIL**
 
