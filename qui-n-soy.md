@@ -1,4 +1,6 @@
-# Qui n soy
+# Quién soy
+
+![](.gitbook/assets/diego%20%281%29.png)
 
 Me llamo **Diego Rodríguez**, y aunque nací en Suiza, vivo en la margen izquierda de la ría del Nervión, en Barakaldo \(Gran Bilbao\).‌
 

@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DesignEskola](README.md)
+* [Quién soy](qui-n-soy.md)
 * [¡Disclaimer!](disclaimer.md)
 * [Learning Path simplificado](learning-path-simplificado.md)
 * [100 cosas sobre Diseño](100-cosas-sobre-dise-o.md)
@@ -41,7 +42,6 @@
   * [DesignEskola](untitled-1/designeskola-10.md)
   * [Presentaci n del proyecto](untitled-1/presentaci-n-del-proyecto.md)
   * [DesignEskola](untitled-1/designeskola-11.md)
-  * [Qui n soy](untitled-1/qui-n-soy.md)
   * [DesignEskola](untitled-1/designeskola-12.md)
   * [Recursos](untitled-1/recursos.md)
   * [DesignEskola](untitled-1/designeskola-13.md)
