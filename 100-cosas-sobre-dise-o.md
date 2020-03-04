@@ -5,26 +5,28 @@
 * **El Diseño NO es arte**, aunque compartan técnicas, inspiración, procesos… En su libro "Design as Art" que habla sobre el tema Bruno Munari propone que sean los artistas los que se conviertan en diseñadores. Un poco siguiendo el model de Jeff Koons o la factoria de Warhol. El diseño debe ser reproducible en serie y responder a una necesidad. El arte es libre. Muy recomendable este libro si como yo tienes prejuicios con el arte moderno.
 * Si tienes un **bloqueo creativo** puede ser por dos razones: falta de concepto, falta de conocimientos… si no es por ninguna de las dos causas la solución es dejarlo e ir a hacer dar un paseo, nadar…
 
-[https://www.youtube.com/watch?v=mK2WZVXBQvI](https://www.youtube.com/watch?v=mK2WZVXBQvI)
+{% embed url="https://www.youtube.com/watch?v=mK2WZVXBQvI" %}
+
+
 
 * **Un trabajo está terminado** cuando has eliminado todo lo superfluo que no aporta a la comunicación… \(el presupuesto también hay que tenerlo en cuenta, no se debe trabajar gratis… si pagas por pollo no comes txuleta\).
 * Las **tendencias son como la moda** van y vuelven pero no perduran en el tiempo. Perdura el concepto y el propósito.
 * **Diseña con el contenido** \(textos, fotos, investigación…\).
 * La Helvética es como una camisa blanca, siempre queda bien pero es aburrida.
 
-[https://www.youtube.com/watch?v=1rd3Zkcz\_EE](https://www.youtube.com/watch?v=1rd3Zkcz_EE)
+{% embed url="https://www.youtube.com/watch?v=1rd3Zkcz\_EE" %}
 
 * **El Diseño es el vehículo de la comunicación.**
 * Si no se percibe, mejor **¡Viva el Diseño invisible!**
 * Si solo vas a aprender sobre un área, que sea la **Tipografía**.
 * El Diseño, al igual que la Música, es matemáticas, normas… y **solo los genios pueden romperlas sin fracasar**. Tu no lo eres.
 
-  [https://www.youtube.com/watch?v=yE9X2RC0Vj0](https://www.youtube.com/watch?v=yE9X2RC0Vj0)
+{% embed url="https://www.youtube.com/watch?v=yE9X2RC0Vj0" %}
 
 * Dios está en los **detalles** \(microtipografía, ortotipografía, percepción…\)
 * El fin último es seducir.
 
-[https://www.youtube.com/watch?v=5m7SGjJo7c4](https://www.youtube.com/watch?v=5m7SGjJo7c4)
+{% embed url="https://www.youtube.com/watch?v=5m7SGjJo7c4" %}
 
 * Ni la nuestra ni la del cliente, la opinión que importa es la de la persona que va a usar el producto, servicio…
 * **Huye del estilo**, de la firma personal…
@@ -34,22 +36,30 @@
 * **La herramienta SI es importante** para un buen resultado.
 * Better done than perfect.
 
-[https://www.youtube.com/watch?v=davR-deyuho](https://www.youtube.com/watch?v=davR-deyuho)
+{% embed url="https://www.youtube.com/watch?v=davR-deyuho" %}
+
+
 
 * Las **restricciones** \(retículas, sistemas…\) no coartan la creatividad, sino todo lo contrario.
 * No mates conejos a cañonazos, si incluyes perfil Adobe RGB en una imagen para internet, casi nadie podrá ver esos colores.
 * Lo bueno si breve… sobre todo en los tiempos de carga.
 * **Domina tu herramienta de trabajo** \(scripts, atajos de teclado, nuevas técnicas…\) te ayudará a ganar tiempo y el tiempo sirve para pensar. Si puedes automatizar procesos mejor… el tiempo debe usarse, en la medida de lo posible, para pensar y observar.
 
-[https://www.youtube.com/watch?v=\_CtZdE7rPnA](https://www.youtube.com/watch?v=_CtZdE7rPnA)
+{% embed url="https://www.youtube.com/watch?v=\_CtZdE7rPnA" %}
+
+
 
 * **No money, no details /** Demian Conrad.
 
-[https://www.automaticostudio.ch/](https://www.automaticostudio.ch/)
+{% embed url="https://www.automaticostudio.ch/" %}
+
+
 
 * Si tienes una buena idea no la camufles con artificios.
 
-[https://www.youtube.com/watch?v=vcfKwK05oS4](https://www.youtube.com/watch?v=vcfKwK05oS4)
+{% embed url="https://www.youtube.com/watch?v=vcfKwK05oS4" %}
+
+
 
 * **Menos es más… casi siempre.**
 * Huye del **“por defecto”.** Tanto en ajustes tipográficos, como efectos de postproducción, como en recursos de trabajo. Personaliza.

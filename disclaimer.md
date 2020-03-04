@@ -24,6 +24,10 @@ convencer a nadie. Son mis opiniones, mi experiencia… y no quiero decir a nadi
 
 Las decisiones solo tu puedes tomarlas… esto es solo una referencia.
 
+**ABIERTO**
+
+Por no dejar fuera a gente que lo merece la PRIMERA FASE del proyecto la voy a hacer 100% en abierto pero tengo mucha información y contenido que creo que es valioso y que buscaré la manera de que aporte valor a las personas que busquen su oportunidad. Aún no se el modo ni el canal. El que considere que cumple los requisitos puede contactar conmigo y le contestaré en cuanto mi vida profesional y sobre todo personal me lo permita. SUERTE.
+
 ## No compres en amazon
 
 Suelo leer mucho y recomendar libros, si puedes cómpralos, préstalos y compártelos pero mejor con la librería/biblioteca de tu barrio.
