@@ -1,6 +1,10 @@
+---
+description: Como dijo alguien… no hay segunda oportunidad para una primera impresión.
+---
+
 # Diseño Visual
 
-No compres libros de Diseño… son albunes de cromos caros. Recuerdo como hace muchos años una compañera diseñadora gráfica me contaba como la mejor agencia de Oviedo iba en verano a Nueva York a comprar libros \(era preinternet\) era la manera de tener referencias que aprovechar durante el resto del año. Pues esta era la función de los libros de diseño, poder copiar de los grandes. Ahora si eso es lo que quieres hacer… aunque para eso mejor que [robes](https://austinkleon.com/steal/) directamente, no necesitas comprar carísimos libros en tapa dura. Está todo en internet o directamente en la página de la empresa o en alguna de las plataformas especializadas en "cromos".
+**No compres libros de Diseño**… son albunes de cromos caros. Recuerdo como hace muchos años una compañera diseñadora gráfica me contaba como la mejor agencia de Oviedo iba en verano a Nueva York a comprar libros \(era preinternet\) era la manera de tener referencias que aprovechar durante el resto del año. Pues esta era la función de los libros de diseño, poder copiar de los grandes. Ahora si eso es lo que quieres hacer… aunque para eso mejor que [robes](https://austinkleon.com/steal/) directamente, no necesitas comprar carísimos libros en tapa dura. Está todo en internet o directamente en la página de la empresa o en alguna de las plataformas especializadas en "cromos".
 
 ## Plataformas
 
