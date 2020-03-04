@@ -14,4 +14,5 @@ Cuento cosas en mi [podcast](https://anchor.fm/designeskola), cuento en qué [an
 
 Espero no ser solo yo… y si algún diseñador/a con experiencia quiere aportar su conocimiento, visión, opinión… puede escribirme [http://www.arketipo.net/formulario.html](http://www.arketipo.net/formulario.html).
 
-editado desde github
+
+
