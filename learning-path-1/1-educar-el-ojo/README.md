@@ -8,3 +8,7 @@ Para mi el primer paso para empezar en diseño debería ser leer el libro Univer
 
 Picasso era un consumado dibujante naturalista… así que ante todo humildad.
 
+## Cómo mejorar nuestra cultura visual
+
+Nuestro mundo es visual, tenemos cientos de horas de televisión y cine en nuestro cerebro, miles de horas de anuncios y referencias de todo tipo de paisajes, objetos… que conforman nuestro universo visual.
+
