@@ -30,10 +30,6 @@ Comparto algunas de las que a mi me parecen interesantes…
 
 {% embed url="https://www.studiofeixen.ch/" caption="https://www.studiofeixen.ch/" %}
 
-
-
-
-
 ## Conclusiones
 
 En diseño no creamos imágenes… debemos tender a crear **Universos visuales.** Luis de Equipo Sopa lo explica fenomenal.
