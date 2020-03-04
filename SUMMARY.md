@@ -5,7 +5,6 @@
 * [DesignEskola](designeskola.md)
 * [DesignEskola](untitled-1/README.md)
   * [DesignEskola](untitled-1/designeskola-1.md)
-  * [Contacto](untitled-1/contacto.md)
   * [DesignEskola](untitled-1/designeskola-2.md)
   * [Disclaimer](untitled-1/disclaimer.md)
   * [DesignEskola](untitled-1/designeskola-3.md)
@@ -52,4 +51,5 @@
 * [Recursos](recursos/README.md)
   * [Leer](recursos/leer.md)
   * [Ver](recursos/ver.md)
+* [Contacto](contacto.md)
 
