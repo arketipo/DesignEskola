@@ -13,6 +13,7 @@
     * [Fotografía](learning-path-1/1-educar-el-ojo/fotograf-a.md)
     * [Moda](learning-path-1/1-educar-el-ojo/moda.md)
     * [Arte](learning-path-1/1-educar-el-ojo/arte.md)
+    * [TRABAJO PERSONAL](learning-path-1/1-educar-el-ojo/trabajo-personal.md)
 * [Recursos](recursos/README.md)
   * [Escuchar](recursos/escuchar.md)
   * [Leer](recursos/leer-1.md)
