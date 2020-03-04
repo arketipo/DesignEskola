@@ -1,12 +1,12 @@
 # Table of contents
 
 * [DesignEskola](README.md)
+* [¡Disclaimer!](disclaimer.md)
 * [100 cosas sobre Diseño](100-cosas-sobre-dise-o.md)
 * [DesignEskola](designeskola.md)
 * [DesignEskola](untitled-1/README.md)
   * [DesignEskola](untitled-1/designeskola-1.md)
   * [DesignEskola](untitled-1/designeskola-2.md)
-  * [Disclaimer](untitled-1/disclaimer.md)
   * [DesignEskola](untitled-1/designeskola-3.md)
   * [LEARNING PATH](untitled-1/learning-path.md)
   * [DesignEskola](untitled-1/designeskola-4.md)
