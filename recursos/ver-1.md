@@ -12,7 +12,9 @@ Me maravillan los eventos de pago que después cuelgan sus contenidos en abierto
 
 Fantástico que Netflix haya divulgado el diseño de manera abierta. Algo que deberíamos haber hecho nosotros como sector. Episodios desiguales pero muy recomendable.
 
-[https://www.youtube.com/watch?v=DYaq2sWTWAA](https://www.youtube.com/watch?v=DYaq2sWTWAA)
+{% embed url="https://www.youtube.com/watch?v=DYaq2sWTWAA" %}
+
+
 
 ## Helvetica
 
