@@ -28,7 +28,15 @@ Aunque hoy en dia se quede un poco corto creo que es bastante adecuada para la m
 
 ## Definiciones
 
+**"El Diseño es la invervención en el flujo de acontecimientos para provocar un efecto deseado"**
 
+**"La introducción de la intención en los asuntos humanos"**
+
+**"El Diseño mueve las cosas de un estado existente a otro preferido"**
+
+**"De cualquier acción dotada de propósito se puede decir que es un acto de Diseño"**
+
+¿Con cual te quedas?
 
 En todo caso es mi opinión y creo que hace falta un debate sobre el tema y sobre todo una difusión muchísimo más clara sobre el valor que aporta.
 
