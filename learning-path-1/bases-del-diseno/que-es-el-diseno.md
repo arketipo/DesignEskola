@@ -18,7 +18,7 @@ Y es culpa nuestra por no haber sido capaces de explicarnos y también porque re
 
 **El Diseño resuelve problemas**
 
-Para mi se queda corto, creo que más bien resuelve necesidades… muchas de ellas latentes. De hecho una de las labores del Diseño es descubrir y adelantarnos.
+Para mi se queda corto, creo que más bien **resuelve necesidades**… muchas de ellas latentes. De hecho una de las labores del Diseño es descubrir y adelantarnos.
 
 ## Mi definición favorita
 
