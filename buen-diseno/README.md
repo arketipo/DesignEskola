@@ -1,5 +1,5 @@
 ---
-description: ¿Qué es el buen diseño?
+description: un respositorio con ejemplos de buen diseño
 ---
 
 # BUEN DISEÑO

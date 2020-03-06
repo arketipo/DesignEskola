@@ -1,3 +1,7 @@
+---
+description: Un repositorio con ejemplos de mal diseño
+---
+
 # MAL DISEÑO
 
 * El que es deshonesto
