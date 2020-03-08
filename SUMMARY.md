@@ -1,7 +1,7 @@
 # Table of contents
 
 * [DesignEskola](README.md)
-* [Presentación del proyecto](presentaci-n-del-proyecto.md)
+* [Presentación del proyecto](presentacion-del-proyecto.md)
 * [Quién soy](qui-n-soy.md)
 * [¡Disclaimer!](disclaimer.md)
 * [Learning Path simplificado](learning-path-simplificado.md)
@@ -25,6 +25,7 @@
   * [Escuchar](recursos/escuchar.md)
   * [Formación](recursos/formacion.md)
   * [Leer](recursos/leer-1.md)
+  * [Películas](recursos/peliculas.md)
   * [Ver](recursos/ver-1.md)
 * [Contacto](contacto.md)
 * [BORRADORES - no leer](untitled-1/README.md)
