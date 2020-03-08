@@ -19,6 +19,7 @@
     * [Las personas](learning-path-1/bases-del-diseno/las-personas.md)
 * [BUEN DISEÑO](buen-diseno/README.md)
   * [Accesibilidad](buen-diseno/accesibilidad.md)
+  * [Copy](buen-diseno/copy.md)
   * [Diseñar para el error](buen-diseno/disenar-para-el-error.md)
   * [Diseño sostenible](buen-diseno/diseno-sostenible.md)
   * [Información clara](buen-diseno/informacion-clara.md)
