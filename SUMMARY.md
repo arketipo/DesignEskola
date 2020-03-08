@@ -23,7 +23,7 @@
   * [Diseño sostenible](buen-diseno/diseno-sostenible.md)
   * [Información clara](buen-diseno/informacion-clara.md)
 * [MAL DISEÑO](mal-diseno/README.md)
-  * [Obligar nunca](mal-diseno/obligar-nunca.md)
+  * [Obligar](mal-diseno/obligar-nunca.md)
 * [Recursos](recursos/README.md)
   * [Empresas y Profesionales](recursos/empresas-y-profesionales.md)
   * [Escuchar](recursos/escuchar.md)
