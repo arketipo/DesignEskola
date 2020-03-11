@@ -26,6 +26,7 @@
 * [MAL DISEÑO](mal-diseno/README.md)
   * [Obligar](mal-diseno/obligar-nunca.md)
 * [MAESTROS](maestros/README.md)
+  * [David Ovilvy](maestros/david-ovilvy.md)
   * [Olafur Eliasson](maestros/olafur-eliasson.md)
 * [Recursos](recursos/README.md)
   * [Empresas y Profesionales](recursos/empresas-y-profesionales.md)
