@@ -1,4 +1,6 @@
-# PROCESOS \(WIP\)
+# PROCESOS
+
+## Control de versiones
 
 A la hora de trabajar, mano a mano, con compañeros de perfil técnico estár familiarizado, aunque sea a nivel de concepto con sistemas de control de versiones es básico.
 
@@ -8,11 +10,7 @@ Si como yo eres una persona más visual, hay una gran alternativa como GitKraken
 
 {% embed url="https://www.gitkraken.com/" %}
 
-la documentación:
-
-
+la documentación de git, merece la pena el esfuerzo:
 
 {% embed url="https://guides.github.com/activities/hello-world/" %}
-
-
 

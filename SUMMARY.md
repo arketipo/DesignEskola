@@ -19,7 +19,7 @@
     * [Qué es el Diseño](learning-path-1/bases-del-diseno/que-es-el-diseno.md)
     * [Las personas](learning-path-1/bases-del-diseno/las-personas.md)
   * [CONOCER EL MEDIO \(WIP\)](learning-path-1/conocer-el-medio-wip.md)
-  * [PROCESOS \(WIP\)](learning-path-1/procesos-wip.md)
+  * [PROCESOS](learning-path-1/procesos-wip.md)
   * [LA HERRAMIENTA \(WIP\)](learning-path-1/la-herramienta-wip.md)
   * [CREAR UN PORTFOLIO \(WIP\)](learning-path-1/crear-un-portfolio-wip.md)
   * [OPORTUNIDADES \(WIP\)](learning-path-1/oportunidades-wip.md)
