@@ -2,7 +2,7 @@
 description: Uno de los grandes maestros de la publicidad
 ---
 
-# David Ovilvy \(WIP\)
+# David Ovilvy
 
 Cuando estudiaba la carrera, Publicidad y RRPP, tomé dos decisiones inteligentes: **ir a clase lo mínimo imprescindible** \(algo que lamentablemente no es posible con el plan Bolonia, y creo que es un error\) y el otro: **aprender a aprender por mi cuenta.**
 
