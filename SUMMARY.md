@@ -42,6 +42,4 @@
   * [Películas](recursos/peliculas.md)
   * [Ver](recursos/ver-1.md)
 * [Contacto](contacto.md)
-* [BORRADORES - no leer](untitled-1/README.md)
-  * [GitHub](untitled-1/github.md)
 
