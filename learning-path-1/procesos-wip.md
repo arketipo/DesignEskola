@@ -28,6 +28,8 @@ Una buena manera de trabajar y conocerlo mejor es hacerlo con servidores locales
 
 Mi recomendación es utilizar [mamp](https://www.mamp.info) o vamp. Así además podrás tener copias de tu trabajo, plataformas de pruebas, etc.
 
+Si además añades conocimientos generales \(no de gestión sino teóricos\) sobre temas como kubernetes, cms, etc tendrás un perfil mucho más completo y te facilitará mucho la vida a la hora de trabajar con tus compañeros más técnicos.
+
 ## Trabajo Personal
 
 * Crear tu cuenta en github o bitbucket
