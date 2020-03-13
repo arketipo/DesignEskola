@@ -4,5 +4,5 @@ description: Nunca obligues a alguien a hacer lo que no quiere… se volverá en
 
 # Obligar
 
-![No puedes obligarme a recibir tu spam :\(](../.gitbook/assets/obligacion.png)
+![No puedes obligarme a recibir tu spam :\(](../../.gitbook/assets/obligacion.png)
 

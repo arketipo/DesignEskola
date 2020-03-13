@@ -1,4 +1,4 @@
-# Decálogo del buen Diseño
+# El buen Diseño
 
 ## Según **Dieter Rams**
 
