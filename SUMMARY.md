@@ -27,7 +27,7 @@
     * [Qué es el Diseño](learning-path-1/bases-del-diseno/que-es-el-diseno.md)
     * [Las personas](learning-path-1/bases-del-diseno/las-personas.md)
   * [PROCESOS](learning-path-1/procesos-wip.md)
-* [MAESTROS](maestros/README.md)
+* [Maestros](maestros/README.md)
   * [David Ovilvy](maestros/david-ovilvy.md)
   * [Olafur Eliasson](maestros/olafur-eliasson.md)
 * [Recursos](recursos/README.md)
