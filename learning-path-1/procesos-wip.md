@@ -26,7 +26,11 @@ Las aplicaciones webs tienen que funcionar en un servidor, por eso es importante
 
 Una buena manera de trabajar y conocerlo mejor es hacerlo con servidores locales en los que correr Apache, Mysql, etc
 
-Mi recomendación es utilizar [mamp](https://www.mamp.info) o vamp. Así además podrás tener copias de tu trabajo, plataformas de pruebas, etc.
+Mi recomendación es utilizar [mamp](https://www.mamp.info) o vamp. Así además podrás tener copias de tu trabajo, plataformas de pruebas, etc. Tienen un [canal en youtube](https://www.youtube.com/user/mampTV1) muy interesante.
+
+{% embed url="https://www.youtube.com/watch?v=bpHEutbHFPo" %}
+
+
 
 Si además añades conocimientos generales \(no de gestión sino teóricos\) sobre temas como kubernetes, cms, etc tendrás un perfil mucho más completo y te facilitará mucho la vida a la hora de trabajar con tus compañeros más técnicos.
 
