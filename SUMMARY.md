@@ -13,7 +13,7 @@
     * [Diseñar para el error](decalogo-del-buen-diseno/buen-diseno/disenar-para-el-error.md)
     * [Diseño sostenible](decalogo-del-buen-diseno/buen-diseno/diseno-sostenible.md)
     * [Información clara](decalogo-del-buen-diseno/buen-diseno/informacion-clara.md)
-* [ÁREAS DEL DISEÑO](areas-del-diseno/README.md)
+* [Áreas del Diseño](areas-del-diseno/README.md)
   * [DISEÑO ESTRATÉGICO](areas-del-diseno/diseno-estrategico.md)
 * [LEARNING PATH](learning-path-1/README.md)
   * [EDUCAR LA MIRADA](learning-path-1/1-educar-el-ojo/README.md)
