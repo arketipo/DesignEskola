@@ -13,3 +13,7 @@ La manera, en tiempos anlógicos, era con libros, revistas y cafés. Y uno de lo
     * El ponía el ejemplo concreto de Dove que es el jabón que el usaba y para el que creaba campañas. El orden es igual lo importante es LA COHERENCIA.
     * Mi profesor de derecho de la publicidad anuncia ahora, entre otras cosas, casas de apuestas. ¿No fue mucho más acertado leer a ogilvy en la cafetería que ir a sus clases?
 
+{% embed url="https://www.youtube.com/watch?v=ZEQDs1W8zOg" %}
+
+
+
