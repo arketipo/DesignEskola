@@ -2,7 +2,7 @@
 description: La vista es nuestro sentido principal y como cualquier otro se puede educar…
 ---
 
-# EDUCAR LA MIRADA
+# Educar la mirada
 
 Herramientas, Tendencias, Modas, Recursos… no son más que elementos que pueden ayudar en algunos casos al trabajo diario. Lo que diferencia a un buen diseñador es un universo propio de referencias y una buena base.
 

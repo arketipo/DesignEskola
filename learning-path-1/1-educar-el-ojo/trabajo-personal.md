@@ -2,7 +2,7 @@
 description: Para educar el ojo
 ---
 
-# TRABAJO PERSONAL
+# Trabajo personal
 
 **Crear nuestro propio archivo de imágenes.** No lo que nos gusta sino referencias diversas.
 

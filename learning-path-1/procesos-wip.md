@@ -1,4 +1,4 @@
-# PROCESOS
+# Procesos
 
 ## Control de versiones
 
@@ -10,7 +10,7 @@ Si como yo eres una persona más visual, hay una gran alternativa como GitKraken
 
 {% embed url="https://www.gitkraken.com/" %}
 
-la documentación de git, merece la pena el esfuerzo:
+La documentación de git, merece la pena el esfuerzo:
 
 {% embed url="https://guides.github.com/activities/hello-world/" %}
 
