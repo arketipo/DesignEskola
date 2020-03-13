@@ -40,6 +40,7 @@
 * [Contacto](contacto.md)
 * [WIP](wip/README.md)
   * [MAL DISEÑO](wip/mal-diseno/README.md)
+    * [Dark Patterns](wip/mal-diseno/dark-patterns.md)
     * [Obligar](wip/mal-diseno/obligar-nunca.md)
   * [ÁREA BRANDING](wip/area-branding.md)
   * [ÁREA DISEÑO GRÁFICO](wip/area-diseno-grafico.md)
