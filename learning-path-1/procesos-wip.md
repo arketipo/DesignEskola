@@ -40,4 +40,5 @@ Si además añades conocimientos generales \(no de gestión sino teóricos\) sob
 * Crear un repositorio
 * Compártelo
 * Familiarízate con forks, pull request, etc.
+* Instalar mamp en tu ordenador de trabajo y probar distintas tecnologías
 
