@@ -20,6 +20,14 @@ La documentación de git es un buen recurso, merece la pena el esfuerzo:
 
 {% embed url="https://guides.github.com/activities/hello-world/" %}
 
+## Sistemas
+
+Las aplicaciones webs tienen que funcionar en un servidor, por eso es importante que te familiarices con los distintos tipos de servicios de hosting, requisitos, tecnologías…
+
+Una buena manera de trabajar y conocerlo mejor es hacerlo con servidores locales en los que correr Apache, Mysql, etc
+
+Mi recomendación es utilizar [mamp](https://www.mamp.info) o vamp. Así además podrás tener copias de tu trabajo, plataformas de pruebas, etc.
+
 ## Trabajo Personal
 
 * Crear tu cuenta en github o bitbucket
