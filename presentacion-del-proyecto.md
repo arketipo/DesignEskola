@@ -8,7 +8,7 @@ Este proyecto no es más, ni menos, que una iniciativa personal de **Diego Rodr�
 * **QUIEN** - Diego Rodríguez \([arketipo](http://arketipo.net)\) \(diseñador con experiencia en pisar barro\).
 * **CÓMO** - Tomar con precaución, solo es referencia para diseñar **VUESTRO PROPIO camino de aprendizaje.**
 * **CUANDO** - Recomiendo fijar un calendario con objetivos, tiempos… y ser metódico. Un año lectivo es una buena medida. Además de plantear que se quiere obtener y medirlo.
-* **PORQUÉ** - Porque no pude pagarme unos estudios y tuve que formarme por mi cuenta. Lo cual al final ha sido una gran ventaja pero un esfuerzo inmenso en tiempo y constancia. Si puedo contribuir a reducirlo en alguien que tenga esa situación ya habrá merecido la pena.
+* **PORQUÉ** - Porque no pude pagarme unos estudios y tuve que formarme por mi cuenta. Lo cual al final ha sido una gran ventaja pero un esfuerzo inmenso en tiempo y esfuerzo. Si puedo contribuir a reducirlo en alguien que tenga esa situación ya habrá merecido la pena.
 
 Si queremos una disciplina realmente efectiva debemos promover la diversidad, las posibilidades y crear una alternativa para que cualquiera que tenga el talento y sobre todo la disciplina y coraje suficientes, pueda convertirse en un diseñador digital
 
