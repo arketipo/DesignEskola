@@ -1,2 +1,0 @@
-# Cómo buscarse la vida
-

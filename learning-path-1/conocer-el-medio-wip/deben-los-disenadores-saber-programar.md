@@ -4,6 +4,10 @@ Como buen descendiente de gallegos creo que voy a responder con otra pregunta: �
 
 El tipo de producto que vas a crear y sobre todo el equipo del que te vas a rodear van a condicionar mucho la respuesta.
 
+{% embed url="https://anchor.fm/designeskola/episodes/047-El-futuro-del-Diseo-sera-el-cdigo-o-no-sera-e30uko" %}
+
+
+
 ### Diseñadores individuales
 
 Si trabajas solo o eres freelance tu mismo vas a tener que implementar la solución que diseñes. Esto es una limitación por la complejidad creciente y la cantidad de variables que intervienen en el proceso. Por eso la solución más viable es especializarse en una herramienta o plataforma que te ayude a conseguir buenos resultados y ser rentable. Tienes diversas alternativas:

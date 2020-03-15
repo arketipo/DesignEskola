@@ -7,6 +7,10 @@
 
 {% embed url="https://www.youtube.com/watch?v=mK2WZVXBQvI" caption="Fotograma de la película \"Midiendo el mundo\"" %}
 
+{% embed url="https://anchor.fm/designeskola/episodes/013-Bloqueos-creativos-e2km36" %}
+
+
+
 * **Un trabajo está terminado** cuando has eliminado todo lo superfluo que no aporta a la comunicación… \(el presupuesto también hay que tenerlo en cuenta, no se debe trabajar gratis… si pagas por pollo no comes txuleta\).
 * Las **tendencias son como la moda** van y vuelven pero no perduran en el tiempo. Perdura el concepto y el propósito.
 * **Diseña con el contenido** \(textos, fotos, investigación…\).
