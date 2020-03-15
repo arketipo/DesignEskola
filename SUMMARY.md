@@ -18,7 +18,7 @@
     * [Dark Patterns](decalogo-del-buen-diseno/mal-diseno/dark-patterns.md)
     * [Obligar](decalogo-del-buen-diseno/mal-diseno/obligar-nunca.md)
 * [Áreas del Diseño](areas-del-diseno/README.md)
-  * [Content Designer WIP](areas-del-diseno/content-designer.md)
+  * [Content Design WIP](areas-del-diseno/content-designer.md)
   * [Diseño Gráfico](areas-del-diseno/diseno-grafico-wip.md)
   * [Diseño Estratégico](areas-del-diseno/diseno-estrategico.md)
   * [DesignOps](areas-del-diseno/designops.md)

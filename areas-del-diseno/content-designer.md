@@ -1,2 +1,2 @@
-# Content Designer WIP
+# Content Design WIP
 
