@@ -56,7 +56,6 @@
   * [Cómo buscarse la vida](wip/como-buscarse-la-vida.md)
   * [Diseño de interacción](wip/diseno-de-interaccion.md)
   * [ÁREA BRANDING](wip/area-branding.md)
-  * [ÁREA DISEÑO GRÁFICO](wip/area-diseno-grafico.md)
   * [OPORTUNIDADES \(WIP\)](wip/oportunidades-wip.md)
   * [LA HERRAMIENTA \(WIP\)](wip/la-herramienta-wip.md)
 

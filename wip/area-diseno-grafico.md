@@ -1,2 +1,0 @@
-# ÁREA DISEÑO GRÁFICO
-
