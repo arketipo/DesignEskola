@@ -2,7 +2,7 @@
 description: Un repositorio con ejemplos de mal diseño
 ---
 
-# MAL DISEÑO
+# Mal Diseño
 
 * El que es deshonesto
 * El que trata de engañar
