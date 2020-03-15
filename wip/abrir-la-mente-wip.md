@@ -1,2 +1,0 @@
-# ABRIR LA MENTE \(WIP\)
-

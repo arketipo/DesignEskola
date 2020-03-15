@@ -1,2 +1,0 @@
-# CREAR UN PORTFOLIO \(WIP\)
-

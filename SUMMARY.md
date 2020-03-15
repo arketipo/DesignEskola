@@ -29,7 +29,9 @@
     * [Las personas](learning-path-1/bases-del-diseno/las-personas.md)
   * [Conocer el medio](learning-path-1/conocer-el-medio-wip/README.md)
     * [¿Deben los diseñadores saber programar?](learning-path-1/conocer-el-medio-wip/deben-los-disenadores-saber-programar.md)
+  * [Abrir la mente](learning-path-1/abrir-la-mente-wip.md)
   * [Procesos](learning-path-1/procesos-wip.md)
+  * [Crear un portfolio](learning-path-1/crear-un-portfolio-wip.md)
 * [Maestros](maestros/README.md)
   * [David Ovilvy](maestros/david-ovilvy.md)
   * [Olafur Eliasson](maestros/olafur-eliasson.md)
@@ -50,8 +52,6 @@
     * [Obligar](wip/mal-diseno/obligar-nunca.md)
   * [ÁREA BRANDING](wip/area-branding.md)
   * [ÁREA DISEÑO GRÁFICO](wip/area-diseno-grafico.md)
-  * [ABRIR LA MENTE \(WIP\)](wip/abrir-la-mente-wip.md)
   * [OPORTUNIDADES \(WIP\)](wip/oportunidades-wip.md)
-  * [CREAR UN PORTFOLIO \(WIP\)](wip/crear-un-portfolio-wip.md)
   * [LA HERRAMIENTA \(WIP\)](wip/la-herramienta-wip.md)
 
