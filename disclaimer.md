@@ -14,17 +14,17 @@ Además los libros en inglés son mucho más baratos.‌
 
 ## Titivillus
 
-Habrá errores, muchos, habrá inconexiones y signos de puntuación que estén en su sitio. Pero esto es un trabajo en proceso que nunca estará terminado. Si fuese un proyecto comercial contrataría a una correctora, pero no es el caso. Así que si hay algún fallo, que seguro que si, la culpa es de [titivillus](https://anchor.fm/dashboard/episode/e2psol).
+Habrá errores, muchos, habrá inconexiones y signos de puntuación que no estén en su sitio. Pero esto es un trabajo en proceso que nunca estará terminado. Si fuese un proyecto comercial contrataría a una correctora, pero no es el caso. Así que si hay algún fallo, que seguro que si, la culpa es de [titivillus](https://anchor.fm/dashboard/episode/e2psol).
 
 ## La pasta
 
-Soy un obrero del diseño y trabajo por dinero, pero elijo afortunadamente mis batallas y este caso es diferente. No hay un fin económico en todo esto. Es más bien el Master que diseñaría para mi hija si yo mismo no puedo enseñarla si un dia quiere convertirse en diseñadora.
+Soy un obrero del diseño y trabajo por dinero, pero elijo afortunadamente mis batallas y este caso es diferente. No hay un fin económico en todo esto. Es más bien **el Master que diseñaría para mi hija si yo mismo no puedo enseñarla** y un dia quiere convertirse en diseñadora.
 
 Por eso matizar también que aunque haya links a herramientas, plataformas, formación, estudios… en ningún caso es una promoción pagada.
 
 ## No pretendo…
 
-convencer a nadie. Son mis opiniones, mi experiencia… y no quiero decir a nadie lo que tiene que hacer, simplemente ponerlo sobre la mesa y que cada uno elija su camino. No quiero ni acepto esa responsabilidad y alguien debería ser muy incauto para seguir al pie de la letra lo que otro le recomienda.
+…convencer a nadie. Son mis opiniones, mi experiencia… y no quiero decir a nadie lo que tiene que hacer, simplemente ponerlo sobre la mesa y que cada uno elija su camino. Ni quiero ni acepto esa responsabilidad y alguien debería ser muy incauto para seguir al pie de la letra lo que otro le recomienda.
 
 ## Tu eres el único responsable
 
