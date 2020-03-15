@@ -27,6 +27,7 @@
   * [Bases del Diseño \(WIP\)](learning-path-1/bases-del-diseno/README.md)
     * [Qué es el Diseño](learning-path-1/bases-del-diseno/que-es-el-diseno.md)
     * [Las personas](learning-path-1/bases-del-diseno/las-personas.md)
+  * [Conocer el medio](learning-path-1/conocer-el-medio-wip.md)
   * [Procesos](learning-path-1/procesos-wip.md)
 * [Maestros](maestros/README.md)
   * [David Ovilvy](maestros/david-ovilvy.md)
@@ -52,5 +53,4 @@
   * [OPORTUNIDADES \(WIP\)](wip/oportunidades-wip.md)
   * [CREAR UN PORTFOLIO \(WIP\)](wip/crear-un-portfolio-wip.md)
   * [LA HERRAMIENTA \(WIP\)](wip/la-herramienta-wip.md)
-  * [CONOCER EL MEDIO \(WIP\)](wip/conocer-el-medio-wip.md)
 
