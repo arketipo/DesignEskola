@@ -42,6 +42,7 @@
   * [Leer](recursos/leer-1.md)
   * [Películas](recursos/peliculas.md)
   * [Ver](recursos/ver-1.md)
+* [Seguir aprendiendo](seguir-aprendiendo.md)
 * [Contacto](contacto.md)
 * [WIP](wip/README.md)
   * [UX](wip/ux.md)
