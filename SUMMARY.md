@@ -54,8 +54,6 @@
 * [Contacto](contacto.md)
 * [WIP](wip/README.md)
   * [Cómo buscarse la vida](wip/como-buscarse-la-vida.md)
-  * [UX](wip/ux.md)
-  * [Diseño Gráfico](wip/diseno-grafico.md)
   * [Diseño de interacción](wip/diseno-de-interaccion.md)
   * [ÁREA BRANDING](wip/area-branding.md)
   * [ÁREA DISEÑO GRÁFICO](wip/area-diseno-grafico.md)

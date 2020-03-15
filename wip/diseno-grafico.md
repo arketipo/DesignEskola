@@ -1,6 +1,0 @@
----
-description: wip
----
-
-# Diseño Gráfico
-
