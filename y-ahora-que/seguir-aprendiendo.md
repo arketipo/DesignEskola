@@ -2,6 +2,20 @@
 
 Para bien o para mal nunca podremos estancarnos en nuestro trabajo, lo bueno es que la base si importa.
 
+## Donde aprender
+
+Afortunadamente, aunque no todo lo que a mi me gustaría hay formación en Diseño a precio accesible. 
+
+* En [LinkedIn learning](https://www.linkedin.com/learning/me), donde trabajo, puedes formarte en software, procesos y soft y hard skills.
+* [Domestika](https://www.domestika.org/) está muy bien para aprender pequeñas parcelas de la profesión pero sobre todo para ver cómo trabajan otros profesionales del sector.
+* Puedes echarle un ojo a [platzi](https://platzi.com/categorias/diseno/) con una sección específica de diseño y tienen temas espefícos de diseño digital.
+* Hay una cosa que no me gusta nada de ellos pero en la [interaction Design Foundation](https://www.interaction-design.org/courses/interaction-design-for-usability?ad-set=interaction-design-courses&utm_source=bing&utm_medium=cpc&utm_campaign=US%20%7C%20Generic&utm_term=interaction%20design%20courses&utm_content=Interaction%20Design%20Courses) hay recursos interesantes.
+* De las cosas que más me han servido es el [programa especializado en diseño de interacción ](https://www.coursera.org/specializations/interaction-design)que realicé en coursera.
+* Leer libros… de editoriales como [Rosenfeld](https://rosenfeldmedia.com/), a [book apart](https://abookapart.com/).
+* Bucear por la estensísima biblioteca de [Oreily](https://www.oreilly.com/) e incluso suscribirte a safari books online. Me ayudo mucho su libro Desingning for Sustainability.
+* Tomando café con profesionales que quieran compartir.
+* Montar un máster colaborativo. En su dia lo organizamos en Bilbao y fue una buena experiencia.
+
 ## Proceso de aprendizaje
 
 Al igual que cuando sacas el carnet de conducir es cuando realmente empiezas a aprender y necesitas hacer kilómetros, lo mismo ocurre con el proceso de mejorar como profesional del Diseño.
