@@ -1,6 +1,6 @@
 # Qué es el Diseño
 
-Podríamos decir que todo lo que tiene contacto con el ser humano está diseñado. Los animales están diseñados, las plantas… por supuesto los objetos, las ciudades y últimamente somos tan pretenciosos que pretendemos diseñar las experiencias.
+Podríamos decir que **todo lo que tiene contacto con el ser humano está diseñado**. Los animales están diseñados, las plantas… por supuesto los objetos, las ciudades y últimamente somos tan pretenciosos que pretendemos diseñar las experiencias.
 
 En todo caso, el concepto es muy abierto y creo que es necesaria cierta reflexión y debate.
 
@@ -25,35 +25,30 @@ Dentro de la profesión he escuchado frases como estas que puede ayudar a delimi
 * No es arte, no es artesanía, aunque puede tener elementos comunes con ambas disciplinas
 * El Diseño \(por lo menos el visual\) **vehículo de la comunicación**.
   * Creo que es una propuesta bastante acertada en cuanto a "contendor" del lo que queremos comunicar. Ya sea en un póster, una web o una revista.
+* El Diseño, esencialmente, es una manera de pensar que se aplica a solventar necesidades \(problemas si hay consciencia
 
 ‌Desde el punto de vista empresarial:
 
-* El diseño puede salvar una empresa porque afecta a:
+* El diseño puede salvar una empresa
 * Está ligado al branding
+* Las relaciones laborales \(onboarding, planes de carrera, etc.\) se diseñan y son claves para la captación y retención de talento.
+* El Diseño y sobre todo el Branding son claves en la fidelización y recursividad de los clientes. No es un gasto, es una inversión.
+* Los objetos debería poder ser utilizados sin un libro de instrucciones.
+* Creo firmemente en el Diseño invisible… también en el campo de la tecnología.
 
+## El diseño para mi
 
+‌Es sin duda "El vehículo de la comunicación". 
 
-* Retención de clienteQue el precio no sea el elemento más importante en la toma de decisiónLa experiencia de uso
-* 
-El diseño para algunos es:
+También es una manera de intermediar entre la tecnología y las personas.
 
-‌
+El diseño también tiene que ver con el proceso y la metodología que seguimos tanto para crear un producto como plantear un servicio.
 
-‌
+No es una disciplina "estanca". Debe estar en contacto con muchos agentes distintos, desde usuarios, proveedores y distintas profesiones que tienen mucho que aportar a la disciplina.
 
-Para mi
+La disciplina se comporta con una aproximación al problema desde distintos ángulos, tratando de observar, descurbrir y explorar la situación desde todos los ángulos posibles.
 
-‌
+No es solo una disciplina estética. Se debe combinar el análisis de las necesidades \(empresa, personas…\) con el desarrollo de soluciones creativas y efectivas.
 
-"El vehículo de la comunicación"
-
-Before we dive in to exploring design for good, let’s take a moment to consider how to define design itself.
-
-Design is, in essence, a way of thinking that can be applied to solving any problem: design processes can be found in fields as diverse as architecture, fashion, urban planning, branding, and [even life itself](https://designingyour.life/the-book/). It can focus on private or public, work or play, analog or digital.
-
-What all designers have in common is that they aim to mentally “surround” a problem: to observe, discover, and explore it from every angle they can think of.
-
-Far from being “just” an aesthetic discipline, design is an approach to problem-solving itself. It combines a thorough analysis of people’s needs with creative and patient development of potential solutions.
-
-Great designers also understand that the best solution may not be the most obvious one.
+Y por último decir que el buen diseñador sabe que no hay soluciones ideales ni únicas y hay que estar abierto a la incertidumbre y al cambio.
 
