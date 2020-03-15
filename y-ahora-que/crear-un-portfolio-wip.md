@@ -1,6 +1,10 @@
 # Crear un portfolio
 
-Yo [no tengo portfolio](https://anchor.fm/designeskola/episodes/Por-que-no-tengo-portafolio-e9g9k5) por varias razones pero actualmente es básico para conseguir trabajo como diseñador visual.
+Yo no tengo portfolio por varias razones 
+
+{% embed url="https://anchor.fm/designeskola/episodes/Por-que-no-tengo-portafolio-e9g9k5" %}
+
+En todo caso actualmente es básico para conseguir trabajo como diseñador visual.
 
 ## Enseña por lo que quieras que te contraten
 
