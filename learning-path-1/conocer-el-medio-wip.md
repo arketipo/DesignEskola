@@ -30,13 +30,29 @@ Y su sistema de Diseño. **Material Design**
 
 ## Hardware
 
+Tenemos que conocer los soportes sobre los que se van a mostrar nuestro trabajo. En el caso del diseño digital serán smartphones, smartwatches, monitores, proyectores… y sobre todo navegadores.
 
+Conceptos como:
+
+* Resolución de pantalla
+* Densidad de pixels
+* Profundidad de color
+* Perfil de color
+* etc
+
+Deben resultarnos familiares porque la gama de dispositivos es tan amplia que es complejo en muchas ocasiones comprobarlo de manera real.
 
 ## Cómo funciona un navegador
 
 {% embed url="https://www.youtube.com/watch?v=keo0dglCj7I&feature=emb\_logo" %}
 
+Este es uno de los apartados más importantes y que suele quedar en el tintero habitualmente y es como funciona el navegador, como renderiza nuestro código y que problemas podemos encontrarnos.
 
+Existen herramientas fantásticas como caniuse que nos ayudan a saber si una característica está implementada en un determinado navegador y en qué versión. Además herramientas como Google Analytics y similares nos ayudarán a determinar que dispositivos están usando nuestros usuarios \(esto está ligado a un concepto que determina las decisiones de diseño como es el Data Driven Design\)
+
+{% embed url="https://caniuse.com/" %}
+
+Creo que un diseñador digital debe conocer perfectamente el medio sobre el que se mostrará su trabajo y estar al dia de los cambios tecnológicos que surgen. Eso te hará ser mejor profesional y evitar sorpresas desagradables.
 
 
 
