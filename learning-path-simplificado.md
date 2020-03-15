@@ -4,7 +4,7 @@ description: Si solo vas a leer una sección… que sea esta
 
 # Learning Path simplificado
 
-Para ser diseñador/a digital. Qué debes saber unas cuantas cosas. Diseña tu propio camino y mide tus avances, genera conexiones y aprovecha las oportunidades. Hay mucha necesidad en el mundo de buenos diseñadores con conciencia, oficio y visión. Ojalá tu puedas ser uno de ellos.
+Para ser diseñador/a digital. Qué debes saber unas cuantas cosas. **Diseña tu propio camino y mide tus avances, genera conexiones y aprovecha las oportunidades.** Hay mucha necesidad en el mundo de buenos diseñadores con conciencia, oficio y visión. Ojalá tu puedas ser uno de ellos.
 
 Lo primero que habría que definir es que se necesita para ser un buen diseñador/a digital:
 
@@ -20,8 +20,8 @@ Lo primero que habría que definir es que se necesita para ser un buen diseñado
 
 He leido algunos cientos de ofertas de trabajo en los últimos años y aunque es posible que esté equivocado mis conclusiones son:
 
-* Trabajo llama a trabajo. Los sitios y proyectos donde hayas colaborado inciden directamente en tus posibilidades.
-* El portfolio, aunque el diseño ya no sea exclusivamente una profesión visual, será el elemento por el que serás juzgado en muchas ocasiones. Cuídalo.
+* **Trabajo llama a trabajo.** Los sitios y proyectos donde hayas colaborado inciden directamente en tus posibilidades.
+* El **portfolio**, aunque el diseño ya no sea exclusivamente una profesión visual, será el elemento por el que serás juzgado en muchas ocasiones. Cuídalo.
 
 **EL MERCADO**
 
@@ -46,7 +46,7 @@ Si has decidido entrar en el mundo del diseño digital hay algunos pasos que ya 
 3. **Quítate las orejeras**
    1. El diseño no es una isla está relacionado con resolver necesidades y eso no se consigue solo. Se hace entendiendo los problemas, observando y estudiando y también conociendo a los que trabajarán contigo, así que todo lo que aprendas sobre Negocio y Tecnología te ayudará.
 4. **El código es tu amigo**
-   1. No tengas miedo. Yo diría que todo se ha complicado tanto que un diseñador digital no tiene por qué ser capaz de maquetas una web o una app. Existen profesionales que se dedican a ello específicamente y son muy valiosos. De todos modos hay que estar más que familiarizado con HTML y CSS y hay que conocer los problemas y posibilidades de Javascript.
+   1. No tengas miedo. Yo diría que todo se ha complicado tanto que un diseñador digital no tiene por qué ser capaz de maquetar una web o una app. Existen profesionales que se dedican a ello específicamente y son muy valiosos. De todos modos hay que estar más que familiarizado con HTML y CSS y hay que conocer los problemas y posibilidades de Javascript.
 5. **La tecnología es un medio**
    1. Por eso hay que conocer los soportes, resoluciones, tipos de pantallas, como renderiza un navegador… es asombroso que trabajemos en un medio y no sepamos como funciona internet. Ponle solución.
    2. A veces tomar un café con alguien de sistemas o ir a alguna conferencia técnica \(aunque solo entiendas un 10% puede ser el camino\).
