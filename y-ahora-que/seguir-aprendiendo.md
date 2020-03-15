@@ -8,7 +8,7 @@ Afortunadamente, aunque no todo lo que a mi me gustaría hay formación en Dise�
 
 * En [LinkedIn learning](https://www.linkedin.com/learning/me), donde trabajo, puedes formarte en software, procesos y soft y hard skills.
 * [Domestika](https://www.domestika.org/) está muy bien para aprender pequeñas parcelas de la profesión pero sobre todo para ver cómo trabajan otros profesionales del sector.
-* Puedes echarle un ojo a [platzi](https://platzi.com/categorias/diseno/) con una sección específica de diseño y tienen temas espefícos de diseño digital.
+* Puedes echarle un ojo a [platzi](https://platzi.com/categorias/diseno/) con una sección específica de diseño y tienen temas espefícos de diseño digital. Mola mucho que tengan un curso de [programación básica ](https://platzi.com/clases/programacion-basica/)en abierto.
 * Hay una cosa que no me gusta nada de ellos pero en la [interaction Design Foundation](https://www.interaction-design.org/courses/interaction-design-for-usability?ad-set=interaction-design-courses&utm_source=bing&utm_medium=cpc&utm_campaign=US%20%7C%20Generic&utm_term=interaction%20design%20courses&utm_content=Interaction%20Design%20Courses) hay recursos interesantes.
 * De las cosas que más me han servido es el [programa especializado en diseño de interacción ](https://www.coursera.org/specializations/interaction-design)que realicé en coursera.
 * Leer libros… de editoriales como [Rosenfeld](https://rosenfeldmedia.com/), a [book apart](https://abookapart.com/).
