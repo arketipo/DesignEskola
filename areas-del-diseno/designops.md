@@ -6,3 +6,7 @@ Mi compañero[ Armando Sotoca tiene un curso sobre el tema](https://www.linkedin
 
 Es una disciplina que sería el equivalente a DevOps.
 
+{% embed url="https://www.youtube.com/watch?v=p-bOnV8FRMQ" %}
+
+
+
