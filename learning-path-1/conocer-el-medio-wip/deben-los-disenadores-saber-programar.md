@@ -49,5 +49,5 @@ Puedes aprender código para usos distintos del trabajo diario pero que sin duda
 * **Phyton**
   * Un lenguaje de programación, que puede ser un gran punto de entrada a la programación y que además está muy ligado a trabajar con herramientas de 3D o diseño tipográfico.
 
-Mi conclusión es que a diferencia de lo que me decía mi madre **el saber sí ocupa lugar p**ero tener una buena base de otras disciplinas nos hará ser mucho mejores profesionales.
+Mi conclusión es que a diferencia de lo que me decía mi madre **el saber sí ocupa lugar** pero tener una buena base de otras disciplinas nos hará ser mucho mejores profesionales.
 
