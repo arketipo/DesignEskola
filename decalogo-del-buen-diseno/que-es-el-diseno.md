@@ -1,5 +1,7 @@
 # Qué es el Diseño
 
+> El Diseño es un proceso continuo de toma de decisiones
+
 Podríamos decir que **todo lo que tiene contacto con el ser humano está diseñado**. Los animales están diseñados, las plantas… por supuesto los objetos, las ciudades y últimamente somos tan pretenciosos que pretendemos diseñar las experiencias.
 
 En todo caso, el concepto es muy abierto y creo que es necesaria cierta reflexión y debate.
