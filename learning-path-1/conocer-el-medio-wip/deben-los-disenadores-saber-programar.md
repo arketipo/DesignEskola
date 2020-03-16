@@ -55,3 +55,11 @@ Puedes aprender código para usos distintos del trabajo diario pero que sin duda
 
 Mi conclusión es que a diferencia de lo que me decía mi madre **el saber sí ocupa lugar** pero tener una buena base de otras disciplinas nos hará ser mucho mejores profesionales.
 
+## Coding for Designers Book
+
+Un maravilloso recurso si quieres tener una buena base
+
+{% embed url="https://codingfordesignersbook.com" %}
+
+
+
