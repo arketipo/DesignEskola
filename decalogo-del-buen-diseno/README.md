@@ -2,18 +2,16 @@
 
 ## Según **Dieter Rams**
 
-* **Good Design Is Transparent**
-* **Good Design Considers Broad Consequences**
-* **Good Design Is Slow**
-* **Good Design Is Honest**
-* **Good Design Is Political**
-  * Libro - Design as politics
-* **Good Design Is Mindful Of Systems**
-* **Good Design Is Good Writing**
-  * Una de las razones de la disciplina UX writing
-* **Good Design Is Multifaceted**
-* **Good Design Takes Risks**
-* **Good Design Is For People–And Machines**
+1. **Good Design Is Transparent**
+2. **Good Design Considers Broad Consequences**
+3. **Good Design Is Slow**
+4. **Good Design Is Honest**
+5. **Good Design Is Political**
+6. **Good Design Is Mindful Of Systems**
+7. **Good Design Is Good Writing**
+8. **Good Design Is Multifaceted**
+9. **Good Design Takes Risks**
+10. **Good Design Is For People–And Machines**
 
 ## Mi visión sobre el buen Diseño
 
