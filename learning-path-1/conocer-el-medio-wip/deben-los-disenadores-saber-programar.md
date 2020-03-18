@@ -61,5 +61,9 @@ Un maravilloso recurso si quieres tener una buena base
 
 {% embed url="https://codingfordesignersbook.com" %}
 
+**Cómo hacerlo**
+
+{% embed url="https://www.smashingmagazine.com/2020/03/designers-code-terminal-text-editors-part-1/" %}
+
 
 
