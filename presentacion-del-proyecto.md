@@ -1,6 +1,6 @@
 # Presentación del proyecto
 
-{% embed url="https://studio.youtube.com/video/n4GzqWcIjhQ/edit" %}
+{% embed url="https://www.youtube.com/watch?v=n4GzqWcIjhQ&feature=youtu.be" %}
 
 
 
