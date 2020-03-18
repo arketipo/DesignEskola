@@ -1,4 +1,8 @@
-# ¿Deben los diseñadores saber programar?
+---
+description: ¿Deben los diseñadores saber programar?
+---
+
+# Código
 
 Como buen descendiente de gallegos creo que voy a responder con otra pregunta: ¿vas a trabar solo o vas a integrarte en un equipo?
 
