@@ -4,8 +4,6 @@ description: Un learning path para convertirnos en Diseñadores/as digitales
 
 # Presentación del proyecto
 
-{% embed url="https://www.youtube.com/watch?v=n4GzqWcIjhQ&feature=youtu.be" %}
-
 Vivimos, como dice la maldición China, en **tiempos interesantes**. Y ahora más que nunca necesitamos buenos diseñadores/diseñadoras que no solo resuelvan problemas sino necesidades de las personas. Pero no solo desde un punto de vista rentable y efectivo sino también ético y amigable con el entorno.
 
 Este proyecto no es más, ni menos, que una iniciativa personal de **Diego Rodríguez** \(@arketipo\) para crear **un repositorio que sirva de referencia a personas que quieran hacer del diseño su profesión y no tengan los recursos** para acceder a la formación existente. Ya sea por proximidad, economía o formación previa.
