@@ -77,7 +77,9 @@ Hay dos cosas clave que debes saber para retocar fotos una son los **niveles** y
 
 > ¿Fue una buena idea del diseñador que sea fácilmente reconocible quien usa una app de citas?
 
-\*\*\*\*
+## **Conocer los límites**
+
+Se puede hacer todo, es una cuestión de presupuesto
 
 **-------**
 
