@@ -170,9 +170,22 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
 
 #### Nociones
 
+* **Computational Thinking**
+* **Terminal** - la odio pero hay que aprender a usarla
+* **Git** - imprescindible para integrarse en equipos de trabajo
+
 #### Editores de código
 
+* [Sublime](https://www.sublimetext.com/) - un clásico
+* \*\*\*\*[**Visual Studio Code** ](https://code.visualstudio.com/)**- maravilloso**
+* [ModulZ](https://www.modulz.app/) - no hay que perderlo de vista
+
 #### Código visual
+
+* Processing
+* Paper.js
+* 5d.js
+* vvvv
 
 #### Diseño web
 
