@@ -221,6 +221,22 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
   * [Tableau](https://www.tableau.com/es-es)
   * [Grafana](https://grafana.com/)
 
+## TRABAJO EN EQUIPO
+
+A menos que seas Juan Palomo te va a tocar controlar de de Kanban, Agile, Scrum y otro montón de jerga de procesos y herramientas. Cuanto antes interiorices los conceptos mejor.
+
+* [Zeplin](https://zeplin.io/)
+* **Comunicación**
+  * Skype, zoom, hangout y similares
+  * Telegram y similares
+  * [Slack](https://slackhq.com/) - no le he pillado el punto pero es el canal más usado
+* **Git**
+  * [Github](https://github.com/) - designeskola está en githhub
+  * [Bitbucket](https://bitbucket.org/)
+  * [Go Abstract ](https://www.abstract.com/)- si los diseñadores también tenemos este tipo de herramientas
+  * [Sourcetree](https://www.sourcetreeapp.com/) - interfaz visual
+  * Git Kraken
+
 
 
 Hay [mucho más](https://duckduckgo.com/).
