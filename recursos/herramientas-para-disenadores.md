@@ -265,6 +265,17 @@ Sólo para el que sabe lo que hace
   * [prototypo.io](https://www.prototypo.io/)
   * [fontself.com](https://www.fontself.com/) - desde Photoshop o Illustrator
 
+## DISCIPLINAS RELACIONADAS
+
+* **Gamificación**
+  * Octalysis FrameWork
+
+## OTRAS UTILIDADES
+
+* [Editor de código de barras](http://online-barcode-generator.net/)
+
+
+
 
 
 Hay [mucho más](https://duckduckgo.com/).
