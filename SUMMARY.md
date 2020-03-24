@@ -17,7 +17,7 @@
     * [Moda](learning-path-1/1-educar-el-ojo/moda.md)
     * [Arte](learning-path-1/1-educar-el-ojo/arte.md)
     * [Trabajo personal](learning-path-1/1-educar-el-ojo/trabajo-personal.md)
-  * [Bases del Diseño \(WIP\)](learning-path-1/bases-del-diseno/README.md)
+  * [Bases del Diseño](learning-path-1/bases-del-diseno/README.md)
     * [Qué es el Diseño](learning-path-1/bases-del-diseno/que-es-el-diseno.md)
     * [Las personas](learning-path-1/bases-del-diseno/las-personas.md)
   * [Conocer el medio](learning-path-1/conocer-el-medio-wip.md)
