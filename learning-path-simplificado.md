@@ -4,7 +4,7 @@ description: Si solo vas a leer una sección… que sea esta
 
 # Learning Path simplificado
 
-Para ser diseñador/a digital. Qué debes saber unas cuantas cosas. **Diseña tu propio camino y mide tus avances, genera conexiones y aprovecha las oportunidades.** Hay mucha necesidad en el mundo de buenos diseñadores con conciencia, oficio y visión. Ojalá tu puedas ser uno de ellos.
+Para ser diseñador/a digital. Debes saber unas cuantas cosas. **Diseña tu propio camino y mide tus avances, genera conexiones y aprovecha las oportunidades.** Hay mucha necesidad en el mundo de buenos diseñadores con conciencia, oficio y visión. Ojalá tu puedas ser uno de ellos.
 
 Lo primero que habría que definir es que se necesita para ser un buen diseñador/a digital:
 
