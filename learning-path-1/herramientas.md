@@ -46,6 +46,10 @@ Cómo elegir una herramienta:
   * En su dia en la escuela de ingeniería de mi ciudad se rumoreaba que AutoCAD permitía el pirateo de su herramienta para ser un estándar en el mercado. ¿tiene sentido?
 * **Feeling**. Si no te sientes a gusto con una herramienta puede ser por una deficiente Experiencia de Usuario o simplemente porque no sea para ti. No todos podemos disfrutar del Ulysses de James Joyce y no implica ni que seamos tontos ni que el libro sea malo.
 
+{% embed url="https://www.youtube.com/watch?v=QOdIdG3\_Uhc" %}
+
+
+
 Dominar la herramienta:
 
 * **Estar abierto al cambio.** Suelo comentar a profesionales más jóvenes que yo que a veces la experiencia no es una ventaja. Sigo trabajando con mi sistema operativo como hace años cuando hay formas más eficientes que se han implementado. Simplemente no he sentido la necesidad, pero no podemos trabajar siempre igual.
@@ -89,7 +93,7 @@ En el entorno digital es aún más importante por conceptos como la escalabilida
 
 \*\*\*\*
 
-Es clave dominar una herramienta específica, ser resolutivo y optimizarlar y automatizarla en lo posible
+**Es clave dominar una herramienta específica, ser resolutivo y optimizarlar y automatizarla en lo posible**
 
-Ten una visión general de las herramientas de tu sector \(ver sección de Recursos &gt; Herramientas para Diseñadores\), elige una en base a preferencias y mercado y aprende todo lo que puedas sobre ella.
+Ten una **visión general** de las herramientas de tu sector \(ver sección de Recursos &gt; Herramientas para Diseñadores\), **elige** una en base a preferencias y mercado y **aprende** todo lo que puedas sobre ella.
 
