@@ -15,11 +15,13 @@ description: 'Son todas las que están, pero no están todas las que son'
 * [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)
 * [Adobe InDesign](https://www.adobe.com/products/indesign.html?sdid=KKQLR&mv=search&s_kwcid=AL!{ef_userid}!{ef_sid}!78958751833815!20541716242&ef_id=Xmt2DAAAAH2cI397:20200324104102:s)
 * [QuarkXpress](http://www.quark.com) -  En su dia el líder absoluto del mercado pero cometió varios errores, sigue "viva" y es una aplicación con cosas muy interesantes.
-* FrameMaker
+* [FrameMaker](https://www.adobe.com/es/products/framemaker.html)
 * RELACIONADOS
-  * MarkDown
-  * VuePress
-  * LaTex
+  * **MarkDown** - una buena inversión para formatear texto de manera ágil
+  * Documentar
+    * [Gitbook](https://www.gitbook.com/) - una grandísima opción. Sencilla y potente
+    * [VuePress](https://vuepress.vuejs.org/) - una plataforma de publicación basada en Vue
+  * **LaTex** - si quieres ir mucho más allá en publicación científica y académica
 
 ## VIDEO
 
