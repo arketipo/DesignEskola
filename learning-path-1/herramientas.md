@@ -61,6 +61,24 @@ Una vez le escuché a [Abel Sutilo](https://twitter.com/abelsutilo) que todos lo
 
 Se puede retocar una foto con capas de manera no destructiva, usando el fascinante modo LAB o creando un flujo de trabajo en nuestro revelador digital. Esta última es la más efectiva. Debemos medir la relación tiempo / esfuerzo porque tiene un impacto directo en  la rentabilidad. Y no olvidemos que **trabajamos por dinero.**
 
+## **Fidelidad**
+
+Si trabajas a gusto y cumple tus necesidades ¿de verdad necesitas cambiar de herramienta? hay que medir el esfuerzo económico, de tiempo y de fiabilidad antes de dar el paso. Nuestra capacidad de conocimiento es finita y debemos elegir bien nuestras batallas.
+
+> Los buenos diseñadores deben ser agnósticos a las modas
+
+## La base
+
+Hay dos cosas clave que debes saber para retocar fotos una son los **niveles** y otra las **curvas**, si comprendes bien como funcionan y tienes una buena base teórica la herramienta es lo de menos. Si esos tres elementos dará igual lo que uses, el resultado será mediocre.
+
+## Entender el entorno
+
+**Los mejores diseñadores gráficos** eran los que comprendían muy bien las artes gráficas, **los mejores diseñadores digitales** son los que entiendan el soporte en el que irán sus creaciones \(navegadores, dispositivos\) y las necesidades de las personas \(psicología, sociología, accesibilidad…\). Entender la situación \(física y social\) de cómo se usen los productos y servicios es clave.
+
+> ¿Fue una buena idea del diseñador que sea fácilmente reconocible quien usa una app de citas?
+
+\*\*\*\*
+
 **-------**
 
 \*\*\*\*
