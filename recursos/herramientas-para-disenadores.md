@@ -278,7 +278,7 @@ Sólo para el que sabe lo que hace
 
 Hay [mucho más](https://duckduckgo.com/).
 
-Si has llegado hasta aquí
+Si has llegado hasta aquí:
 
 ![](../.gitbook/assets/respect.gif)
 
