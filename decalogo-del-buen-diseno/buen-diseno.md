@@ -17,6 +17,10 @@ description: un respositorio con ejemplos de buen diseño
 
 ![](../.gitbook/assets/kafea.jpg)
 
+## Bello
+
+![Cuando veo un cadillac me acuerdo del mechero de mi padre](../.gitbook/assets/mechero-papa.jpg)
+
 ## Claro
 
 ![](../.gitbook/assets/01-buzon-bolonia.jpg)
@@ -48,6 +52,10 @@ description: un respositorio con ejemplos de buen diseño
 ## Ergonómico
 
 ![En una Biergarten se agradece poder apoyar la cabeza mientras creas espacio](../.gitbook/assets/biergarten.jpg)
+
+![Puedo trabajar de pie o sentado](../.gitbook/assets/taburete.jpg)
+
+![HCI](../.gitbook/assets/3dnavigator.jpg)
 
 ## Evocador
 
@@ -90,6 +98,8 @@ description: un respositorio con ejemplos de buen diseño
 
 
 ![Sistema de afeitado con m&#xED;nimos residuos y sin tecnolog&#xED;as propietarias](../.gitbook/assets/01-maquinilla.jpg)
+
+![La cafetera del estudio \(HHH\) est&#xE1; muy bien pensada](../.gitbook/assets/cafetera-estudio.jpg)
 
 ## Universal
 
