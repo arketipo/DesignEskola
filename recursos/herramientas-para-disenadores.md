@@ -4,52 +4,85 @@ description: 'Son todas las que están, pero no están todas las que son'
 
 # Herramientas
 
+Esta es mi selección no pretende ser completa pero si un punto de partida sobre el que investigar, evaluar y filtrar. Es importante crearnos nuestra propia caja de herramientas.
+
+En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus caminos.
+
 ## AUDIO
 
 * [Audacity](https://www.audacityteam.org/)
 * [Adobe Audition](https://www.adobe.com/es/products/audition.html?sdid=8JD95K3X&mv=search&s_kwcid=AL!{ef_userid}!{ef_sid}!79783402901472!79783508573356&ef_id=Xmt2DAAAAH2cI397:20200324103345:s)
-* [Audio Hijack ](https://rogueamoeba.com/audiohijack/)- La opción que yo utilizo para grabar audio. Fantástica
+* [**Audio Hijack** ](https://rogueamoeba.com/audiohijack/)**- La opción que yo utilizo para grabar audio. Fantástica**
 
 ## EDITORIAL
 
 * [Affinity Publisher](https://affinity.serif.com/en-gb/publisher/)
-* [Adobe InDesign](https://www.adobe.com/products/indesign.html?sdid=KKQLR&mv=search&s_kwcid=AL!{ef_userid}!{ef_sid}!78958751833815!20541716242&ef_id=Xmt2DAAAAH2cI397:20200324104102:s)
+* \*\*\*\*[**Adobe InDesign**](https://www.adobe.com/products/indesign.html?sdid=KKQLR&mv=search&s_kwcid=AL!{ef_userid}!{ef_sid}!78958751833815!20541716242&ef_id=Xmt2DAAAAH2cI397:20200324104102:s)\*\*\*\*
 * [QuarkXpress](http://www.quark.com) -  En su dia el líder absoluto del mercado pero cometió varios errores, sigue "viva" y es una aplicación con cosas muy interesantes.
 * [FrameMaker](https://www.adobe.com/es/products/framemaker.html)
 * RELACIONADOS
   * **MarkDown** - una buena inversión para formatear texto de manera ágil
   * Documentar
-    * [Gitbook](https://www.gitbook.com/) - una grandísima opción. Sencilla y potente
+    * [**Gitbook**](https://www.gitbook.com/) **- una grandísima opción. Sencilla y potente**
     * [VuePress](https://vuepress.vuejs.org/) - una plataforma de publicación basada en Vue
+    * Notion - no específica pero también puede usarse para documentar
   * **LaTex** - si quieres ir mucho más allá en publicación científica y académica
 
 ## VIDEO
 
-#### Preproducción
+### Preproducción
 
-* Guiones
-  * Scrivener
-* Gestión
-  * Studio Binder
-* StoryBoard
-  * Proiost Boardo
+* **Guiones**
+  * \*\*\*\*[**Scrivener**](https://www.literatureandlatte.com/scrivener/overview) **- lo que yo uso para mis proyectos de guión**
+* **Gestión**
+  * [Studio Binder](https://www.studiobinder.com/) - porque hay que tener los pies en el suelo
+* **StoryBoard**
+  * [Proiost Boardo](https://proloststore.com/products/boardo)
 
-#### Edición
+### Edición
 
 * iMovie
-* Filmora
+* [Filmora](https://filmora.wondershare.com/) - para mi la mejor opción de entrada
 * Final Cut X
 * Premiere
-* Da Vinci Resolve
+* \*\*\*\*[**Da Vinci Resolve**](https://www.blackmagicdesign.com/products/davinciresolve/) **- el software más potente y a precio más que razonable**
 
-#### Postproducción
+### Postproducción
 
+#### Videomapping
 
+* \*\*\*\*[**Resolume**](https://resolume.com/) **- lo que yo uso Un todo en uno**
+* [Mad Mapper ](https://madmapper.com/)- especializado
+* [Modul8](https://www.garagecube.com/modul8/) - para pinchar video VJ
+
+#### MooGraph \(Motion Graphics\)
+
+* **ANIMACIÓN**
+  * Adobe Character Animator
+  * Stop Motion
+    * Reflex + Disparador
+    * [iStop Motion](https://boinx.com/istopmotion/)
+    * [Dragon Frame](https://www.dragonframe.com/)
+  * Comic
+    * Cartoon
+    * Plugins
+  * html
+    * [Tumult Hype](https://tumult.com/hype/)
+    * [SVGator](https://www.svgator.com/)
+* **POSTPRODUCCIÓN**
+  * Apple Motion - para mi se ha quedado muy atrás
+  * [Blackmagic fusion ](https://www.blackmagicdesign.com/products/fusion/)- otra forma diferente de trabajar
+  * \*\*\*\*[**After Effects** ](https://www.adobe.com/products/aftereffects.html)**- el líder indiscutible de los motion graphics**
+  * [Cavalry](https://cavalry.scenegroup.co/) - a mi me ha sorprendido tiene algunas opciones muy interesantes y solo por estudiar su interfaz y experiencia merece la pena. Para algunos proyectos a tener muy en cuenta su evolución. Si no has empezado con After puede ser el mejor punto de entrada
+
+\*powerpoint y similares NO son programas de motiongraphics
 
 ## IMAGEN
 
 #### Retoque
 
+* [Affinity photo](https://affinity.serif.com/en-gb/photo/)
+* 
 #### Revelado
 
 #### Gestión
