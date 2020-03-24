@@ -2,7 +2,7 @@
 description: un respositorio con ejemplos de buen diseño
 ---
 
-# Buen Diseño
+# Ejemplos de "Buen Diseño"
 
 * El que es honesto
 * El que cumple sus objetivos
