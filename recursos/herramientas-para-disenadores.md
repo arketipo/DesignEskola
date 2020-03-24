@@ -87,20 +87,36 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
 * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
   * Yo lo uso cuando tengo que retocar en modo LAB
   * Te digan lo que te digan, NUNCA LO USES PARA DISEÑAR WEBS
+
+#### Revelado
+
+* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 * [Luminar](https://skylum.com/es/luminar?utm_source=bing&utm_medium=cpc&utm_campaign=Luminar_brand_search_bing_es&utm_term=exact&msclkid=b2645120353c188c07610f5a56c86a7b&utm_content=Luminar_exact)
 * [Darktable](https://www.darktable.org/)
 * \*\*\*\*[**Capture One** ](https://www.captureone.com/es-ES/)**- un gran revelador de archivos RAW**
   * Yo aprendíe con el gran Antonio de [Processing RAW](https://www.youtube.com/channel/UCt0ifJqOgvzxS0C7H-kHskQ/)
-* 
-#### Revelado
+* [Adobe Lightroom](https://lightroom.adobe.com)
 
 #### Gestión
 
+* Adobe Bridge
+* \*\*\*\*[**Photo Mechanic** ](https://home.camerabits.com/)**- super rápido**
+
 #### Ilustración
+
+* [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html)
+* [Affinity Designer](https://affinity.serif.com/es/designer/)
 
 #### 3D
 
+* Blender - gratuíto y superpotente
+* Maya
+* Cinema 4D
+* SketchUp - hubo un tiempo en que estaba enamorado de este software
 
+
+
+Hay [mucho más](https://duckduckgo.com/).
 
 Sigo escribiendo… ARF, ARF :\)
 
