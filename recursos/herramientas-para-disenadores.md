@@ -148,18 +148,33 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
   * [Protopie](https://www.protopie.io/)
   * [Principle](https://principleformac.com/)
   * [Proto.io](https://proto.io/)
-  * Origami studio
-  * Drama
+  * [Origami studio](https://origami.design/)
+  * [Drama](https://drama.app/)
 
 ### UX
 
 * [InVision](https://www.invisionapp.com/)
+* [Axure](https://www.axure.com)
 * [Framer](https://www.framer.com/)
 * [UXBox](https://uxbox.io/) - una opción, open source, muy interesante de la gente de [Kaleidos](https://kaleidos.net/)
+* **TÉCNICAS**
+  * [Personas](https://www.hubspot.com/make-my-persona)
+  * [Miro](https://miro.com/) - muy completo
 
 ### RESEARCH
 
+* [UserBit](https://userbitapp.com/)
+* [UserZoom](https://www.userzoom.com/) - para grandes cuentas
+
 ### CÓDIGO
+
+#### Nociones
+
+#### Editores de código
+
+#### Código visual
+
+#### Diseño web
 
 
 
