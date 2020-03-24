@@ -83,7 +83,7 @@ Se puede hacer todo, es una cuestión de presupuesto pero conseguir los mejores 
 
 Mi colega [Núria Vila ](https://www.instagram.com/nu_vila/)es especialista en diseño de bajo impacto y soluciones creativas de packaging. Consigue con muy poco grandes resultados.
 
-En el entorno digital es aún más importante por conceptos como la escalabilidad, la disponibilidad del servicio, el consumo energético o el impacto y la comunicación. Pensemos simplemente que unas imágenes mal optimizadas en miles de visitas es un gasto importante. Un diseñador que sepa aprovechar los recursos al máximo.
+En el entorno digital es aún más importante por conceptos como la escalabilidad, la disponibilidad del servicio, el consumo energético o el impacto y la comunicación. Pensemos simplemente que unas imágenes mal optimizadas en miles de visitas es un gasto importante. Un diseñador que sepa aprovechar los recursos al máximo, usar sistemas ligeros en vez de pesados CMS o temas de lazywebs son importantes.
 
 **-------**
 
