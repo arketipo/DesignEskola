@@ -1,6 +1,10 @@
+---
+description: …que todo el mundo debería saber
+---
+
 # 100 cosas sobre Diseño
 
-…que todo el mundo debería saber
+![](.gitbook/assets/todo-lo-que-deberias-saber.jpg)
 
 * **El Diseño NO es arte**, aunque compartan técnicas, inspiración, procesos… En su libro "Design as Art" que habla sobre el tema Bruno Munari propone que sean los artistas los que se conviertan en diseñadores. Un poco siguiendo el model de Jeff Koons o la factoria de Warhol. El diseño debe ser reproducible en serie y responder a una necesidad. El arte es libre. Muy recomendable este libro si como yo tienes prejuicios con el arte moderno.
 * Si tienes un **bloqueo creativo** puede ser por dos razones: falta de concepto, falta de conocimientos… si no es por ninguna de las dos causas la solución es dejarlo e ir a hacer dar un paseo, nadar…
