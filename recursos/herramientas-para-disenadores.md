@@ -182,10 +182,11 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
 
 #### Código visual
 
-* Processing
-* Paper.js
-* 5d.js
-* vvvv
+* [Processing](https://processing.org/)
+* [vvvv](https://vvvv.org/)
+* [5d.js](https://p5js.org/)
+* [Paper.js -](http://paperjs.org/) librería de javascript que trabaja con vectores
+  * Hay cientos de recursos de este estilo con funcionalidades concretas
 
 #### Diseño web
 
