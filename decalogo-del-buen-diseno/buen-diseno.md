@@ -37,6 +37,10 @@ description: un respositorio con ejemplos de buen diseño
 
 ![El usuario no tiene la culpa](../.gitbook/assets/vaya.png)
 
+## Eficaz
+
+
+
 ## Ergonómico
 
 ![En una Biergarten se agradece poder apoyar la cabeza mientras creas espacio](../.gitbook/assets/biergarten.jpg)
@@ -44,6 +48,10 @@ description: un respositorio con ejemplos de buen diseño
 ## Humor
 
 ![&#xBF;Quien dijo que el buen dise&#xF1;o tiene que ser serio?](../.gitbook/assets/dani.jpg)
+
+## Inmortal
+
+![El mejor invento de la historia](../.gitbook/assets/libros-diego.jpg)
 
 ## Imperecedero
 
