@@ -93,11 +93,37 @@ Mi colega [Núria Vila ](https://www.instagram.com/nu_vila/)es especialista en d
 
 En el entorno digital es aún más importante por conceptos como la escalabilidad, la disponibilidad del servicio, el consumo energético o el impacto y la comunicación. Pensemos simplemente que unas imágenes mal optimizadas en miles de visitas es un gasto importante. Un diseñador que sepa aprovechar los recursos al máximo, usar sistemas ligeros en vez de pesados CMS o temas de lazywebs son importantes.
 
-**-------**
+## Si quieres ir lejos…
 
-\*\*\*\*
+El dicho dice que solo vas rápido pero necesitas compañeros de viaje para llegar lejos, por eso una de las capacidades más importantes que debes tener es la capacidad de trabajar en equipo.
 
-**Es clave dominar una herramienta específica, ser resolutivo y optimizarlar y automatizarla en lo posible**
+* Dar feedback
+* Comunicación
+
+Y para todo esto se utilizan herramientas y métodos de trabajo. Herramientas de videoconferencia, chats asíncronos, gestión de tareas y proyectos y sobre todo trabajo con repositorios y control de versiones. Lo importante es que asimiles los conceptos y la filosofía que subyace. 
+
+{% embed url="https://www.youtube.com/watch?v=o90o6Oassec" %}
+
+
+
+## Soft y Hard
+
+Las Hard Skills son las que se aprenden de manera reglada y están relacionadas directamente con tu disciplina pero no son menos importantes las soft skills que aunque parezcan complementarias son las que dan el salto de un buen profesional a uno que es diferencial y aglutinador.
+
+Desde comunicación verbal y escrita a trabajo con números…  puede que no te lo plantees pero Gastronomía, Teatro, etc pueden ser un gran soporte para que seas mejor diseñador.
+
+## **En resumen**
+
+* Trabaja en tus fortalezas \(herramienta\).
+* Invierte en tus debilidades, solo si son claves para tu desempeño profesional.
+* Tu perfil se compone de hard y soft skills, busca el balance.
+* Ni pato ni halcón… perfil en "T".
+* Se fiel a tu herramienta, cuídala… y si consigues enamorarte de ella mejor sobre todo si es correspondido.
+* Invierte en dominar los conceptos \(lee, relee y piensa y para afianzar debate y enseña\).
+* Pocas herramientas y especializadas
+* Vete a la fuente y esfuérzate en saber quein 
+
+> Es clave dominar una herramienta específica, ser resolutivo y optimizarlar y automatizarla en lo posible
 
 Ten una **visión general** de las herramientas de tu sector \(ver sección de Recursos &gt; Herramientas para Diseñadores\), **elige** una en base a preferencias y mercado y **aprende** todo lo que puedas sobre ella.
 

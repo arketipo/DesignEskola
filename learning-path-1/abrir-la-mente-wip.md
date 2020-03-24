@@ -1,6 +1,8 @@
-# Abrir la mente
+---
+description: Se puede aprender mucho de otras disciplinas… y de hecho es muy recomendable.
+---
 
-Se puede aprender mucho de otras disciplinas… y de hecho es muy recomendable.
+# Abrir la mente
 
 ## Gastronomía
 

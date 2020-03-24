@@ -276,11 +276,13 @@ Sólo para el que sabe lo que hace
 
 
 
-
-
 Hay [mucho más](https://duckduckgo.com/).
 
-Sigo escribiendo… ARF, ARF :\)
+Si has llegado hasta aquí
+
+![](../.gitbook/assets/respect.gif)
+
+
 
 
 
