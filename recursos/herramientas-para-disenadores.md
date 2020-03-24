@@ -235,7 +235,17 @@ A menos que seas Juan Palomo te va a tocar controlar de de Kanban, Agile, Scrum 
   * [Bitbucket](https://bitbucket.org/)
   * [Go Abstract ](https://www.abstract.com/)- si los diseñadores también tenemos este tipo de herramientas
   * [Sourcetree](https://www.sourcetreeapp.com/) - interfaz visual
-  * Git Kraken
+  * [**Git Kraken**](https://www.gitkraken.com/) **- editor con diseño cuidado**
+* **Gestión de proyectos**
+  * [Pagico](https://www.pagico.com/) - es lo que uso aunque no me convence al 100%
+  * [Produck.io](https://www.produck.io/)
+  * [Jira](https://www.atlassian.com/software/jira)
+* **Espacios de trabajo**
+  * Confluence
+  * Basecamp
+  * Avocode
+* **Documentación**
+  * Gitbook, Vuepress, Notion, Evernote…
 
 
 
