@@ -40,17 +40,17 @@ Dentro de la profesión he escuchado frases como estas que puede ayudar a delimi
 
 ## El diseño para mi
 
-‌Es sin duda "El vehículo de la comunicación". 
+‌Es sin duda **"El vehículo de la comunicación".** 
 
-También es una manera de intermediar entre la tecnología y las personas.
+También es una manera de **intermediar entre la tecnología y las personas**.
 
 El diseño también tiene que ver con el proceso y la metodología que seguimos tanto para crear un producto como plantear un servicio.
 
 No es una disciplina "estanca". Debe estar en contacto con muchos agentes distintos, desde usuarios, proveedores y distintas profesiones que tienen mucho que aportar a la disciplina.
 
-La disciplina se comporta con una aproximación al problema desde distintos ángulos, tratando de observar, descurbrir y explorar la situación desde todos los ángulos posibles.
+La disciplina se comporta con una aproximación al problema desde distintos ángulos, tratando de observar, descubrir y explorar la situación desde todos los ángulos posibles.
 
-No es solo una disciplina estética. Se debe combinar el análisis de las necesidades \(empresa, personas…\) con el desarrollo de soluciones creativas y efectivas.
+> No es solo una disciplina estética. Se debe combinar el análisis de las necesidades \(empresa, personas…\) con el desarrollo de soluciones creativas y efectivas.
 
-Y por último decir que el buen diseñador sabe que no hay soluciones ideales ni únicas y hay que estar abierto a la incertidumbre y al cambio.
+Y por último decir que **el buen diseñador sabe que no hay soluciones ideales ni únicas** y hay que estar **abierto a la incertidumbre y al cambio**.
 
