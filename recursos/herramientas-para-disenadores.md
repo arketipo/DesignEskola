@@ -190,6 +190,37 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
 
 #### Diseño web
 
+* **No Code**
+  * [WebFlow](https://webflow.com/)
+  * Squarespace
+* **CMS**
+  * **Generalistas**
+    * [WordPress](https://es.wordpress.com/) - para lo bueno y para lo malo
+    * Joomla
+    * Drupal
+  * **E-commerce**
+    * \*\*\*\*[**Shopify**](https://www.shopify.com/) **- potente y sencillo, a nivel de diseño el mejor**
+      * Muy bueno su blog y su canal de youtube
+    * [Prestashop](https://www.prestashop.com)
+    * [Magento](https://magento.com/)
+* **Sitios estáticos**
+  * [Jekyll](https://jekyllrb.com/)
+  * [Kirby](https://getkirby.com/)
+  * [Hugo](https://gohugo.io/)
+  * [Publii](https://getpublii.com/) - lo que uso yo en mi web. No necesito más
+    * Mejor pensado a nivel de uso
+  * [Carrd.io](https://carrd.co/)
+* Frameworks. Importante conocer el lenguaje de nuestros compañeros técnicos, posibilidades, etc
+  * Vue
+  * Angular
+  * Node
+* **DDD**
+  * Hotjar
+  * Google Analytics
+* **Visualización de datos**
+  * [Tableau](https://www.tableau.com/es-es)
+  * [Grafana](https://grafana.com/)
+
 
 
 Hay [mucho más](https://duckduckgo.com/).
