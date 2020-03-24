@@ -2,7 +2,7 @@
 description: 'Son todas las que están, pero no están todas las que son'
 ---
 
-# Herramientas para Diseñadores
+# Herramientas
 
 ## AUDIO
 
