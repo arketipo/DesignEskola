@@ -109,10 +109,50 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
 
 #### 3D
 
-* Blender - gratuíto y superpotente
-* Maya
-* Cinema 4D
-* SketchUp - hubo un tiempo en que estaba enamorado de este software
+* [Blender](https://www.blender.org/) - gratuíto y superpotente
+* [Maya](https://www.autodesk.es/products/maya/overview)
+* [Cinema 4D](https://www.maxon.net/es/productos/cinema-4d/cinema-4d/) - líder en motion para audiovisuales
+* \*\*\*\*[**SketchUp**](https://www.sketchup.com/) **- hubo un tiempo en que estaba enamorado de este software**
+  * [https://3dwarehouse.sketchup.com/](https://3dwarehouse.sketchup.com/)
+* **MOTORES DE RENDER**
+  * Octane
+  * Maxwell
+  * etc.
+* **MODELADO**
+  * [ZBrush](http://pixologic.com/) - modelado de personajes y escultura orgánica
+  * Escaneado 3D
+* **MOCKUPS**
+  * [Boxshot](https://boxshot.com/boxshot/) - lo que uso en la oficina
+  * [Adobe Dimension](https://www.adobe.com/products/dimension.html)
+  * [Yellow Images ](https://yellowimages.com/)- mockups de photoshop con smart objects
+    * Una buena referencia que puedes hacer tu mismo con fotos y capas
+  * [threed.io](https://threed.io/) - mockups de dispositivos
+* RECURSOS
+  * Materiales
+  * Modelos
+
+## DISEÑO DIGITAL
+
+### UI
+
+* [Sketch](https://www.sketch.com/)
+* [Figma](https://www.figma.com/)
+* [Adobe XD](https://www.adobe.com/products/xd.html)
+* Framer
+* InVision
+
+#### Prototipado
+
+* Wireframing
+  * Balsamiq
+* Alta fidelidad
+  * 
+
+### UX
+
+### RESEARCH
+
+### CÓDIGO
 
 
 
