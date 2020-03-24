@@ -16,3 +16,7 @@ Picasso era un consumado dibujante naturalista… así que ante todo humildad.
 
 Nuestro mundo es visual, tenemos cientos de horas de televisión y cine en nuestro cerebro, miles de horas de anuncios y referencias de todo tipo de paisajes, objetos… que conforman nuestro universo visual.
 
+{% embed url="https://principles.design/" %}
+
+
+
