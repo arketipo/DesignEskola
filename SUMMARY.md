@@ -26,6 +26,8 @@
   * [Abrir la mente](learning-path-1/abrir-la-mente-wip.md)
   * [Herramientas](learning-path-1/herramientas.md)
 * [Recursos](recursos/README.md)
+  * [Herramientas para Diseñadores](recursos/herramientas-para-disenadores/README.md)
+    * [La terminal](recursos/herramientas-para-disenadores/la-terminal.md)
   * [Empresas y Profesionales](recursos/empresas-y-profesionales.md)
   * [Escuchar](recursos/escuchar.md)
   * [Formación](recursos/formacion.md)
