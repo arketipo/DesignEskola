@@ -8,7 +8,11 @@ Aunque compartamos conocimientos, técnicas y métodos con ingenieros o artistas
 
 No es una verdad categórica sino mi aproximación personal y en todo caso un debate muy interesante.
 
-Lo que si tengo a fuego es la importancia de las herramientas que utilicemos
+Lo que si tengo a fuego es la importancia de las herramientas que utilicemos.
+
+No es lo mismo una aproximación a la carpintería desde un punto de vista tradicional japonés que con herramientas eléctricas. En ambos casos podemos tener acabados fantásticos pero los tiempos, filosofía, productividad y forma de diseñar no tendrá nada que ver.
+
+{% embed url="https://www.youtube.com/watch?v=qSPob8zm77Q" %}
 
 ## Lápiz y Papel
 
