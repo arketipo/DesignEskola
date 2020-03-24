@@ -241,11 +241,29 @@ A menos que seas Juan Palomo te va a tocar controlar de de Kanban, Agile, Scrum 
   * [Produck.io](https://www.produck.io/)
   * [Jira](https://www.atlassian.com/software/jira)
 * **Espacios de trabajo**
-  * Confluence
-  * Basecamp
-  * Avocode
+  * [Confluence](https://www.atlassian.com/software/confluence)
+  * [Basecamp](https://basecamp.com/)
+  * [Avocode](https://avocode.com/)
 * **Documentación**
   * Gitbook, Vuepress, Notion, Evernote…
+  * [docsify](https://docsify.js.org)
+
+## TIPOGRAFÍA
+
+### Gestores de Tipografía
+
+* Catálogo tipográfico \(mac\), FontXplorer, etc
+
+### Editores de Fuentes
+
+Sólo para el que sabe lo que hace
+
+* [Fontlab](https://www.fontlab.com/) - muchas herramientas y software profesional
+* [Glyphs](https://glyphsapp.com) - la versión mini es más que suficiente para mi
+* [Robofont](https://robofont.com) - pro
+* **Experimentos**
+  * [prototypo.io](https://www.prototypo.io/)
+  * [fontself.com](https://www.fontself.com/) - desde Photoshop o Illustrator
 
 
 

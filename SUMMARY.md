@@ -25,6 +25,7 @@
   * [Código](learning-path-1/deben-los-disenadores-saber-programar.md)
   * [Procesos](learning-path-1/procesos-wip.md)
   * [Abrir la mente](learning-path-1/abrir-la-mente-wip.md)
+  * [Ortotipografía](learning-path-1/ortotipografia.md)
 * [Recursos](recursos/README.md)
   * [Herramientas](recursos/herramientas-para-disenadores.md)
   * [Empresas y Profesionales](recursos/empresas-y-profesionales.md)
