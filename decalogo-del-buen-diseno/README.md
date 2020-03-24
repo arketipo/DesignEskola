@@ -13,7 +13,13 @@
 9. **Good Design Takes Risks**
 10. **Good Design Is For People–And Machines**
 
+{% embed url="https://www.youtube.com/watch?v=-mlAdcQZZAM" %}
+
+\*\*\*\*
+
 ## Mi visión sobre el buen Diseño
+
+Para mi el Diseño debe resolver problemas/necesidades, ser rentable, efectivo y tener un componente ético y consciente.
 
 * **Transparente**
 * **Armonioso**
