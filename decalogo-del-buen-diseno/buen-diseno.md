@@ -39,11 +39,19 @@ description: un respositorio con ejemplos de buen diseño
 
 ## Eficaz
 
+![No se si error o  genialidad pero este logo siempre me invita a graduarme la vista](../.gitbook/assets/medical-logo.jpg)
 
+## Eficiente
+
+![Gira el rodillo, no el mango](../.gitbook/assets/rodillo-giratorio.jpg)
 
 ## Ergonómico
 
 ![En una Biergarten se agradece poder apoyar la cabeza mientras creas espacio](../.gitbook/assets/biergarten.jpg)
+
+## Evocador
+
+![Viajo en el tiempo con cosas como est&#xE1;](../.gitbook/assets/mostaza.jpg)
 
 ## Humor
 
@@ -63,9 +71,13 @@ description: un respositorio con ejemplos de buen diseño
 
 ![Recuerdo que dise&#xF1;amos en un encuentro sobre el Dise&#xF1;o y la Producci&#xF3;n local](../.gitbook/assets/baldosa-porcelana.jpg)
 
+## Perdurable
+
 ## Sistematizable
 
 ![La tipograf&#xED;a modular el m&#xE1;s exitoso sistema de dise&#xF1;o fam&#xE1;s inventado](../.gitbook/assets/arketipo-type.jpg)
+
+![Los universos visuales permiten crear familiaridad en entornos diversos](../.gitbook/assets/oiz.jpg)
 
 ## Seguro
 
@@ -88,6 +100,8 @@ description: un respositorio con ejemplos de buen diseño
 ![Mi parka tiene dos forros extra&#xED;bles pasando de un ligero chubasquero a evitar las balas](../.gitbook/assets/forros.jpg)
 
 ![Dos p&#xE1;jaros de un tiro](../.gitbook/assets/fuente.jpg)
+
+![El marcap&#xE1;ginas de Blackie Books](../.gitbook/assets/pua-blackie.jpg)
 
 ![Cubriendo necesidades profanas y divinas :\)](../.gitbook/assets/iglesia-fronton.jpg)
 
