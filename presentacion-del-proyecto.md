@@ -22,3 +22,9 @@ Si queremos una disciplina realmente efectiva debemos promover la diversidad, la
 
 [http://www.arketipo.net/formulario.html](http://www.arketipo.net/formulario.html)
 
+
+
+## Pull Requests allowed
+
+[https://github.com/arketipo/DesignEskola](https://github.com/arketipo/DesignEskola)
+
