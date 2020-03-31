@@ -127,6 +127,7 @@ En **negrita** lo que yo uso y recomiendo pero es mejor que cada uno elija sus c
   * [Yellow Images ](https://yellowimages.com/)- mockups de photoshop con smart objects
     * Una buena referencia que puedes hacer tu mismo con fotos y capas
   * [threed.io](https://threed.io/) - mockups de dispositivos
+  * [animockup.com](https://animockup.com/) - mockups móviles animados
 * RECURSOS
   * Materiales
   * Modelos
