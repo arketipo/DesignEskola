@@ -6,7 +6,7 @@ description: 'https://start.uxdesign.cc/'
 
 ### Una traducción autorizada del fantástico proyecto de [Fabrizio](https://uxdesign.cc/@fabriciot), [Caio](https://uxdesign.cc/@caioab) y resto de equipo de [uxdesign.cc](www.uxdesign.cc)
 
-Los links originaes están debajo del título de cada sección. Si puedes leelo en inglés, si no tienes el nivel suficiente es el momento de empezar a trabajarlo porque es algo clave para trabajar en diseño digital.
+Los links originales están debajo del título de cada sección. Si puedes leelo en inglés, si no tienes el nivel suficiente es el momento de empezar a trabajarlo porque es algo clave para trabajar en diseño digital.
 
 ![Ilustraciones de Michela Picchi \(instagram.com/michelapicchi\)](../.gitbook/assets/imagen.png)
 
