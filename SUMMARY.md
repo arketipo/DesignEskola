@@ -4,6 +4,7 @@
 * [Presentación del proyecto](presentacion-del-proyecto.md)
 * [Quién soy](qui-n-soy.md)
 * [¡Disclaimer!](disclaimer.md)
+* [¡How to start!](how-to-start.md)
 * [Learning Path simplificado](learning-path-simplificado.md)
 * [100 cosas sobre Diseño](100-cosas-sobre-dise-o.md)
 * [Cómo empezar en el sector del diseño digital](como-empezar-en-el-sector-del-diseno-digital.md)
