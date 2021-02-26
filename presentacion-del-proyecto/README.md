@@ -4,7 +4,7 @@ description: Un learning path para convertirnos en Diseñadores/as digitales
 
 # Presentación del proyecto
 
-![Creo en crear oportunidades&#x2026; es lo que me motiva a seguir trabajando](.gitbook/assets/115dissabte.jpg)
+![Creo en crear oportunidades&#x2026; es lo que me motiva a seguir trabajando](../.gitbook/assets/115dissabte.jpg)
 
 Vivimos, como dice la maldición China, en **tiempos interesantes**. Y ahora más que nunca necesitamos buenos diseñadores/diseñadoras que no solo resuelvan problemas sino necesidades de las personas. Pero no solo desde un punto de vista rentable y efectivo sino también ético y amigable con el entorno.
 

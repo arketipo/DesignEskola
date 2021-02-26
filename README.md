@@ -1,5 +1,5 @@
 ---
-description: Cómo convertirse en Diseñador/a Digital
+description: by arketipo @2021
 ---
 
 # DesignEskola
