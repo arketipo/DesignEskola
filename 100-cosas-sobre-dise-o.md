@@ -2,7 +2,7 @@
 description: …que todo el mundo debería saber
 ---
 
-# 100 cosas sobre Diseño
+# Cien cosas sobre Diseño
 
 ![](.gitbook/assets/todo-lo-que-deberias-saber.jpg)
 

@@ -5,7 +5,7 @@
   * [¡Disclaimer!](presentacion-del-proyecto/disclaimer.md)
 * [Quién soy](qui-n-soy.md)
 * [Learning Path simplificado](learning-path-simplificado.md)
-* [100 cosas sobre Diseño](100-cosas-sobre-dise-o.md)
+* [Cien cosas sobre Diseño](100-cosas-sobre-dise-o.md)
 * [Cómo empezar en el sector del diseño digital](como-empezar-en-el-sector-del-diseno-digital.md)
 * [El buen Diseño](decalogo-del-buen-diseno/README.md)
   * [Qué es el Diseño](decalogo-del-buen-diseno/que-es-el-diseno.md)
