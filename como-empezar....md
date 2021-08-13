@@ -1,8 +1,8 @@
 ---
-description: Hablamos de Diseño de productos digitales
+description: 'Hablamos de Diseño de productos digitales en startups, consultoras, compañías…'
 ---
 
-# Cómo empezar…
+# Cómo empezar en Diseño Digital…
 
 ## Éste es un gran comienzo
 
