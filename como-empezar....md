@@ -1,6 +1,10 @@
+---
+description: Hablamos de Diseño de productos digitales
+---
+
 # Cómo empezar…
 
-## Este es un gran comienzo
+## Éste es un gran comienzo
 
 {% embed url="https://start.uxdesign.cc/" %}
 
