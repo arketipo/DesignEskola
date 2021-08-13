@@ -7,7 +7,7 @@ description: Diego Rodríguez (@arketipo)
 * No busco trabajo.
 * No me interesa el tema de la "marca personal".
 * Esto no es un funnel de ventas.
-* No hay una marca detrás. DesignEskola es un proyecto personal y sin ánimo de lucro de Diego Rodríguez \(arketipo.net\)
+* No hay una empresa detrás. DesignEskola es un proyecto personal y sin ánimo de lucro de Diego Rodríguez \(arketipo.net\).
 * No busco tener razón… todo lo contrario, crear debate y ver otros puntos de vista.
 * Solo busco difundir sobre la disciplina del Diseño y crear oportunidades para los que lo tienen más complicado para acceder al sector.
 
