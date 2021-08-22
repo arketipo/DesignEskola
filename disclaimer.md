@@ -2,7 +2,7 @@
 description: Diego Rodríguez (@arketipo)
 ---
 
-# Disclaimer
+# Disclaimer (editado desde github)
 
 * No busco trabajo.
 * No me interesa el tema de la "marca personal".
