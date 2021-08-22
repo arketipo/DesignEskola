@@ -24,7 +24,3 @@ Con el objetivo de generar conocimiento y sensibilidad hacia el Diseño. Discipl
 
 Allí nos vemos.
 
-
-
-
-
