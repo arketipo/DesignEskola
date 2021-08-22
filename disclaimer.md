@@ -4,7 +4,7 @@ description: Diego Rodríguez (@arketipo)
 
 # Disclaimer
 
-* No busco trabajo.  (editado desde github)
+* No busco trabajo.  \(editado desde github\)
 * No me interesa el tema de la "marca personal".
 * Esto no es un funnel de ventas.
 * No hay una empresa detrás. DesignEskola es un proyecto personal y sin ánimo de lucro de Diego Rodríguez \(arketipo.net\).
@@ -17,7 +17,7 @@ Después de muchos años creando comunidades tecnológicas, divulgando sobre dis
 
 **Si te puedo echar una mano…**
 
-{% embed url="https://arketipo.typeform.com/to/uflOqH" %}
+{% embed url="https://arketipo.typeform.com/to/uflOqH" caption="" %}
 
 \*\*\*\*
 
