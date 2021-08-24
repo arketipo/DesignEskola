@@ -14,7 +14,7 @@ description: Diego Rodríguez (@arketipo)
 
 **Quien soy…**
 
-Después de muchos años creando comunidades tecnológicas, divulgando sobre diseño, montando proyectos… y currando, no pierdo la esperanza de aprovechar las oportunidades y ayudar a crear un sector más diverso. En la parte superior de esta página tienes mis perfiles profesionales y personales.
+Después de muchos años creando comunidades tecnológicas, divulgando sobre diseño, montando proyectos… y currando, no pierdo la esperanza de aprovechar las oportunidades y ayudar a crear un sector más diverso. **En la parte superior de esta página tienes mis perfiles profesionales y personales.**
 
 **Si te puedo echar una mano…**
 
