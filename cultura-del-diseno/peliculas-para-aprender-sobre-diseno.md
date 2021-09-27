@@ -64,12 +64,6 @@ Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com/) no habr�
 
 {% embed url="https://www.youtube.com/watch?v=iyb6gC8St\_U" %}
 
-## La singularidad
-
-El branding es algo que debe estar presente en todos nuestros proyectos y sobre todo en nuestra manera de pensar. Se aprende mucho de los músicos: crean, arriesgan, tienen altibajos, crean lenguajes propios…
-
-{% embed url="https://www.filmin.es/pelicula/michel-petrucciani" %}
-
 ## Data Driven
 
 Creo que hay cierta obsesión con OKR, métrica, análisis… no está de más no olvidar nunca que detrás de los números hay personas.
