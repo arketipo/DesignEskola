@@ -8,7 +8,7 @@ description: >-
 
 ## Si el mundo real os pilla muy lejos
 
-El cine de Ken Loach y Paul Averty
+El cine de Ken Loach y Paul Averty.
 
 {% embed url="https://www.youtube.com/watch?v=ahWgxw9E\_h4" %}
 
