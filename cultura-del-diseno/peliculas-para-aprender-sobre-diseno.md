@@ -76,6 +76,16 @@ Creo que hay cierta obsesión con OKR, métrica, análisis… no está de más n
 
 {% embed url="https://www.filmin.es/pelicula/la-vida-de-los-otros" %}
 
+## Sobre el gusto del consumidor
+
+Una película de la que hablo habitualmente para generar debate.
+
+{% embed url="https://www.youtube.com/watch?v=wwYfI0rRQuk" %}
+
+
+
+Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es/).
+
 
 
 
