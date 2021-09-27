@@ -54,5 +54,11 @@ Desde H. R. Giger a Álex de la Iglesia son necesarios profesionales del campo v
 
 Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com/) no habría sido posible.
 
+## Entender a las personas
+
+{% embed url="https://www.youtube.com/watch?v=iyb6gC8St\_U" %}
+
+
+
 
 
