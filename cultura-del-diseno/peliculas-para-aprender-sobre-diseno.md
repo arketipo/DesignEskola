@@ -82,6 +82,12 @@ Una película de la que hablo habitualmente para generar debate.
 
 {% embed url="https://www.youtube.com/watch?v=wwYfI0rRQuk" %}
 
+## Psicología y Comportamiento
+
+{% embed url="https://www.youtube.com/watch?v=64Iv3euFCD0" %}
+
+{% embed url="https://www.youtube.com/watch?v=7-HfQJvtjdQ" %}
+
 
 
 Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es/).
