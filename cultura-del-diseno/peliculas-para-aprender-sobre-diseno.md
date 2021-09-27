@@ -40,7 +40,19 @@ Por que antes del documental de las impresoras ya nos habían avisado en "El hom
 
 {% embed url="https://www.youtube.com/watch?v=nNYH5GOh9Rc" %}
 
+## Universos visuales
 
+Tim Burton, Wes Anderson… pero creo que hay que como diseñadores tenemos que ver la obra de Jacques Tati
+
+{% embed url="https://www.youtube.com/watch?v=NHJcwMrqnJo" %}
+
+## Diseñadoras para el cine
+
+Desde H. R. Giger a Álex de la Iglesia son necesarios profesionales del campo visual para hacer posibles estas obras.
+
+{% embed url="https://www.youtube.com/watch?v=1Fg5iWmQjwk" %}
+
+Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com/) no habría sido posible.
 
 
 
