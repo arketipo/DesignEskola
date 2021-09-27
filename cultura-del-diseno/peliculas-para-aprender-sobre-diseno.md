@@ -46,6 +46,12 @@ Tim Burton, Wes Anderson… pero creo que hay que como diseñadores tenemos que 
 
 {% embed url="https://www.youtube.com/watch?v=NHJcwMrqnJo" %}
 
+Mi hija me odia por ponérsela de pequeñita, pero visualmente es fantástica.
+
+{% embed url="https://www.youtube.com/watch?v=ULgsafJJNQ0" %}
+
+
+
 ## Diseñadoras para el cine
 
 Desde H. R. Giger a Álex de la Iglesia son necesarios profesionales del campo visual para hacer posibles estas obras.
@@ -57,6 +63,22 @@ Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com/) no habr�
 ## Entender a las personas
 
 {% embed url="https://www.youtube.com/watch?v=iyb6gC8St\_U" %}
+
+## La singularidad
+
+El branding es algo que debe estar presente en todos nuestros proyectos y sobre todo en nuestra manera de pensar. Se aprende mucho de los músicos: crean, arriesgan, tienen altibajos, crean lenguajes propios…
+
+{% embed url="https://www.filmin.es/pelicula/michel-petrucciani" %}
+
+## Data Driven
+
+Creo que hay cierta obsesión con OKR, métrica, análisis… no está de más no olvidar nunca que detrás de los números hay personas.
+
+{% embed url="https://www.filmin.es/pelicula/la-vida-de-los-otros" %}
+
+
+
+
 
 
 
