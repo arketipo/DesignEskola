@@ -28,6 +28,18 @@ Maravillosa película en que cada fotograma es una imagen fantástica. Para verl
 
 {% embed url="https://www.youtube.com/watch?v=EH3zcuRQXNo" %}
 
+## La cultura es una creación del hombre
+
+Los "Dientes del diablo" otra de las películas de mi infancia y que ayuda a entender que hay otras modos de ver el mundo. Por supuesto hay documentales que profundizan más, libros de antropología, pero hay escenas en esta película que me dejaron las ideas muy claras y siempre vuelven a mi cabeza.
+
+{% embed url="https://www.youtube.com/watch?v=\_sOy7CMR88A" %}
+
+## Obsolescencia programada
+
+Por que antes del documental de las impresoras ya nos habían avisado en "El hombre del traje blanco"
+
+{% embed url="https://www.youtube.com/watch?v=nNYH5GOh9Rc" %}
+
 
 
 
