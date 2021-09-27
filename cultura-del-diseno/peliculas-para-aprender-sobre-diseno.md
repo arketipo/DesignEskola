@@ -42,7 +42,7 @@ Por que antes del documental de las impresoras ya nos habían avisado en "El hom
 
 ## Universos visuales
 
-Tim Burton, Wes Anderson… pero creo que hay que como diseñadores tenemos que ver la obra de Jacques Tati
+Tim Burton, Wes Anderson… ¿qué tal empezar por la obra de Jacques Tati?
 
 {% embed url="https://www.youtube.com/watch?v=NHJcwMrqnJo" %}
 
