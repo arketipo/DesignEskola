@@ -27,7 +27,7 @@ Mirándome en su espejo me encontrado en su misma situcación:&#x20;
   * Poca oferta pública&#x20;
   * Acuerdos de colaboración y prácticas previo paso por caja
 
-Creo que todos somos un poco responsables, no es obligación ayudar, pero me he encontrado con muchos chicos y sobre todo chicas con ilusión, capacidad de trabajo (varios casos que compatibilizaban el grado con estudios universitarios de BBAA, psicología…) y creo que es talento que no podemos aprovechar.
+Creo que todos somos un poco responsables, no es obligación ayudar, pero me he encontrado con muchos chicos y sobre todo chicas con ilusión, capacidad de trabajo (varios casos que compatibilizaban el grado con estudios universitarios de BBAA, Psicología…) y creo que es talento que no podemos desaprovechar.
 
 #### Qué les conté
 
@@ -35,14 +35,14 @@ Intenté compartirles cosas que les pudiesen servir.&#x20;
 
 * Primero que sean conscientes de la importancia de cuidarse, esto es una carrera de ultrafondo: Bienestar físico, Salud mental, la importancia de cuidar una "red social" real…
 * Las bases de la profesión. Para mi
-  * Inglés (no negociable)
+  * **Inglés** (no negociable)
   * Bases sólidas en diseño
     * Tipografía y Composición clave.
-  * Capacidad de autoaprendizaje
+  * Capacidad de **autoaprendizaje**
     * Estoy muy metido en la creación de learning paths y creo que es algo que tenemos que conocer para aplicarnoslo. No podemos depender de que nos enseñen.
   * Talentos
     * Cuales son las Hard y Soft skills clave y cuales las más demandas a corto y medio plazo según los dosieres que han publicado World Economic Forum y la Unión Europea.
-  * Perfiles profesionales. No solo de Diseño Gráfico se puede "malvivir" hay profesiones que creo que tienen mucho más potencial:
+  * Perfiles profesionales. No solo de Diseño Gráfico se puede "malvivir", hay profesiones que creo que tienen mucho más potencial:
     * Diseño de producto
     * La parte operativa: Design Ops, Lead, gestión de proyectos y perfiles que quizás en España no estén todavía demandados como UX engineer pero que creo que son interesantes tener en cuenta en el desarrollo profesional.
     * Otras áreas como el diseño de servicios, el instruccional, los contenidos…
@@ -55,24 +55,54 @@ _Si alguien está en esta situación (centro público y anda un poco perdido/a) 
 
 #### Qué me contaron
 
-No solo fueron 40 minutos de charla un un ratillo para preguntas… tenía muy claro que quería tomarme un café con los alumnos y ahí es donde realmente comencé a conocerles.
+No solo fueron 40 minutos de charla y un ratillo para preguntas… tenía muy claro que quería tomarme un café con los alumnos y ahí es donde realmente comencé a conocerles.
 
-* Alumnos/as que compatibilizaban estudios con clases mañana y tarde y poco tiempo libre
-* Incertidumbre y poca informacion sobre el mundo laboral
-* Demasiados estímulos y disciplinas. Toca absolutamente de todo y no pueden profundizar en nada. Lo que para mi no es malo si hay una estrategia a medio plazo
-* Me contaron algunos proyectos. En concreto un juego que si tuviese más conocimiento del tema me plantearía invertir.
-* Miedo a salir al mundo laboral y buscan maneras de prolongar los años de formación. Yo siempre he sido partidario de volver a formarte una vez que tienes algo de experiencia sino es un camino peligroso.
+* Alumnos/as que compatibilizaban estudios con clases mañana y tarde y poco tiempo libre.
+* Incertidumbre y poca informacion sobre el mundo laboral.
+* Demasiados estímulos y disciplinas. Tocan absolutamente de todo y no pueden profundizar en nada. Lo que para mi no es malo si hay una estrategia a medio plazo.
+* Me contaron algunos proyectos. En concreto un juego que si tuviese más conocimiento del tema me plantearía invertir.&#x20;
+* Gente que lo tenía más claro orientándose al Diseño Web, el Branding o las imágenes en 3D y a las que les pasé algunos contactos.
+* Miedo a salir al mundo laboral. Buscan maneras de prolongar los años de formación. Yo siempre he sido partidario de volver a formarte una vez que tienes algo de experiencia sino es un camino peligroso.
 
 #### Qué necesitan
 
 Les compartí, como no, unos postits para que pusieran el modo en que creían que como colectivo de trabajadores/as en el sector digital, podríamos echarles una mano. Estos son los resultados. Buscaré la manera de seguir en contacto y compartirlo con ellos.
 
+**Esto es lo que me dijeron:**
+
 * ¿Cómo conseguimos un contacto?
 * Si nunca hemos trabajado ¿Cómo sabemos que somos buenos?
 * ¿Se puede trabajar en un buen sitio sin venir de un Máster y que me quiten un riñón?
-* Quiero que veas mis trabajos y me digas si valgo o no
-* Enseñar proyectos propios y darnos información de medios para llegar a ello y entrar en el sector
-*
+* Quiero que veas mis trabajos y me digas si valgo o no.
+* Enseñar proyectos propios y darnos información de medios para llegar a ello y entrar en el sector.
+* El precio, valor económico, de mi trabajo.
+* Conocimiento de los procesos del sector del Diseño.
+* ¿Qué competencias diferencian al buen diseñador del malo?
+* ¿Dónde están las oportunidades?
+* Cómo saber mejor lo que necesitan las personas.
+* Qué las empresas entren dentro de la enseñanza de estos campos, se interesen por cómo trabajan los alumnos y que planteen ciertas otras prácticas que las obligatorias.
+* ¿Cómo puedo conseeguir que mis proyectos, trabajos o incluso mi portfolio lleguen a llamar la atención de las empresas // clientes?
+* Ideas más interesantes: El diseño no es solo algo visual, sino que incluye toda la experiencia. Valorar que funciones y valores tienes o son más afines a ti.
+* Más charlas con gente del sector en grupos más reducidos. Para crear más contactos con los "nuevos".
+* Ayudas o facilidades a la hora de buscar el trabajo.
+* Tener paciencia a la hora de relacionarse con los nuevos integrantes en el trabajo.
+* Más información sobre tecnicismos del sector.
+* Escuchar experiencias de gente recién insertada en el sector.
+* Tener acceso a más herramientas que te puedan ayudar en el trabajo.
+* Cómo conocer a más gente que tenga experiencia.
+* Psicología del diseño
+* ¿Dónde encontrar oportunidades?
+* ¿Dónde promocionarse?
+* Charlas por grupos pequeños muy participativas.
+* Ver el trabajo desde dentro: empresas.
+* Comunicación con personas que trabajen en el campo.
+* Visitas a empresas, ver cómo es el trabajo real.
+* A mi me hubiera gustado que hubierais explicado un poco más enfocado también a la gente quisiera usar el diseño enfocado a abrir un negocio, más que a entrar en él.
+* Necesito conocer cuales son los ámbitos más solicitados y con mejores vacantes.
+* Quiero enfocar mi carrera a la ilustración y el cómic ¿Es útil el diseño para lograr este objetivo?
+* ¿De qué hago mi trabajo de final de grado?
+* Mentoring
+* Mirar mis distintos trabajos, además, más información sobre el sector profesional, tanto como autónomo (freelance) cómo parte de una empresa.
 
 #### Padawanes 2.0
 
@@ -85,6 +115,8 @@ Por lo poco que se al menos a un par de personas la experiencia les resultó út
 Voy a compartir en redes sociales este documento y espero que el consiguiente hilo de twitter obtenga algunas respuestas, propuestas… pegaré en la presentación que les comparti el link y la información adicional que les pueda ser útil y tendrán un compañero en el viaje.
 
 Un par de alumnos me pidieron que les echase un cable y así lo haré. Solo quería compartirlo porque seguro que casi todos nosotros hemos pasado por ahí.
+
+Tengo el privilegio de compartir mi dia a dia con mujeres que son fantásticas profesionales, les he compartido estas inquietudes y es probable que surja alguna iniciativa relacionada pronto.
 
 
 
