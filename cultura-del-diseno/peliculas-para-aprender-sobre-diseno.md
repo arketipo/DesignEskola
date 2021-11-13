@@ -10,7 +10,7 @@ description: >-
 
 El cine de Ken Loach y Paul Averty.
 
-{% embed url="https://www.youtube.com/watch?v=ahWgxw9E\_h4" %}
+{% embed url="https://www.youtube.com/watch?v=ahWgxw9E_h4" %}
 
 ## Menos pero mejor
 
@@ -32,7 +32,7 @@ Maravillosa película en que cada fotograma es una imagen fantástica. Para verl
 
 Los "Dientes del diablo" otra de las películas de mi infancia y que ayuda a entender que hay otras modos de ver el mundo. Por supuesto hay documentales que profundizan más, libros de antropología, pero hay escenas en esta película que me dejaron las ideas muy claras y siempre vuelven a mi cabeza.
 
-{% embed url="https://www.youtube.com/watch?v=\_sOy7CMR88A" %}
+{% embed url="https://www.youtube.com/watch?v=_sOy7CMR88A" %}
 
 ## Obsolescencia programada
 
@@ -58,11 +58,11 @@ Desde H. R. Giger a Álex de la Iglesia son necesarios profesionales del campo v
 
 {% embed url="https://www.youtube.com/watch?v=1Fg5iWmQjwk" %}
 
-Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com/) no habría sido posible.
+Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com) no habría sido posible.
 
 ## Entender a las personas
 
-{% embed url="https://www.youtube.com/watch?v=iyb6gC8St\_U" %}
+{% embed url="https://www.youtube.com/watch?v=iyb6gC8St_U" %}
 
 ## Data Driven
 
@@ -84,9 +84,7 @@ Una película de la que hablo habitualmente para generar debate.
 
 
 
-Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es/).
-
-
+Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es).
 
 
 
