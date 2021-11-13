@@ -11,7 +11,7 @@ description: >-
 
 Ese tiempo pensando me ha servido para revisar lo que ha sucedido en los últimos años: errores, aciertos, decepciones… como aprendí del señor Everett en su [duro e interesante libro](https://blackiebooks.org/catalogo/cosas-que-los-nietos-deberian-saber-2/), todas las elecciones que tomamos son las que nos hacen ser quienes somos y nos han llevado al lugar en el que estamos.
 
-Mirándome en su espejo me encontrado en su misma situcación:&#x20;
+Mirándome en su espejo me encontrado en su misma situación:&#x20;
 
 * Unos **estudios que no te preparan para el mercado**.
 * Un **contexto desfavorable**, en mi caso la Euskadi de los 80, reconversión indusstrial, violencia… creo sinceramente que ahora estamos en un buen momento.
