@@ -85,6 +85,7 @@ Les compartí, como no, unos postits para que pusieran el modo en que creían qu
 * Ideas más interesantes: El diseño no es solo algo visual, sino que incluye toda la experiencia. Valorar que funciones y valores tienes o son más afines a ti.
 * Más charlas con gente del sector en grupos más reducidos. Para crear más contactos con los "nuevos".
 * Ayudas o facilidades a la hora de buscar el trabajo.
+* Cómo poder crecer
 * Tener paciencia a la hora de relacionarse con los nuevos integrantes en el trabajo.
 * Más información sobre tecnicismos del sector.
 * Escuchar experiencias de gente recién insertada en el sector.
