@@ -11,7 +11,7 @@ description: >-
 
 Ese tiempo pensando me ha servido para revisar lo que ha sucedido en los últimos años: errores, aciertos, decepciones… como aprendí del señor Everett en su [duro e interesante libro](https://blackiebooks.org/catalogo/cosas-que-los-nietos-deberian-saber-2/), todas las elecciones que tomamos son las que nos hacen ser quienes somos y nos han llevado al lugar en el que estamos.
 
-#### ACTUALIZACIÒN - he contestado todas estas preguntas en [padawanes.es](https://www.padawanes.es)
+#### ACTUALIZACIÒN - he contestado todas estas preguntas en [padawanes.es](http://www.padawanes.es)
 
 Mirándome en su espejo me encontrado en su misma situación:&#x20;
 
