@@ -16,5 +16,9 @@ Estudié publicidad porque no pude entrar en la escuela de hostelería…  soy u
 
 {% embed url="https://www.youtube.com/watch?v=qKqj85oo2wI&t=18s" %}
 
+## Abstract
 
+Pocos capítulos pero muy bien editados. Creo que son especialmente valiosos para divulgas sobre la profesión.
+
+{% embed url="https://www.youtube.com/watch?v=DYaq2sWTWAA" %}
 
