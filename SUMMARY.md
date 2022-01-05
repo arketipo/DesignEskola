@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DesignEskola 9.21](README.md)
+* [DesignEskola 1.22](README.md)
 * [Disclaimer](disclaimer-designeskola.md)
 * [Cómo empezar en Diseño Digital](como-empezar-diseno-digital/README.md)
   * [Padawanes 2.0](como-empezar-diseno-digital/padawanes-2.0.md)
