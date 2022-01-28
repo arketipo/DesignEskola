@@ -13,6 +13,7 @@
 * [RECURSOS](recursos/README.md)
   * [Formación en Diseño](recursos/formacion-en-diseno.md)
   * [Handbooks](recursos/handbooks.md)
+  * [Herramientas](recursos/herramientas.md)
   * [Libros sobre Diseño](recursos/libros-sobre-diseno.md)
 * [by @arketipo](http://www.arketipo.net)
 
