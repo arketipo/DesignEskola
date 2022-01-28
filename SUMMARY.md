@@ -15,6 +15,7 @@
   * [Handbooks](recursos/handbooks.md)
   * [Herramientas](recursos/herramientas.md)
   * [Libros sobre Diseño](recursos/libros-sobre-diseno.md)
+  * [Sistemas de Diseño](recursos/sistemas-de-diseno.md)
 * [by @arketipo](http://www.arketipo.net)
 
 ## Group 1
