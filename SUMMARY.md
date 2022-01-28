@@ -10,6 +10,9 @@
 * [CULTURA DEL DISEÑO](cultura-del-diseno/README.md)
   * [Películas para aprender sobre Diseño](cultura-del-diseno/peliculas-para-aprender-sobre-diseno.md)
   * [Documentales para aprender sobre Diseño](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
+* [RECURSOS](recursos/README.md)
+  * [Libros sobre Diseño](recursos/libros-sobre-diseno.md)
+  * [Formación en Diseño](recursos/formacion-en-diseno.md)
 * [by @arketipo](http://www.arketipo.net)
 
 ## Group 1
