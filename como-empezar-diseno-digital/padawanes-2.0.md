@@ -121,5 +121,9 @@ Un par de alumnos me pidieron que les echase un cable y así lo haré. Solo quer
 
 Tengo el privilegio de compartir mi dia a dia con mujeres que son fantásticas profesionales, les he compartido estas inquietudes y es probable que surja alguna iniciativa relacionada pronto.
 
+**Puedes ver las respuestas y añadir las tuyas en**
+
+[www.padawanes.es](http://padawanes.es)
+
 
 
