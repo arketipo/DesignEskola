@@ -12,6 +12,7 @@
   * [Películas](cultura-del-diseno/peliculas-para-aprender-sobre-diseno.md)
 * [RECURSOS](recursos/README.md)
   * [Formación en Diseño](recursos/formacion-en-diseno.md)
+  * [Handbooks](recursos/handbooks.md)
   * [Libros sobre Diseño](recursos/libros-sobre-diseno.md)
 * [by @arketipo](http://www.arketipo.net)
 
