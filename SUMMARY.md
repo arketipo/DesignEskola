@@ -22,3 +22,7 @@
 * [by @arketipo](http://www.arketipo.net)
 
 ## Group 1
+
+***
+
+* [Biomimética](biomimetica.md)
