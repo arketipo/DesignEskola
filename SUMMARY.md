@@ -11,6 +11,8 @@
 * [CULTURA DEL DISEÑO](cultura-del-diseno/README.md)
   * [Documentales](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Películas](cultura-del-diseno/peliculas-para-aprender-sobre-diseno.md)
+* [ÁREAS RELACIONADAS](areas-relacionadas/README.md)
+  * [Biomimética](areas-relacionadas/biomimetica.md)
 * [RECURSOS](recursos/README.md)
   * [Blogs](recursos/blogs.md)
   * [Formación en Diseño](recursos/formacion-en-diseno.md)
@@ -22,8 +24,3 @@
 * [by @arketipo](http://www.arketipo.net)
 
 ## Group 1
-
-***
-
-* [Biomimética](biomimetica.md)
-* [Page 1](page-1.md)
