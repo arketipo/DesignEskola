@@ -8,6 +8,7 @@
   * [Aprendizaje autónomo](camino-de-aprendizaje/aprendizaje-autonomo.md)
   * [Inglés](camino-de-aprendizaje/ingles.md)
 * [ÁREAS RELACIONADAS](page-1.md)
+  * [Accesibilidad](areas-relacionadas/accesibilidad.md)
   * [Biomimética](biomimetica.md)
 * [CULTURA DEL DISEÑO](cultura-del-diseno/README.md)
   * [Documentales](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
