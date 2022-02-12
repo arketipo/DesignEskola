@@ -7,6 +7,7 @@
 * [CAMINO DE APRENDIZAJE](camino-de-aprendizaje/README.md)
   * [Aprendizaje autónomo](camino-de-aprendizaje/aprendizaje-autonomo.md)
   * [Inglés](camino-de-aprendizaje/ingles.md)
+  * [Lo que he aprendido sobre Diseño… afeitándome](camino-de-aprendizaje/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
 * [ÁREAS RELACIONADAS](page-1.md)
   * [Accesibilidad](areas-relacionadas/accesibilidad.md)
   * [Biomimética](biomimetica.md)
