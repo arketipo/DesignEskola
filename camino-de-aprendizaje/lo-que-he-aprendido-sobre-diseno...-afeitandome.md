@@ -36,38 +36,55 @@ Lo único que hay que hacer es reemplazar la cuchilla cuando pierde el filo. Y p
 
 ### Una sola cuchilla, más que suficiente
 
-Fácilmente puedes encontrar cuchillas por menos de 20 céntimos la unidad. Decenas de veces más económicas que las versiones multicuchilla. Y por experiencia puedo decir que el resultado es magnífico. Aquí interviene los materiales que uses
+Fácilmente puedes encontrar cuchillas por menos de 20 céntimos la unidad. Decenas de veces más económicas que las versiones multicuchilla. Y por experiencia puedo decir que el resultado es magnífico. Aquí interviene los materiales que uses, tu técnica, etc.
 
 ### Jabón, un mundo de posibilidades
 
-Al igual que en una cámara lo importante es la lente y el ojo del fotógrafo, en afeitado es nuestra mano y el jabón que utilicemos
+Al igual que en una cámara lo importante es la lente y el ojo del fotógrafo, en afeitado es nuestra mano y el jabón que utilicemos. Aquí hay mil opciones. Lo bueno es que hay opciones muy baratas, con una barra de La Toja puedes funcionar perfectamente y creo que son menos de dos euros y a partir de ahí lo que quieras. Yo aún tengo un bote de Martín de Candre, que me regaló un amigo. Se supone que es el mejor jabón de afeitar o al menos el más famoso y no consigo acabarlo, así que aunque algunos productos cuesten dinero cunden mucho. Un buen jabón meses, una brocha años y una maquinilla o una navaja toda una vida y aún se podrá dar en herencia.
 
-### Viajar
+### El kit básico
 
-Hay versiones de viaje, super compactas e invluso de material no metálico. Recambios es fácil encontrar en destino
+Lo más básico es una maquinilla (poco más de 30 euros), un jabón y una brocha, preferiblemente de cerdas sintéticas. Con eso ya tienes para aburrirte.
 
+Las brochas famosas son las de tejón, se clasifican por su tono y calidad, pero desde hace mucho en la Unión Europea no se permite. Todas las que están en el mercado se fabrican con pelo de tejón criado en cautividad en China, así que imagínate las condiciones de vida de esos pobres animales.
 
+Las sintéticas son igual de buenas y más aseguibles. Estamos en un campo en que te puedes gastar lo que quieras, cachas de nacar, porcelana, cuero… lo básico hace su trabajo perfectamente. Hablamos de diseño y funcionalidad.
+
+### Viajar en avión
+
+Ojalá pronto poder volver a viajar habitualmente. En este caso se puede llevar la maquinilla demontada y comprar los recambios en destino, es fácil y económico, en la mayoría de droguerías y perfumerías tradicionales. Además hay países como Portugal en que hay auténticas maravillas. Por cierto un país con muy buena cultura en este campo.
+
+### Después del afeitado
+
+Mi manera de diferencias en inglés "before" and "after" es acordarme del _after save_. Mi opinión es que si usas un buen jabón no necesitas nada más. De hecho existe el concepto "espuma de confort" que es una capa que te das en la cara cuando ya has terminado. Una manera de que los componentes que tiene actúen como calmante, antiséptico y suavice la piel. Funciona.
+
+Existe algo bastante curioso que es la piedra de alumbre, y que es eso mismo, un mineral que sirve para los pequeños cortes y como antivacteriano. Deja la piel seca y con un poco de agua fría listo.
+
+### Empatía
+
+Yo llegué a esta vuelta al pasado por frustración pero sobre todo por empatía con mi chica. No solo me me afeito por mi, sino por mi pareja. Una barba de dos días, son como agujas, y pueden dejar marcas en la piel, además de no ser nada agradable, haz la prueba rascándote tu mismo. El modelo del vaquero que se encendía el cigarro rascando la cerilla con su barba está, afortunadamente, desfasado. A no ser que quieras pasar meses sin un buen beso.
 
 ## Bienvenido al mundo del "ahorro ficticio"
 
+Hasta aquí la parte práctica, pero como me dijo un tipo que tenía al menos diez navajas: "bienvenido al mundo del ahorro ficticio" y es que como seas consumista, no es mi caso, te encontrarás con un monton de botes y cachivaches que no serás capaz de terminar y en los que te habrás dejado una pasta. Así que control. Es como los vinos cada uno se gasta y evoluciona hasta donde quiera. Yo soy feliz con una botelle de vino de euros o menos.
 
+Aún así a nivel de diseño hay temas muy interesantes. No todo el mundo tiene una barba igual. Algunos la tienen muy tumbada o con propensión a que algunos pelos vuelvan a entrar en la piel, otros muy dura. Y ahí una navaja o una savette puede ser muy buena opción. Eso si, como una katana, hay que aprender a usarla o correrá sangre innecesaria.
 
-Long tail vs sibaritas
-
-Kamisori
+Si quieres ir un paso más allá, como los "cocinillas" que se comprar cuchillos japoneses, también existe su versión de afeitado. Las navajas Kamisori, que para mi son fascinantes pero temibles al mismo tiempo.
 
 {% embed url="https://www.elivelimen.com/blog/navaja-japonesa-kamisori" %}
 
-Las navajas
+Son ya muchos años, pero me parece una reflexión interesante el volver a los orígenes para recuperar diseños que funcionan mejor, tienen menos impacto en el plantea y a nivel de experiencia hacen que algo, para mi desagradable, se convierta en un pequeño rito recurrente.
 
-Cuando todo es una mierda hay un camino para volver a los orígenes y la calidad
+### Aprendizajes sobre diseño
 
-Por qué volver al afeitado tradicional
+* Cuando todo es una mierda es el momento de mirar atrás (pan, cerveza, repostería… o afeitado) creo que es una buena práctica aplicable a cualquier sector o profesión
+* Un buen afeitado debe ser placentero, un momento Zen de reflexion y pausa.
+* Cuanto más te afeitas mejor lo haces y mejores resultados consigues. Creo que incluso la piel se habitúa.
+* Es mucho más sostenible. El impacto es menor. El jabón puede ser artesanal, en bote de cristal o madera, con recambios.
+* Una vez tengas lo básico, lo único que necesitas son cuchillas. Se amortiza rápido, puedes hacer números.
+* Cuando un objeto está bien diseñado se adapta a la mano, tiene equilibrio y hace que puedas realizar la acción de manera automática.
+* Como decía Malcolm Gladwell con la salsa de tomate perfecta, en afeitado no debería haber una solución para todos, como plantea la industria. Sino distintos niveles según tu piel, tu experiencia… así tenemos maquinillas de peine cerrado, abierto, regulables, navajas. Un mundo en el que hay un producto para cada consumidor.
 
-* Es placentero, un momento Zen de reflexion y pausa
-* Cuanto más te afeitas mejor lo haces y mejores resultados consigues
-* El impacto es mucho menor. El jabón puede ser artesanal, en bote de cristal o madera, con recambios accesibles simplemente envueltos.
-* Lo único que necesitas son cuchillas
-
-Elivelimen
+Y estas son mis reflexiones, espero poder seguir muchos años afeitándome y aprendiendo por el camino.
 
