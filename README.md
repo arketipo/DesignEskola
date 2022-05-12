@@ -1,8 +1,8 @@
 ---
-description: by arketipo @2021
+description: by arketipo @2022
 ---
 
-# DesignEskola 9.21
+# DesignEskola
 
 ![](.gitbook/assets/designeskola-cover.png)
 
@@ -14,7 +14,7 @@ Esas oportunidades van a venir de la mano de abrirlo a mis compañeros/as y comp
 
 Voy a intentar que también sea un punto de encuentro de gente que durante esta pandemia he tenido demasiado lejos, de la que he aprendido, que me han ayudado en momentos difíciles que aunque estén en Madrid, Polonia o el otro lado del charco las tengo presentes.
 
-El estudio está listo y preparado. Puesta la conexión a internet, con cafetera, una nevera con cervezas fresquitas… un bar superchulo al lado con la mejor terraza de Bilbao y con probablemente una de las mejores tortillas del mundo \(con cebolla por supuesto\).
+El estudio está listo y preparado. Puesta la conexión a internet, con cafetera, una nevera con cervezas fresquitas… un bar superchulo al lado con la mejor terraza de Bilbao y con probablemente una de las mejores tortillas del mundo (con cebolla por supuesto).
 
 Y ese será el espacio para reunirnos de manera segura y efectiva. No más de 6 personas, para tener varios metros cúbicos de espacio cada uno.
 
@@ -23,4 +23,3 @@ Así que después de verano, se inaugura DesignEskola en Bilbao pero con una ori
 Con el objetivo de generar conocimiento y sensibilidad hacia el Diseño. Disciplina que será el eje central pero no único del proyecto.
 
 Allí nos vemos.
-
