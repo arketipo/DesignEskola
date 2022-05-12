@@ -11,13 +11,12 @@
 * [EL VALOR DEL DISEÑO](el-valor-del-diseno.md)
 * [LA PROFESIÓN DEL DISEÑO](la-profesion-del-diseno.md)
 * [PARA PADAWANES](como-empezar-diseno-digital/README.md)
+  * [Nuevos perfiles profesionales](como-empezar-diseno-digital/introduccion.md)
   * [Padawanes 2.0](como-empezar-diseno-digital/padawanes-2.0.md)
 * [by @arketipo](http://www.arketipo.net)
 
 ## Archivo
 
-* [PERFILES PROFESIONALES](archivo/introduccion/README.md)
-  * [Design Research](archivo/introduccion/design-research.md)
 * [RECURSOS](archivo/recursos/README.md)
   * [Blogs](archivo/recursos/blogs.md)
   * [Formación en Diseño](archivo/recursos/formacion-en-diseno.md)
@@ -26,3 +25,4 @@
   * [Libros sobre Diseño](archivo/recursos/libros-sobre-diseno.md)
   * [Youtube](archivo/recursos/youtube.md)
   * [Sistemas de Diseño](archivo/recursos/sistemas-de-diseno.md)
+  * [Design Research](archivo/recursos/design-research.md)
