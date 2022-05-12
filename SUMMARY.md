@@ -16,9 +16,6 @@
 
 ## Archivo
 
-* [ÁREAS RELACIONADAS](archivo/areas-relacionadas/README.md)
-  * [Accesibilidad](archivo/areas-relacionadas/accesibilidad.md)
-  * [Biomimética](archivo/areas-relacionadas/biomimetica.md)
 * [PERFILES PROFESIONALES](archivo/introduccion/README.md)
   * [Design Research](archivo/introduccion/design-research.md)
 * [RECURSOS](archivo/recursos/README.md)

@@ -1,2 +1,0 @@
-# ÁREAS RELACIONADAS
-
