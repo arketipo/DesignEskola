@@ -4,7 +4,7 @@ description: >-
   aprender que en el cine
 ---
 
-# Películas para aprender sobre Diseño
+# Películas
 
 ## Si el mundo real os pilla muy lejos
 
@@ -58,7 +58,7 @@ Desde H. R. Giger a Álex de la Iglesia son necesarios profesionales del campo v
 
 {% embed url="https://www.youtube.com/watch?v=1Fg5iWmQjwk" %}
 
-Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com) no habría sido posible.
+Que sin el gran trabajo de [Annie Atkins](https://www.annieatkins.com/) no habría sido posible.
 
 ## Entender a las personas
 
@@ -84,7 +84,7 @@ Una película de la que hablo habitualmente para generar debate.
 
 
 
-Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es).
+Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es/).
 
 
 

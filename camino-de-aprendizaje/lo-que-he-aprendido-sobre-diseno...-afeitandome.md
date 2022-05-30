@@ -90,7 +90,7 @@ Son ya muchos años, pero me parece una reflexión interesante el volver a los o
 * Una vez tengas lo básico, lo único que necesitas son cuchillas. Se amortiza rápido, puedes hacer números.
 * A veces, como con las brochas, algo "fabricado" puede ser mejor y más ecológico que algo "natural".
 * Cuando un objeto está bien diseñado se adapta a la mano, tiene equilibrio y hace que puedas realizar la acción de manera automática.
-* Busca un buen proveedor… el mio Eustaquio que tiene su barbería en Donosti [https://www.elivelimen.com/](https://www.elivelimen.com) y que estuvo afeitando con navaja en vivo en un evento sobre Diseño audiovisual que organizamos en el acuario de San Sebastián.
+* Busca un buen proveedor… el mio Eustaquio que tiene su barbería en Donosti [https://www.elivelimen.com/](https://www.elivelimen.com/) y que estuvo afeitando con navaja en vivo en un evento sobre Diseño audiovisual que organizamos en el acuario de San Sebastián.
 * Como decía Malcolm Gladwell con la salsa de tomate perfecta, en afeitado no debería haber una solución para todos, como plantea la industria. Sino distintos niveles según tu piel, tu experiencia… así tenemos maquinillas de peine cerrado, abierto, regulables, navajas. Un mundo en el que hay un producto para cada consumidor.
 
 {% embed url="https://www.youtube.com/watch?v=iIiAAhUeR6Y" %}

@@ -109,7 +109,7 @@ Les compartí, como no, unos postits para que pusieran el modo en que creían qu
 
 #### Padawanes 2.0
 
-No tengo intención de retomar el proyecto, pero el proyecto Padawanes, que monté con [Pablo Domínguez](http://www.tinybigstudio.com), creo que tenía mucho potencial, porque sobre todo necesitan hablar con profesionales, que se les escuche, que sepan que hay oportunidades y no es fácil conectar los puntos.
+No tengo intención de retomar el proyecto, pero el proyecto Padawanes, que monté con [Pablo Domínguez](http://www.tinybigstudio.com/), creo que tenía mucho potencial, porque sobre todo necesitan hablar con profesionales, que se les escuche, que sepan que hay oportunidades y no es fácil conectar los puntos.
 
 Por lo poco que se al menos a un par de personas la experiencia les resultó útil. No tengo información del resto (fueron unos 20 pares) y analizando la situación creo que cometí un error. Lo dejé porque mi visión era "discriminar" y que solo los que no tenían acceso a caros programas de formación y un buen soporte detrás. Cedí el authcode y lo que más pena me dio es que el proyecto cerrase en falso sin unas conclusiones o aprendizajes. Tengo confianza de todos modos en el valor humano y capacidad de los mentores/as y que seguro que hicieron que la experiencia fuese valiosa. Es quizás lo que más me sorprendió las ganas de ayudar de gente con perfiles muy potentes. Aunque no se lo haya dicho estoy muy orgulloso de ellos y encantado de que me demostrasen que estaba equivocado.
 
@@ -123,7 +123,7 @@ Tengo el privilegio de compartir mi dia a dia con mujeres que son fantásticas p
 
 **Puedes ver las respuestas y añadir las tuyas en**
 
-[www.padawanes.es](http://padawanes.es)
+[www.padawanes.es](http://padawanes.es/)
 
 
 

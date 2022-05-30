@@ -16,7 +16,7 @@ Quizás los haya más directos, y también más caros. Pero unos estudios de Bel
 
 > _El inglés debería ser tu máxima prioridad para trabajar en el sector digital_
 
-Si de momento lo necesitas en castellano, la buena gente de [uxdesign.cc](https://uxdesign.cc) nos dio permiso al proyecto Padawanes para traducirlo, con la inestimable ayuda de [Raul Redondo](https://raulredondo.com).
+Si de momento lo necesitas en castellano, la buena gente de [uxdesign.cc](https://uxdesign.cc/) nos dio permiso al proyecto Padawanes para traducirlo, con la inestimable ayuda de [Raul Redondo](https://raulredondo.com).
 
 {% embed url="https://medium.com/gu%C3%ADa-del-dise%C3%B1o-start-uxdesign-cc" %}
 
