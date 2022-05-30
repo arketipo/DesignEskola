@@ -1,7 +1,7 @@
 ---
 description: >-
   El Diseño también va de contar historias con imágenes, y donde mejor para
-  aprender que en el cine (editado)
+  aprender que en el cine
 ---
 
 # Películas
@@ -50,8 +50,6 @@ Mi hija me odia por ponérsela de pequeñita, pero visualmente es fantástica.
 
 {% embed url="https://www.youtube.com/watch?v=ULgsafJJNQ0" %}
 
-
-
 ## Diseñadoras para el cine
 
 Desde H. R. Giger a Álex de la Iglesia son necesarios profesionales del campo visual para hacer posibles estas obras.
@@ -82,13 +80,4 @@ Una película de la que hablo habitualmente para generar debate.
 
 {% embed url="https://www.youtube.com/watch?v=7-HfQJvtjdQ" %}
 
-
-
 Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es/).
-
-
-
-
-
-
-
