@@ -1,7 +1,7 @@
 ---
 description: >-
   El Diseño también va de contar historias con imágenes, y donde mejor para
-  aprender que en el cine
+  aprender que en el cine (editado)
 ---
 
 # Películas
