@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Página del proyecto Design Eskola, una manera de compartir lo que aprendo sobre Diseño de productos digitales y el oficio en general
 
 You can use the [editor on GitHub](https://github.com/arketipo/DesignEskola/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
