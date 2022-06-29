@@ -4,7 +4,7 @@ description: by arketipo @2022
 
 # DesignEskola
 
-![](.gitbook/assets/designeskola-cover.png)
+![](<.gitbook/assets/imagen (5).png>)
 
 Cuando no existe lo que necesitas… lo mejor es montarlo y eso es lo que vamos a hacer. En septiembre se inaugura DesignEskola, un local físico en el centro de Bilbao. Escondido, pero muy bien ubicado. Un espacio donde hablar de Diseño, hablar de producto, crear oportunidades, donde trabajar y donde hacer lo que siempre me ha interesado, que es crear conexiones.
 
