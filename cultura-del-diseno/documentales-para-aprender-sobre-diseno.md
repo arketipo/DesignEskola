@@ -1,7 +1,3 @@
----
-description: Que van más allá de Rams y la Helvética
----
-
 # Documentales para aprender sobre Diseño
 
 ## La singularidad
