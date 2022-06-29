@@ -6,7 +6,7 @@ Por suerte o por desgracia mi barba no da para parecer un leñador canadiense…
 
 Y es que no tuve la suerte, el coraje o la pasta para estudiar Diseño así que me ha tocado aprender por caminos sinuosos. El afeitado es uno de ellos.
 
-## Camino de iniciación
+### Camino de iniciación
 
 Cuando me fui de casa, mi padre, como si de un rito de iniciación de una tribu fuese… me regaló un taladro (que aún tengo) y una afeitadora Philips. Hubo intentos con distintas maquinillas y espumas industriales, pero no sirven cuando tienes cuatro pelos y tardas dias en afeitarte.
 
@@ -14,7 +14,7 @@ La maquinilla eléctrica parece una buena solución y solo lo es si lo haces a d
 
 El problema de las elécticas es su propia condición. Se calientan y no es bueno para la piel la fricción con metal caliente. Además si la barba está un poco larga se engancha y te la arranca, en vez de cortarla. Se que ahora hay nuevos modelos, pero para mi plantean el mismo problema. Algunas se puede combinar con espuma, otras son incluso sumergibles. Pero como en muchas ocasiones la realidad no es tan bonita como los anuncios.
 
-## Problemas de Diseño
+### Problemas de Diseño
 
 El gran problema del afeitado ha sido el mismo que el de las cafeteras de capsulas. La avaricia. Y es que las marcas han creado sistemas propietarios. Cabezales que solo sirven para el mango que te han vendido, probablemente bajo coste, previamente.
 
@@ -26,7 +26,7 @@ Claro que llegaba un tiempo el tiempo en que era difícil encontrar una nueva "i
 
 "A que no hay… de ponerle una cuchilla más" y claro, sujétame el cubata. Así que pasamos de dos a tres y creo que perdí la cuenta al llegar a cinco, si no fuese triste, sería hasta cómico.
 
-## La solución estaba delante de nuestras narices, menos pero mejor
+### La solución estaba delante de nuestras narices, menos pero mejor
 
 Como ocurre con muchas otras cosas, la respuesta estaba en mirar un poco hacia atrás: devolver los envases de vidrio, volver a hacer pan con masa madre, coser o reparar prendas y calzado.
 
@@ -68,7 +68,7 @@ Existe algo bastante curioso que es la piedra de alumbre, y que es eso mismo, un
 
 Yo llegué a esta vuelta al pasado por frustración pero sobre todo por empatía con mi chica. No solo me afeito por mi, sino por mi pareja. Una barba de dos días, son como agujas, y pueden dejar marcas en la piel, además de no ser nada agradable, haz la prueba rascándote tu mismo. El modelo del vaquero que se encendía el cigarro rascando la cerilla con su barba está, afortunadamente, desfasado. A no ser que quieras pasar meses sin un buen beso.
 
-## Bienvenido al mundo del "ahorro ficticio"
+### Bienvenido al mundo del "ahorro ficticio"
 
 Hasta aquí la parte práctica, pero como me dijo un tipo que tenía al menos diez navajas: "bienvenido al mundo del ahorro ficticio" y es que como seas consumista, no es mi caso, te encontrarás con un monton de botes y cachivaches que no serás capaz de terminar y en los que te habrás dejado una pasta. Así que control. Es como los vinos cada uno se gasta y evoluciona hasta donde quiera. Yo soy feliz con una botelle de vino de diez euros o menos.
 
