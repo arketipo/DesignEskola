@@ -1,6 +1,7 @@
 # Table of contents
 
 * [DesignEskola](README.md)
+* [Disclaimer](disclaimer.md)
 * [CAMINO DE APRENDIZAJE](camino-de-aprendizaje/README.md)
   * [Aprendizaje autónomo](camino-de-aprendizaje/aprendizaje-autonomo.md)
   * [Inglés](camino-de-aprendizaje/ingles.md)
