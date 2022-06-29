@@ -4,7 +4,7 @@ description: >-
   aprender que en el cine
 ---
 
-# Películas
+# Películas para aprender sobre Diseño
 
 ## Si el mundo real os pilla muy lejos
 
