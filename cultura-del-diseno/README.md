@@ -1,2 +1,0 @@
-# CULTURA DEL DISEÑO
-

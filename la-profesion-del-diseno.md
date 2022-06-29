@@ -1,2 +1,0 @@
-# LA PROFESIÓN DEL DISEÑO
-

@@ -1,2 +1,0 @@
-# EL VALOR DEL DISEÑO
-
