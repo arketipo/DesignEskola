@@ -2,15 +2,17 @@
 
 * [DesignEskola](README.md)
 * [Disclaimer](disclaimer.md)
-* [Aprendizaje autónomo](camino-de-aprendizaje/aprendizaje-autonomo.md)
-* [Estudiar Inglés no es negociable](camino-de-aprendizaje/ingles.md)
-* [Lo que he aprendido sobre Diseño… afeitándome](camino-de-aprendizaje/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
+* [Proceso de aprendizaje](proceso-de-aprendizaje/README.md)
+  * [Aprendizaje autónomo](proceso-de-aprendizaje/aprendizaje-autonomo.md)
+  * [Estudiar Inglés no es negociable](proceso-de-aprendizaje/ingles.md)
+  * [Lo que he aprendido sobre Diseño… afeitándome](proceso-de-aprendizaje/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
 * [Cultura del Diseño](cultura-del-diseno/README.md)
   * [Documentales para aprender sobre Diseño](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Películas para aprender sobre Diseño](cultura-del-diseno/peliculas-para-aprender-sobre-diseno.md)
-* [Cómo empezar en Diseño Digital](como-empezar-diseno-digital/README.md)
-  * [Nuevos perfiles profesionales](como-empezar-diseno-digital/introduccion.md)
-  * [Padawanes 2.0](como-empezar-diseno-digital/padawanes-2.0.md)
+* [El oficio del Diseño](el-oficio-del-diseno/README.md)
+  * [Cómo empezar en Diseño Digital](el-oficio-del-diseno/como-empezar-diseno-digital.md)
+  * [Nuevos perfiles profesionales](el-oficio-del-diseno/introduccion.md)
+  * [Padawanes 2.0](el-oficio-del-diseno/padawanes-2.0.md)
 * [by @arketipo](http://www.arketipo.net)
 
 ## Archivo
