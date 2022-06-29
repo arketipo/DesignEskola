@@ -82,7 +82,7 @@ Son ya muchos años, pero me parece una reflexión interesante el volver a los o
 
 ### Aprendizajes sobre diseño
 
-* Cuando todo es una mierda es el momento de mirar atrás (pan, cerveza, repostería… o afeitado) creo que es una buena práctica aplicable a cualquier sector o profesión.
+* Cuando todo es una mierda es el momento de mirar atrás (pan, cerveza, repostería… o afeitado) creo que es una buena práctica aplicable a cualquier sector o profesión.
 * Nadie nace aprendido. El afeitado es un conocimiento que se transmite de padres a hijos. Aunque luego cada uno busca su camino.
 * Un buen afeitado debe ser placentero, un momento Zen de reflexion y pausa.
 * Cuanto más te afeitas mejor lo haces y mejores resultados consigues. Creo que incluso la piel se habitúa.
@@ -96,4 +96,3 @@ Son ya muchos años, pero me parece una reflexión interesante el volver a los o
 {% embed url="https://www.youtube.com/watch?v=iIiAAhUeR6Y" %}
 
 Y estas son mis reflexiones, espero poder seguir muchos años afeitándome y aprendiendo por el camino.
-

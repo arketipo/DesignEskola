@@ -4,7 +4,7 @@ description: Quizás el talento más importante para mantenerse en el mercado y 
 
 # Aprendizaje autónomo
 
-Estudié Publicidad y RRPP y pronto entendí que de poco me iba a servir lo que allí enseñaban, así que mientras mis compañeros/as asistían a clase y trataban de sacar buenas notas… yo me suscribía a la revista Control y compraba libros de Ogilvy, Iacoca y comañía. Al mismo tiempo, trataba de obtener conocimientos técnicos para tener una primera oportunidad. Ahí me di cuenta de lo importante que era aprender por uno mismo.&#x20;
+Estudié Publicidad y RRPP y pronto entendí que de poco me iba a servir lo que allí enseñaban, así que mientras mis compañeros/as asistían a clase y trataban de sacar buenas notas… yo me suscribía a la revista Control y compraba libros de Ogilvy, Iacoca y comañía. Al mismo tiempo, trataba de obtener conocimientos técnicos para tener una primera oportunidad. Ahí me di cuenta de lo importante que era aprender por uno mismo.
 
 Y es que aunque puedas acceder a una buena universidad o un máster… nunca será suficiente y siempre habrá un proceso, herramienta, tema que tengas que conocer. Es cierto lo que dice [JuanRa](http://juanramartin.es/category/graffica-info/) y es que los autodidactas tenemos, al menos en mi caso, cierta envidia de los que han tenido una buena formación. Pero aunque cueste más una vez seas capaz de aprender de manera autónoma nada podrá frenarte.
 
