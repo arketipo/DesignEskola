@@ -2,10 +2,9 @@
 
 * [DesignEskola](README.md)
 * [Disclaimer](disclaimer.md)
-* [CAMINO DE APRENDIZAJE](camino-de-aprendizaje/README.md)
-  * [Aprendizaje autónomo](camino-de-aprendizaje/aprendizaje-autonomo.md)
-  * [Inglés](camino-de-aprendizaje/ingles.md)
-  * [Lo que he aprendido sobre Diseño… afeitándome](camino-de-aprendizaje/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
+* [Aprendizaje autónomo](aprendizaje-autonomo.md)
+* [Estudiar Inglés no es negociable](ingles.md)
+* [Lo que he aprendido sobre Diseño… afeitándome](lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
 * [CULTURA DEL DISEÑO](cultura-del-diseno/README.md)
   * [Documentales](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Películas](cultura-del-diseno/peliculas-para-aprender-sobre-diseno.md)
