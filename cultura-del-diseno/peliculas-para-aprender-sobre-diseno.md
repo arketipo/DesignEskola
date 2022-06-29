@@ -1,6 +1,6 @@
 ---
 description: >-
-  El Diseño también va de contar historias con imágenes, y donde mejor para
+  El Diseño también va de contar historias con imágenes, y qué mejor sitio donde
   aprender que en el cine
 ---
 
