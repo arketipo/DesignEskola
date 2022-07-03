@@ -13,7 +13,7 @@
   * [Cómo empezar en Diseño Digital](el-oficio-del-diseno/como-empezar-diseno-digital.md)
   * [Nuevos perfiles profesionales](el-oficio-del-diseno/introduccion.md)
   * [Padawanes 2.0](el-oficio-del-diseno/padawanes-2.0.md)
-* [Camino de aprendizaje Diseño de Producto Digital](camino-de-aprendizaje-diseno-de-producto-digital/README.md)
+* [Camino de aprendizaje (Diseño de Producto Digital)](camino-de-aprendizaje-diseno-de-producto-digital/README.md)
   * [Colaboración](camino-de-aprendizaje-diseno-de-producto-digital/colaboracion.md)
   * [Comunicación](camino-de-aprendizaje-diseno-de-producto-digital/comunicacion.md)
   * [Impacto](camino-de-aprendizaje-diseno-de-producto-digital/impacto.md)
