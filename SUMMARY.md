@@ -5,6 +5,7 @@
 * [Proceso de aprendizaje](proceso-de-aprendizaje/README.md)
   * [Aprendizaje autónomo](proceso-de-aprendizaje/aprendizaje-autonomo.md)
   * [Estudiar Inglés no es negociable](proceso-de-aprendizaje/ingles.md)
+  * [Perder el miedo a los números](proceso-de-aprendizaje/perder-el-miedo-a-los-numeros.md)
   * [Lo que he aprendido sobre Diseño… afeitándome](proceso-de-aprendizaje/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
 * [Cultura del Diseño](cultura-del-diseno/README.md)
   * [Documentales para aprender sobre Diseño](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
