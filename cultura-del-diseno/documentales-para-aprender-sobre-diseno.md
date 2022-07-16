@@ -2,7 +2,9 @@
 
 ## Diseño y Globalización
 
-Este documental me parece muy bueno para entender un producto desde distintos puntos de vista. Hay que tener perspectiva
+Este documental me parece muy bueno para entender un producto desde distintos puntos de vista. Hay que tener perspectiva.
+
+{% embed url="https://www.youtube.com/watch?v=qXRKlT4bMpU" %}
 
 {% embed url="https://www.filmin.es/pelicula/monobloc" %}
 
