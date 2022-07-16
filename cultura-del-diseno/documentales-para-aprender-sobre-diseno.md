@@ -1,5 +1,11 @@
 # Documentales para aprender sobre Diseño
 
+## Diseño y Globalización
+
+Este documental me parece muy bueno para entender un producto desde distintos puntos de vista. Hay que tener perspectiva
+
+{% embed url="https://www.filmin.es/pelicula/monobloc" %}
+
 ## La singularidad
 
 El branding es algo que debe estar presente en todos nuestros proyectos y sobre todo en nuestra manera de pensar. Se aprende mucho de los músicos: crean, arriesgan, tienen altibajos, crean lenguajes propios… Petrucciani tiene unas manos increíbles pero también es un personaje que cultivó su singularidad.
