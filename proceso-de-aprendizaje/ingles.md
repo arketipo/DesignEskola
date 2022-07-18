@@ -9,3 +9,8 @@ Como dice un amigo… "si quieres ser programador, el primer lenguaje que tienes
 {% embed url="https://forvo.com" %}
 
 {% embed url="https://www.italki.com" %}
+
+#### Recursos para practicar
+
+{% embed url="https://www.bbc.co.uk/learningenglish/english/features/6-minute-english" %}
+
