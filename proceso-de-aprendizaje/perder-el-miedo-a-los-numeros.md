@@ -1,5 +1,11 @@
 # Perder el miedo a los números
 
+Siempre se me dieron mal las matemáticas, además tienen el problema de que sin una buena base seguir progresando es muy complicado, así que llega el momento en que puedes y las abandonas.
+
+Aún así tuve la suerte de tener una asignatura de estadística en la universidad. Entender lo básico sobre porcentajes, medias y medianas y analizar gráficas y tablas es muy importante para trabajar en producto. No solo porque nos hará falta trabajar con herramientas de analítica sino porque en las anomalías descubrimeros historias y oportunidades.
+
+Estos recursos son los que me están ayudando a mejorar:
+
 {% embed url="https://www.linkedin.com/learning/aprende-estadistica-esencial" %}
 
 {% embed url="https://www.linkedin.com/learning/aprende-probabilidad" %}
