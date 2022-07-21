@@ -21,3 +21,5 @@ Estos recursos son los que me están ayudando a mejorar:
 #### Análisis de datos
 
 {% embed url="https://www.linkedin.com/learning/aprende-analisis-de-datos/el-analisis-de-datos-en-el-mundo-de-la-empresa-2?autoplay=true" %}
+
+{% embed url="https://www.linkedin.com/learning/aprende-data-science-cuenta-historias-con-los-datos/aprende-data-science-cuenta-historias-con-los-datos?autoplay=true" %}
