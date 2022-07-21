@@ -6,6 +6,8 @@ Aún así tuve la suerte de tener una asignatura de estadística en la universid
 
 Estos recursos son los que me están ayudando a mejorar:
 
+#### Estadística y Matemáticas
+
 {% embed url="https://www.linkedin.com/learning/aprende-estadistica-esencial" %}
 
 {% embed url="https://www.linkedin.com/learning/aprende-probabilidad" %}
