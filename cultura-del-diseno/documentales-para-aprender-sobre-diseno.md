@@ -1,5 +1,17 @@
 # Documentales para aprender sobre Diseño
 
+## Biomimética
+
+Si de algo se puede aprender sobre Diseño es de la naturaleza.
+
+{% embed url="https://www.rtve.es/play/videos/supernaturaleza/" %}
+
+{% embed url="https://www.netflix.com/es/title/81036559" %}
+
+## Diseñadores/as
+
+{% embed url="https://www.filmin.es/pelicula/mau" %}
+
 ## Diseño y Globalización
 
 Este documental me parece muy bueno para entender un producto desde distintos puntos de vista. Hay que tener perspectiva.
