@@ -7,10 +7,14 @@ Si de algo se puede aprender sobre Diseño es de la naturaleza.
 {% embed url="https://www.rtve.es/play/videos/supernaturaleza/" %}
 
 {% embed url="https://www.netflix.com/es/title/81036559" %}
+La vida a todo color, con David Attenborough
+{% endembed %}
 
 ## Diseñadores/as
 
 {% embed url="https://www.filmin.es/pelicula/mau" %}
+Bruce Mau
+{% endembed %}
 
 ## Diseño y Globalización
 
