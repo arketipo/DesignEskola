@@ -2,7 +2,7 @@
 description: Hablamos de Diseño de productos digitales en startups, consultoras, compañías…
 ---
 
-# Cómo empezar en Diseño Digital
+# Empezar en Diseño Digital
 
 Conozco a profesionales que han llegado al sector de la consultoría en UX o las startups desde múltiples caminos: sociología, historia del arte, arquitectura, ciencias políticas, programación… incluso la peluquería y todas ellas valiosas profesionales. Yo mismo, aunque no iba demasiado a clase, estudié Publicidad y Relaciones Públicas. Lo que está claro es que no hay un solo camino.
 
