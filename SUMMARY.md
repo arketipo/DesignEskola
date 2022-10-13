@@ -41,3 +41,4 @@
   * [Hotjar](archivo/pendiente/hotjar.md)
   * [Looker](archivo/pendiente/looker.md)
   * [Metabase](archivo/pendiente/metabase.md)
+  * [UserTesting](archivo/pendiente/usertesting.md)
