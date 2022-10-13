@@ -1,4 +1,4 @@
-# Documentales para aprender sobre Diseño
+# Documentales sobre Diseño
 
 ## Biomimética
 
@@ -51,3 +51,7 @@ Estudié publicidad porque no pude entrar en la escuela de hostelería… soy un
 Pocos capítulos pero muy bien editados. Creo que son especialmente valiosos para divulgas sobre la profesión.
 
 {% embed url="https://www.youtube.com/watch?v=DYaq2sWTWAA" %}
+
+## Segredos da tribo
+
+{% embed url="https://www.youtube.com/watch?v=TSk-OmwaGKc" %}
