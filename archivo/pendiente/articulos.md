@@ -10,4 +10,4 @@
 
 ## Procesos y WoW
 
-[https://uxdesign.cc/design-is-not-a-process-its-an-odyssey-replacing-double-diamond-d6bc06965238](https://uxdesign.cc/design-is-not-a-process-its-an-odyssey-replacing-double-diamond-d6bc06965238)
+{% embed url="https://uxdesign.cc/design-is-not-a-process-its-an-odyssey-replacing-double-diamond-d6bc06965238" %}
