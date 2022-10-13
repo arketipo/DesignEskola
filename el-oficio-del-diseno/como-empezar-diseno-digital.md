@@ -17,3 +17,7 @@ Quizás los haya más directos, y también más caros. Pero unos estudios de Bel
 Si de momento lo necesitas en castellano, la buena gente de [uxdesign.cc](https://uxdesign.cc/) nos dio permiso al proyecto Padawanes para traducirlo, con la inestimable ayuda de [Raul Redondo](https://raulredondo.com).
 
 {% embed url="https://medium.com/gu%C3%ADa-del-dise%C3%B1o-start-uxdesign-cc" %}
+
+Otro gran punto de entrada el curso de Raul Redondo en Videocation.
+
+{% embed url="https://www.videocation.es/es/course/nYSwh/introduccion-atipica-a-los-fundamentos-de-la-ux" %}
