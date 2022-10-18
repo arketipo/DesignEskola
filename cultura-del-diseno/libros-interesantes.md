@@ -4,6 +4,10 @@ description: Los libros por los que yo empezaría
 
 # Libros interesantes
 
+## Diseño
+
+{% embed url="http://universalprinciplesofdesign.com/books" %}
+
 ## Visual
 
 {% embed url="https://www.plataformaeditorial.com/libro/5435-inteligencia-visual" %}
