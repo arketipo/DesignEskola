@@ -9,6 +9,7 @@
     * [Product Manager](la-profesion/introduccion/product-manager.md)
   * [Padawanes 2.0](la-profesion/padawanes-2.0.md)
 * [Cultura del Diseño](cultura-del-diseno/README.md)
+  * [Libros interesantes](cultura-del-diseno/libros-interesantes.md)
   * [Documentales sobre Diseño](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Películas sobre Diseño](cultura-del-diseno/peliculas-para-aprender-sobre-diseno.md)
 * [Proceso de aprendizaje](proceso-de-aprendizaje/README.md)
