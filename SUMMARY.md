@@ -5,6 +5,7 @@
 * [La profesión](la-profesion/README.md)
   * [Empezar en Diseño Digital](la-profesion/como-empezar-diseno-digital.md)
   * [Nuevos perfiles profesionales](la-profesion/introduccion.md)
+    * [Behavioral Design](la-profesion/introduccion/behavioral-design.md)
     * [DesignOps](la-profesion/introduccion/designops.md)
     * [Product Manager](la-profesion/introduccion/product-manager.md)
   * [Padawanes 2.0](la-profesion/padawanes-2.0.md)
