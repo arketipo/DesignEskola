@@ -2,4 +2,9 @@
 
 #### Recursos
 
-[https://www.bispublishers.com/leadership-by-design.html?mc\_cid=6aea2ecf6e\&mc\_eid=be03888f68](https://www.bispublishers.com/leadership-by-design.html?mc\_cid=6aea2ecf6e\&mc\_eid=be03888f68)
+{% embed url="https://www.bispublishers.com/leadership-by-design.html?mc_cid=6aea2ecf6e&mc_eid=be03888f68" %}
+
+Curso la nave nodriza&#x20;
+
+{% embed url="https://lanavenodriza.com/laboratorio-de-liderazgos/" %}
+
