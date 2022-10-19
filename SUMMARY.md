@@ -2,6 +2,8 @@
 
 * [DesignEskola](README.md)
 * [Disclaimer](disclaimer.md)
+* [Bases del Diseño](bases-del-diseno/README.md)
+  * [Patrones y Geometría](bases-del-diseno/patrones-y-geometria.md)
 * [Cultura del Diseño](cultura-del-diseno/README.md)
   * [El "buen" Diseño](cultura-del-diseno/el-buen-diseno.md)
   * [Documentales sobre Diseño](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
