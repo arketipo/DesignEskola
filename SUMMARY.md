@@ -3,6 +3,7 @@
 * [DesignEskola](README.md)
 * [Disclaimer](disclaimer.md)
 * [Cultura del Diseño](cultura-del-diseno/README.md)
+  * [El "buen" Diseño](cultura-del-diseno/el-buen-diseno.md)
   * [Documentales sobre Diseño](cultura-del-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Libros interesantes](cultura-del-diseno/libros-interesantes.md)
   * [Películas sobre Diseño](cultura-del-diseno/peliculas-para-aprender-sobre-diseno.md)
