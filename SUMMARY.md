@@ -15,6 +15,7 @@
     * [Behavioral Design](la-profesion/introduccion/behavioral-design.md)
     * [DesignOps](la-profesion/introduccion/designops.md)
     * [Product Manager](la-profesion/introduccion/product-manager.md)
+    * [Visual merchandising](la-profesion/introduccion/visual-merchandising.md)
   * [Padawanes 2.0](la-profesion/padawanes-2.0.md)
 * [Proceso de aprendizaje](proceso-de-aprendizaje/README.md)
   * [Aprendizaje autónomo](proceso-de-aprendizaje/aprendizaje-autonomo.md)
