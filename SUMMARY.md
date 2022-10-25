@@ -17,6 +17,7 @@
     * [DesignOps](la-profesion/introduccion/designops.md)
     * [Instructional Design](la-profesion/introduccion/instructional-design.md)
     * [Product Manager](la-profesion/introduccion/product-manager.md)
+    * [Service design](la-profesion/introduccion/service-design.md)
     * [Visual merchandising](la-profesion/introduccion/visual-merchandising.md)
   * [Padawanes 2.0](la-profesion/padawanes-2.0.md)
 * [Proceso de aprendizaje](proceso-de-aprendizaje/README.md)
