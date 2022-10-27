@@ -1,7 +1,3 @@
----
-layout: landing
----
-
 # Disclaimer
 
 Estos son mis apuntes personales, no tienen ninguna intención más allá.&#x20;
