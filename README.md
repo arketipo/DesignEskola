@@ -1,5 +1,6 @@
 ---
 description: by arketipo @2022
+layout: landing
 ---
 
 # DesignEskola
