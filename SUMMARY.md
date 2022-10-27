@@ -26,6 +26,7 @@
   * [Perder el miedo a los números](proceso-de-aprendizaje/perder-el-miedo-a-los-numeros.md)
   * [Lo que he aprendido sobre Diseño… afeitándome](proceso-de-aprendizaje/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
 * [Diseño de Producto Digital](diseno-de-producto-digital/README.md)
+  * [001 Otra manera de pensar](diseno-de-producto-digital/001-otra-manera-de-pensar.md)
   * [Soft skills](diseno-de-producto-digital/soft-skills/README.md)
     * [Comunicación](diseno-de-producto-digital/soft-skills/comunicacion.md)
     * [Colaboración](diseno-de-producto-digital/soft-skills/colaboracion.md)
