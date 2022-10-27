@@ -2,7 +2,7 @@
 description: Hablamos de Diseño de productos digitales en startups, consultoras, compañías…
 ---
 
-# ✔ #000 Empezar en Diseño Digital
+# Empezar en Diseño Digital
 
 <figure><img src="../.gitbook/assets/imagen (6).png" alt=""><figcaption></figcaption></figure>
 
