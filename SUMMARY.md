@@ -25,6 +25,7 @@
   * [🟡 Otra manera de pensar](diseno-de-producto-digital/001-otra-manera-de-pensar.md)
   * [🟡 Aprendizaje autónomo](proceso-de-aprendizaje/aprendizaje-autonomo.md)
   * [🟢 Estudiar Inglés no es negociable](proceso-de-aprendizaje/ingles.md)
+  * [Facilitación de procesos de Diseño](diseno-de-producto-digital/facilitacion-de-procesos-de-diseno.md)
   * [🟡 Perder el miedo a los números](proceso-de-aprendizaje/perder-el-miedo-a-los-numeros.md)
   * [Soft skills](diseno-de-producto-digital/soft-skills/README.md)
     * [🟡 Comunicación](diseno-de-producto-digital/soft-skills/comunicacion.md)
