@@ -22,7 +22,7 @@
     * [Visual merchandising](la-profesion/introduccion/visual-merchandising.md)
   * [Padawanes 2.0](la-profesion/padawanes-2.0.md)
 * [Diseño de Producto Digital](diseno-de-producto-digital/README.md)
-  * [🟡 Otra manera de pensar](diseno-de-producto-digital/001-otra-manera-de-pensar.md)
+  * [Otra manera de pensar](diseno-de-producto-digital/001-otra-manera-de-pensar.md)
   * [🟡 Aprendizaje autónomo](proceso-de-aprendizaje/aprendizaje-autonomo.md)
   * [🟢 Estudiar Inglés no es negociable](proceso-de-aprendizaje/ingles.md)
   * [Facilitación de procesos de Diseño](diseno-de-producto-digital/facilitacion-de-procesos-de-diseno.md)
