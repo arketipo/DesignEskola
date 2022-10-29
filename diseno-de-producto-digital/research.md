@@ -1,6 +1,6 @@
-# 🔴 Research
+# Research
 
-{% embed url="https://www.youtube.com/watch?v=Yz7Ang2eTRg" %}
+## Datos
 
 ## Validación
 
