@@ -24,3 +24,8 @@ Así que después de verano, se inaugura DesignEskola en Bilbao pero con una ori
 Con el objetivo de generar conocimiento y sensibilidad hacia el Diseño. Disciplina que será el eje central pero no único del proyecto.
 
 Allí nos vemos.
+
+## Disclaimer
+
+Estos son mis apuntes personales, no tienen ninguna intención más allá.&#x20;
+

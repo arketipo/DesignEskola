@@ -1,2 +1,2 @@
-# Curiosidad
+# 🟡 Curiosidad
 

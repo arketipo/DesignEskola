@@ -1,7 +1,6 @@
 # Table of contents
 
 * [DesignEskola](README.md)
-* [Disclaimer](disclaimer.md)
 * [Cultura del Diseño](cultura-del-diseno/README.md)
   * [Bases del Diseño](cultura-del-diseno/bases-del-diseno/README.md)
     * [Patrones y Geometría](cultura-del-diseno/bases-del-diseno/patrones-y-geometria.md)

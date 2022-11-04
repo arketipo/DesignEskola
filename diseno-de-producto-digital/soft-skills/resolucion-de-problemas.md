@@ -1,2 +1,2 @@
-# Resolución de problemas
+# 🟡 Resolución de problemas
 
