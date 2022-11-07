@@ -15,6 +15,7 @@
     * [Behavioral Design](la-profesion/introduccion/behavioral-design.md)
     * [Content Design](la-profesion/introduccion/content-design.md)
     * [DesignOps](la-profesion/introduccion/designops.md)
+    * [Ecodiseño](la-profesion/introduccion/ecodiseno.md)
     * [Instructional Design](la-profesion/introduccion/instructional-design.md)
     * [Product Manager](la-profesion/introduccion/product-manager.md)
     * [Service design](la-profesion/introduccion/service-design.md)
