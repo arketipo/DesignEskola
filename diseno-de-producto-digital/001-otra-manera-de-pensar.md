@@ -13,7 +13,7 @@ Ya no hay briefings, ni opiniones de clientes. La aproximación al trabajo, aún
 * **Se acabó el ego**
   * El resultado es fruto del equipo
   * Medir el éxito
-* Pr**obar y equivocarse**
+* **Probar y equivocarse**
   * Riesgos controlados
 * **Esto no va de opiniones**
 * **Sin grandes cambios**
