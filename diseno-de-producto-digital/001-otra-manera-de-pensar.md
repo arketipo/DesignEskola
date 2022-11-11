@@ -15,6 +15,8 @@ Ya no hay briefings, ni opiniones de clientes. La aproximación al trabajo, aún
   * Medir el éxito
 * Probar y equivocarse
   * Riesgos controlados
+* Esto no va de opiniones
+*
 
 #### Recursos
 
