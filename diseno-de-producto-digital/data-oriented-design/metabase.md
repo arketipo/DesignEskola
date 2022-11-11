@@ -6,7 +6,11 @@ description: Business intelligence para todos
 
 {% embed url="https://www.metabase.com" %}
 
+## Formación oficial
+
 {% embed url="https://www.metabase.com/learn/" %}
+
+#### Recursos
 
 {% embed url="https://www.youtube.com/watch?v=4bNp906oOhs" %}
 
