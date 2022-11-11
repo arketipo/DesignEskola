@@ -1,4 +1,4 @@
-# 🟡 Comunicación
+# Comunicación
 
 ## Facilitación
 

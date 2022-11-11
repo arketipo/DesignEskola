@@ -1,2 +1,2 @@
-# 🟡 Creatividad
+# Creatividad
 
