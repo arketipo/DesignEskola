@@ -29,6 +29,8 @@
   * [Confianza y Actitud](diseno-de-producto-digital/confianza-y-actitud.md)
   * [Facilitación de procesos de Diseño](diseno-de-producto-digital/facilitacion-de-procesos-de-diseno.md)
   * [Perder el miedo a los números](proceso-de-aprendizaje/perder-el-miedo-a-los-numeros.md)
+  * [Data Oriented Design](diseno-de-producto-digital/data-oriented-design/README.md)
+    * [Metabase](diseno-de-producto-digital/data-oriented-design/metabase.md)
   * [Entender la Tecnología](diseno-de-producto-digital/entender-la-tecnologia.md)
   * [Soft skills](diseno-de-producto-digital/soft-skills/README.md)
     * [Comunicación](diseno-de-producto-digital/soft-skills/comunicacion.md)
