@@ -69,7 +69,5 @@
   * [Artículos](archivo/pendiente/articulos.md)
   * [Airtable](archivo/pendiente/airtable.md)
   * [Conferencias](archivo/pendiente/conferencias.md)
-  * [Hotjar](archivo/pendiente/hotjar.md)
   * [Looker](archivo/pendiente/looker.md)
-  * [Metabase](archivo/pendiente/metabase.md)
   * [UserTesting](archivo/pendiente/usertesting.md)
