@@ -4,9 +4,7 @@ description: Diseño de Producto Digital
 
 # LEARNING PATH
 
-Los recursos y procesos ligados al perfil de diseñador de producto
-
-Este es la documentación de mi proceso de aprendizaje y crecimiento como DMiseñador de Productos Digitales.
+Este es la documentación de mi proceso de aprendizaje y crecimiento como **Diseñador de Productos Digitales**.
 
 * ****[**Por dónde empezar**](../learning-path/por-donde-empezar/)****
   * [Otra manera de pensar](../learning-path/por-donde-empezar/otra-manera-de-pensar.md)
