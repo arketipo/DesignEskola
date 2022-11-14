@@ -5,7 +5,7 @@ layout: landing
 
 # DesignEskola
 
-![](<.gitbook/assets/imagen (5).png>)
+<figure><img src=".gitbook/assets/imagen (5).png" alt="tapa libreta personalizada design eskola"><figcaption></figcaption></figure>
 
 Cuando no existe lo que necesitas… lo mejor es montarlo y eso es lo que vamos a hacer. En septiembre se inaugura DesignEskola, un local físico en el centro de Bilbao. Escondido, pero muy bien ubicado. Un espacio donde hablar de Diseño, hablar de producto, crear oportunidades, donde trabajar y donde hacer lo que siempre me ha interesado, que es crear conexiones.
 
