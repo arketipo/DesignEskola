@@ -27,7 +27,7 @@
   * [Por dónde empezar](learning-path/por-donde-empezar/README.md)
     * [Otra manera de pensar](learning-path/por-donde-empezar/otra-manera-de-pensar.md)
     * [Aprendizaje autónomo](learning-path/wip/aprendizaje-autonomo.md)
-    * [Estudiar Inglés no es negociable](learning-path/wip/ingles.md)
+    * [El Inglés no es negociable](learning-path/wip/ingles.md)
   * [WIP](learning-path/wip/README.md)
     * [Confianza y Actitud](learning-path/wip/confianza-y-actitud.md)
     * [Facilitación de procesos de Diseño](learning-path/wip/facilitacion-de-procesos-de-diseno.md)

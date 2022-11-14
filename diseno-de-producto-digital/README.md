@@ -2,7 +2,7 @@
 description: Diseño de Producto Digital
 ---
 
-# Learning Path
+# LEARNING PATH
 
 #### Los recursos y procesos ligados al perfil de diseñador de producto
 
@@ -11,7 +11,7 @@ Este es la documentación de mi proceso de aprendizaje y crecimiento como DMise�
 * **Por dónde empezar**
   * Otra manera de pensar
   * Aprendizaje autónomo
-  * Estudiar inglés, no es negociable
+  * El inglés, no es negociable
 * **Trabajo personal**
   * Confianza y Actitud
 * **El día a día**
