@@ -52,7 +52,7 @@
     * [Senior](learning-path/wip/senior/README.md)
       * [🔴 Liderazgo](learning-path/wip/senior/liderazgo.md)
       * [🔴 Negocio](learning-path/wip/senior/negocio.md)
-* [Recursos](archivo/recursos/README.md)
+* [RECURSOS](archivo/recursos/README.md)
   * [Blogs](archivo/recursos/blogs.md)
   * [Design Research](archivo/recursos/design-research.md)
   * [Formación en Diseño](archivo/recursos/formacion-en-diseno.md)
