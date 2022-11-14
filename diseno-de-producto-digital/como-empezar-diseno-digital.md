@@ -23,3 +23,7 @@ Si de momento lo necesitas en castellano, la buena gente de [uxdesign.cc](https:
 Otro gran punto de entrada el curso de Raul Redondo en Videocation.
 
 {% embed url="https://www.videocation.es/es/course/nYSwh/introduccion-atipica-a-los-fundamentos-de-la-ux" %}
+
+## Primera oportunidad
+
+{% embed url="https://design.bbvaexperience.com/future-designers/" %}
