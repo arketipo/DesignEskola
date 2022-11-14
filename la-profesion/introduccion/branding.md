@@ -8,6 +8,10 @@
 
 {% embed url="https://summa.es/" %}
 
+{% embed url="https://www.hardybrands.com" %}
+
+
+
 #### Recursos
 
 {% embed url="https://brandemia.org/tipo/formacion-y-recursos" %}
