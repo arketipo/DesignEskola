@@ -59,6 +59,7 @@
   * [Design Research](archivo/recursos/design-research.md)
   * [Formación en Diseño](archivo/recursos/formacion-en-diseno.md)
   * [Handbooks](archivo/recursos/handbooks.md)
+  * [Iconos](recursos/iconos.md)
   * [Herramientas](archivo/recursos/herramientas.md)
   * [Libros sobre Diseño](archivo/recursos/libros-sobre-diseno.md)
   * [Sistemas de Diseño](archivo/recursos/sistemas-de-diseno.md)
