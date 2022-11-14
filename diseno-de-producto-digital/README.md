@@ -8,7 +8,7 @@ Los recursos y procesos ligados al perfil de diseñador de producto
 
 Este es la documentación de mi proceso de aprendizaje y crecimiento como DMiseñador de Productos Digitales.
 
-* **Por dónde empezar**
+* ****[**Por dónde empezar**](../learning-path/por-donde-empezar/)****
   * [Otra manera de pensar](../learning-path/por-donde-empezar/otra-manera-de-pensar.md)
   * [Aprendizaje autónomo](../learning-path/wip/aprendizaje-autonomo.md)
   * [El inglés, no es negociable](../learning-path/wip/ingles.md)
