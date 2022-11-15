@@ -65,6 +65,10 @@ Este es la documentación de mi proceso de aprendizaje y crecimiento como **Dise
     * Pensamiento de producto
   * Negocio
 
+#### Recursos
 
+{% embed url="https://uxdesign.cc/fixing-product-design-career-paths-with-the-mirror-model-76152b7e547" %}
+
+{% embed url="https://uxmag.com/articles/mastery-for-generalists" %}
 
 ##
