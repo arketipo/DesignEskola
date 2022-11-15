@@ -71,4 +71,6 @@ Este es la documentación de mi proceso de aprendizaje y crecimiento como **Dise
 
 {% embed url="https://uxmag.com/articles/mastery-for-generalists" %}
 
+{% embed url="https://jeffgothelf.com/foreveremployable/" %}
+
 ##
