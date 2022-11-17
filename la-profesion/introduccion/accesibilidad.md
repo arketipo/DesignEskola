@@ -6,4 +6,6 @@ description: Perfiles de experto/a consultoría
 
 #### Recursos
 
-[https://web.dev/learn/accessibility/](https://web.dev/learn/accessibility/)
+{% embed url="https://web.dev/learn/accessibility/" %}
+
+{% embed url="https://olgacarreras.blogspot.com/2018/11/libro-accesibilidad-web-wcag-21-de.html" %}
