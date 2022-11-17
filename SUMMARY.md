@@ -15,6 +15,7 @@
   * [Nuevos perfiles profesionales](la-profesion/introduccion.md)
     * [Behavioral Design](la-profesion/introduccion/behavioral-design.md)
     * [Branding](la-profesion/introduccion/branding.md)
+    * [Accesibilidad](la-profesion/introduccion/accesibilidad.md)
     * [Content Design](la-profesion/introduccion/content-design.md)
     * [DesignOps](la-profesion/introduccion/designops.md)
     * [Ecodiseño](la-profesion/introduccion/ecodiseno.md)
