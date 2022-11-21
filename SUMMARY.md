@@ -14,6 +14,7 @@
   * [Empezar en Diseño Digital](diseno-de-producto-digital/como-empezar-diseno-digital.md)
   * [Nuevos perfiles profesionales](la-profesion/introduccion.md)
     * [Accesibilidad](la-profesion/introduccion/accesibilidad.md)
+    * [AI y Diseño](la-profesion/introduccion/ai-y-diseno.md)
     * [Behavioral Design](la-profesion/introduccion/behavioral-design.md)
     * [Branding](la-profesion/introduccion/branding.md)
     * [Content Design](la-profesion/introduccion/content-design.md)
