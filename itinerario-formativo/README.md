@@ -2,14 +2,14 @@
 description: Diseño de Producto Digital
 ---
 
-# LEARNING PATH
+# ITINERARIO FORMATIVO
 
 Este es la documentación de mi proceso de aprendizaje y crecimiento como **Diseñador de Productos Digitales**.
 
-* ****[**Por dónde empezar**](../learning-path/por-donde-empezar/)****
-  * [Otra manera de pensar](../learning-path/por-donde-empezar/otra-manera-de-pensar.md)
-  * [Aprendizaje autónomo](../learning-path/wip/aprendizaje-autonomo.md)
-  * [El inglés, no es negociable](../learning-path/wip/ingles.md)
+* ****[**Por dónde empezar**](por-donde-empezar/)****
+  * [Otra manera de pensar](por-donde-empezar/otra-manera-de-pensar.md)
+  * [Aprendizaje autónomo](por-donde-empezar/aprendizaje-autonomo.md)
+  * [El inglés, no es negociable](por-donde-empezar/ingles.md)
 * **Trabajo personal**
   * Confianza y Actitud
 * **El día a día**
