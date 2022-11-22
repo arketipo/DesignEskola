@@ -21,3 +21,5 @@
 {% embed url="https://brandemia.org/mentiras-y-errores-lo-que-nadie-cuenta-de-la-arquitectura-de-marca-laura-rodenas" %}
 
 {% embed url="https://www.brandstocker.com/podcast/" %}
+
+{% embed url="https://brandpad.io/" %}
