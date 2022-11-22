@@ -4,6 +4,8 @@
 
 De vez en cuando viene bien reflexionar sobre recursos y modos de "atacar" un proyecto de Investigación en Diseño.
 
-## Lecturas
+#### Lecturas
 
-[https://www.muledesign.com/blog/the-9-rules-of-design-research](https://www.muledesign.com/blog/the-9-rules-of-design-research)
+{% embed url="https://www.muledesign.com/blog/the-9-rules-of-design-research" %}
+
+{% embed url="https://jdittrich.github.io/userNeedResearchBook/" %}
