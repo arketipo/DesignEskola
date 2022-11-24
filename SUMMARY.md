@@ -25,6 +25,7 @@
     * [Product Manager](la-profesion/introduccion/product-manager.md)
     * [Service Design](la-profesion/introduccion/service-design.md)
     * [Urban Design](la-profesion/introduccion/urban-design.md)
+    * [UX Writer](la-profesion/introduccion/ux-writer.md)
     * [Visual merchandising](la-profesion/introduccion/visual-merchandising.md)
   * [Padawanes 2.0](la-profesion/padawanes-2.0.md)
 * [ITINERARIO FORMATIVO](itinerario-formativo/README.md)
