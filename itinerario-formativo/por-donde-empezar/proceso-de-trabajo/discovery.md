@@ -4,7 +4,7 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
 
 # Discovery
 
-* **Alineamiento**
+* **Alineamiento y Autonomía del equipo**
   * **Entender el problema**, no ir a la solución
     * Estableces confianza entre stakeholders y el equipo
   * Empezar los proyectos con el discovery
