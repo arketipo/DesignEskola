@@ -21,6 +21,7 @@
     * [DesignOps](la-profesion/introduccion/designops.md)
     * [Ecodiseño](la-profesion/introduccion/ecodiseno.md)
     * [Instructional Design](la-profesion/introduccion/instructional-design.md)
+    * [Management](la-profesion/introduccion/management.md)
     * [Motion graphics](la-profesion/introduccion/motion-graphics.md)
     * [Product Manager](la-profesion/introduccion/product-manager.md)
     * [Service Design](la-profesion/introduccion/service-design.md)
