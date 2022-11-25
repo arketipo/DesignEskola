@@ -29,6 +29,7 @@
     * [UX Writer](la-profesion/introduccion/ux-writer.md)
     * [Visual merchandising](la-profesion/introduccion/visual-merchandising.md)
   * [Padawanes 2.0](la-profesion/padawanes-2.0.md)
+* [FIGMA](figma.md)
 * [ITINERARIO FORMATIVO](itinerario-formativo/README.md)
   * [Por dónde empezar](itinerario-formativo/por-donde-empezar/README.md)
     * [Otra manera de pensar](itinerario-formativo/por-donde-empezar/otra-manera-de-pensar.md)
