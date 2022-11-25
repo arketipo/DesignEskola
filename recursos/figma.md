@@ -1,4 +1,4 @@
-# FIGMA
+# Figma
 
 #### Auto-layout
 
