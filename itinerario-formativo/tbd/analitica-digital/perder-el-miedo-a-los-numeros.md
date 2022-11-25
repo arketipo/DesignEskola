@@ -18,6 +18,8 @@ Estos recursos son los que me están ayudando a mejorar:
 
 {% embed url="https://www.linkedin.com/learning/fundamentos-de-matematica-bases-y-calculo-mental" %}
 
+{% embed url="https://www.linkedin.com/learning/aprende-probabilidad/aprende-probabilidad?autoplay=true" %}
+
 #### Análisis de datos
 
 {% embed url="https://www.linkedin.com/learning/aprende-analisis-de-datos/el-analisis-de-datos-en-el-mundo-de-la-empresa-2?autoplay=true" %}

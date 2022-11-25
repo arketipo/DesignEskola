@@ -6,10 +6,10 @@ description: Diseño de Producto Digital
 
 Este es la documentación de mi proceso de aprendizaje y crecimiento como **Diseñador de Productos Digitales**.
 
-* ****[**Por dónde empezar**](por-donde-empezar/)****
-  * [Otra manera de pensar](por-donde-empezar/otra-manera-de-pensar.md)
-  * [Aprendizaje autónomo](por-donde-empezar/aprendizaje-autonomo.md)
-  * [El inglés, no es negociable](por-donde-empezar/ingles.md)
+* ****[**Por dónde empezar**](broken-reference)****
+  * [Otra manera de pensar](otra-manera-de-pensar.md)
+  * [Aprendizaje autónomo](aprendizaje-autonomo.md)
+  * [El inglés, no es negociable](ingles.md)
 * **Trabajo personal**
   * Confianza y Actitud
 * **El día a día**

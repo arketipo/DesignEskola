@@ -1,2 +1,0 @@
-# Por dónde empezar
-
