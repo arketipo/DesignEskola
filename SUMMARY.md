@@ -53,6 +53,7 @@
       * [Curiosidad](itinerario-formativo/tbd/soft-skills/curiosidad.md)
       * [Resolución de problemas](itinerario-formativo/tbd/soft-skills/resolucion-de-problemas.md)
       * [Storytelling](itinerario-formativo/tbd/soft-skills/storytelling.md)
+    * [Liderazgo](itinerario-formativo/tbd/liderazgo.md)
     * [Diseño digital](itinerario-formativo/tbd/diseno-digital.md)
     * [DesignOps](itinerario-formativo/tbd/designops.md)
     * [Impacto](itinerario-formativo/tbd/impacto.md)
