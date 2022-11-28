@@ -1,4 +1,4 @@
-# 🔴 Negocio
+# Negocio
 
 #### Recursos
 
