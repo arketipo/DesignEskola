@@ -24,14 +24,18 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
       * …
 * **Idear soluciones colaborativamente que cambien comportamientos**
   * Priorizar las ideas (votar y dejar fuera las menos votadas)
-* Prototipar experiencias
-  *
-
-{% embed url="https://www.youtube.com/watch?v=7UkNBA-SV7k" %}
+* **Prototipar experiencias**
+  * Retrasar el desarrollo con código
 
 #### Ejemplos
 
-* Ideo rollerball
+Water Roller
+
+{% embed url="https://www.youtube.com/watch?v=7CM7gUW3oAk" %}
+
+#### Recursos
+
+{% embed url="https://www.youtube.com/watch?v=7UkNBA-SV7k" %}
 
 {% embed url="https://www.youtube.com/watch?v=l7-5x0ra2tc&t=49s" %}
 
