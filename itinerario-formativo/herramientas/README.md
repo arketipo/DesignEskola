@@ -1,2 +1,2 @@
-# Herramientas y Técnicas
+# Herramientas
 
