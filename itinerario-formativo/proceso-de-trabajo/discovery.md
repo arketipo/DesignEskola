@@ -38,7 +38,7 @@ El discovery es el proceso para decidir qué construir. El delivery construirlo 
   * Evidence validity matrix (buscar info)
     *   Degree of user action commitment / Proximity to user action
 
-        <figure><img src="../../.gitbook/assets/imagen (1) (2).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../../.gitbook/assets/imagen (1).png" alt=""><figcaption></figcaption></figure>
 
 
 * **Redefinir la validación de ideas** para un delivery enfocado/concentrado
