@@ -4,6 +4,8 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
 
 # Discovery
 
+_Discovery en producto describe el proceso iterativo para reducir la incertidumbre alrededor de un problema o idea. Se usa para asegurarnos que construimos el producto correcto para la audiencia adecuada._
+
 * **Alineamiento y Autonomía del equipo**
   * **ENTENDER EL PROBLEMA**, no ir a la solución
     * Estableces confianza entre stakeholders y el equipo
@@ -37,6 +39,16 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
 
 * **Redefinir la validación de ideas** para un delivery enfocado/concentrado
   * Dividir según las funcionalidades más importantes
+
+
+
+#### Técnicas de validación
+
+**AB test**
+
+**Fake door test** / Smoking test
+
+{% embed url="https://userpilot.com/blog/fake-door-testing/" %}
 
 #### Ejemplos
 
