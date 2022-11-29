@@ -10,5 +10,5 @@
   * ~~El buen diseño~~
   * Rompiendo mitos
 * Estudiando el [curso CRO](https://kschool.com/categoria/cursos-de-analitica-web/cursos-cro/) de Kschool.
-* Aprendiendo [hotjar](itinerario-formativo/herramientas-y-tecnicas/hotjar.md)
+* Aprendiendo [hotjar](itinerario-formativo/herramientas/hotjar.md)
 
