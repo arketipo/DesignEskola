@@ -54,6 +54,10 @@ Significancia estadística
 
 {% embed url="https://userpilot.com/blog/fake-door-testing/" %}
 
+#### Discovery checkin
+
+Reuniones periódicas (bisemanales) en los que compartir resultados e insights en el proceso de discovery. Con stakeholders, representantes C-level, etc
+
 #### Ejemplos
 
 Water Roller
