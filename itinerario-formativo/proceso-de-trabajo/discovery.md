@@ -6,6 +6,10 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
 
 _Discovery en producto describe el proceso iterativo para reducir la incertidumbre alrededor de un problema o idea. Se usa para asegurarnos que construimos el producto correcto para la audiencia adecuada._
 
+#### Product discovery vs Product delivery
+
+El discovery es el proceso para decidir qué construir. El delivery construirlo (código, …)
+
 * **Alineamiento y Autonomía del equipo**
   * **ENTENDER EL PROBLEMA**, no ir a la solución
     * Estableces confianza entre stakeholders y el equipo
