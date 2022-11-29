@@ -5,7 +5,7 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
 # Discovery
 
 * **Alineamiento y Autonomía del equipo**
-  * **Entender el problema**, no ir a la solución
+  * **ENTENDER EL PROBLEMA**, no ir a la solución
     * Estableces confianza entre stakeholders y el equipo
   * Empezar los proyectos con el discovery
     * Buscar outcome y no funcionalidad
@@ -21,6 +21,11 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
     * Observación directa de comportamientos
       * Hotjar
       * Shadowing
+      * …
+* **Idear soluciones colaborativamente que cambien comportamientos**
+  * Priorizar las ideas (votar y dejar fuera las menos votadas)
+* Prototipar experiencias
+  *
 
 {% embed url="https://www.youtube.com/watch?v=7UkNBA-SV7k" %}
 
