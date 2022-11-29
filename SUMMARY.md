@@ -41,6 +41,7 @@
       * [Personas](itinerario-formativo/pensar-en-producto/el-tripode/personas.md)
       * [Tecnología](itinerario-formativo/pensar-en-producto/el-tripode/tecnologia.md)
   * [Proceso de trabajo](itinerario-formativo/proceso-de-trabajo/README.md)
+    * [Aprender más rápido](itinerario-formativo/proceso-de-trabajo/aprender-mas-rapido.md)
     * [Metodologías agiles](itinerario-formativo/proceso-de-trabajo/metodologias-agiles.md)
     * [Discovery](itinerario-formativo/proceso-de-trabajo/discovery.md)
     * [Testing](itinerario-formativo/proceso-de-trabajo/testing.md)
