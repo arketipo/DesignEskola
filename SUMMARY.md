@@ -39,7 +39,7 @@
     * [Discovery](itinerario-formativo/proceso-de-trabajo/discovery.md)
   * [Herramientas](itinerario-formativo/herramientas/README.md)
     * [Amplitude](itinerario-formativo/herramientas/amplitude.md)
-    * [Figma](itinerario-formativo/herramientas/figma.md)
+    * [Figma](recursos/figma.md)
     * [Google Analytics](itinerario-formativo/herramientas/google-analytics.md)
     * [Hotjar](itinerario-formativo/herramientas/hotjar.md)
     * [Looker](itinerario-formativo/herramientas/looker.md)
