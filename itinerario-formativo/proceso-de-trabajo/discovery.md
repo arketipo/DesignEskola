@@ -36,7 +36,7 @@ description: ¿Cual es el problema? ¿Dónde encontrar oportunidades?
 
 
 * **Redefinir la validación de ideas** para un delivery enfocado/concentrado
-  *
+  * Dividir según las funcionalidades más importantes
 
 #### Ejemplos
 
@@ -48,6 +48,6 @@ Water Roller
 
 {% embed url="https://www.youtube.com/watch?v=7UkNBA-SV7k" %}
 
-{% embed url="https://www.youtube.com/watch?v=l7-5x0ra2tc&t=49s" %}
-
 {% embed url="https://www.youtube.com/watch?v=dHkb--_BhGI" %}
+
+{% embed url="https://www.youtube.com/watch?v=l7-5x0ra2tc&t=49s" %}
