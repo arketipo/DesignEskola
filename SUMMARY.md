@@ -38,6 +38,7 @@
   * [Proceso de trabajo](itinerario-formativo/proceso-de-trabajo/README.md)
     * [Metodologías agiles](itinerario-formativo/proceso-de-trabajo/metodologias-agiles.md)
     * [Discovery](itinerario-formativo/proceso-de-trabajo/discovery.md)
+    * [Testing](itinerario-formativo/proceso-de-trabajo/testing.md)
   * [Herramientas](itinerario-formativo/herramientas/README.md)
     * [Amplitude](itinerario-formativo/herramientas/amplitude.md)
     * [Figma](recursos/figma.md)
