@@ -12,6 +12,7 @@ Preguntas que debemos responder:
     * Aumentar el _engagement_
     * Reducir el _churn_
     * Aumentar la satisfacción, reducir los contactos con soporte, tener mejores valoraciones
+* ¿Lo que estamos haciendo tiene impacto en la vida de nuestros usuarios?
 
 #### Operativas
 

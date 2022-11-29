@@ -61,7 +61,7 @@
       * [Data Oriented Design](itinerario-formativo/tbd/analitica-digital/data-oriented-design.md)
       * [Metabase](itinerario-formativo/tbd/analitica-digital/metabase.md)
     * [Entender la Tecnología](itinerario-formativo/tbd/entender-la-tecnologia.md)
-    * [Soft skills](itinerario-formativo/tbd/soft-skills/README.md)
+    * [SOFT SKILLS](itinerario-formativo/tbd/soft-skills/README.md)
       * [Comunicación](itinerario-formativo/tbd/soft-skills/comunicacion.md)
       * [Colaboración](itinerario-formativo/tbd/soft-skills/colaboracion/README.md)
         * [🟡 Workshops](itinerario-formativo/tbd/soft-skills/colaboracion/workshops.md)
