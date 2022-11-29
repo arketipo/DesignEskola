@@ -44,9 +44,13 @@ _Discovery en producto describe el proceso iterativo para reducir la incertidumb
 
 #### Técnicas de validación
 
-**AB test**
+* **AB test**
 
-**Fake door test** / Smoking test
+Significancia estadística
+
+{% embed url="https://es.surveymonkey.com/mp/ab-testing-significance-calculator/" %}
+
+* **Fake door test** / Smoking test
 
 {% embed url="https://userpilot.com/blog/fake-door-testing/" %}
 
