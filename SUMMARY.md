@@ -18,6 +18,7 @@
     * [Behavioral Design](la-profesion/introduccion/behavioral-design.md)
     * [Branding](la-profesion/introduccion/branding.md)
     * [Content Design](la-profesion/introduccion/content-design.md)
+    * [Conversational Designer](la-profesion/introduccion/conversational-designer.md)
     * [DesignOps](la-profesion/introduccion/designops.md)
     * [Ecodiseño](la-profesion/introduccion/ecodiseno.md)
     * [Growth Design](la-profesion/introduccion/growth-design.md)
