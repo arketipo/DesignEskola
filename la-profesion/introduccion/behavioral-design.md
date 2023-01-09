@@ -1,5 +1,9 @@
 # Behavioral Design
 
+####
+
+{% embed url="https://miro.com/app/board/uXjVP-20v6k=/" %}
+
 #### Recursos
 
 {% embed url="https://thebehavioralschool.com/" %}
