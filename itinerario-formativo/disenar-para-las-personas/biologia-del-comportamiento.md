@@ -4,6 +4,9 @@
 Lecture Collection | Human Behavioral Biology - Robert Sapolsky
 {% endembed %}
 
+* Algunos comportamientos son heredados
+* Los animales no buscan el bien de la especia sino transmitir sus genes
+
 ## Recursos
 
 #### Libros
