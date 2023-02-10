@@ -4,4 +4,10 @@
 Lecture Collection | Human Behavioral Biology - Robert Sapolsky
 {% endembed %}
 
+## Recursos
+
+#### Libros
+
+[https://www.casadellibro.com/ebook-comportate-ebook/9788412135596/11485753](https://www.casadellibro.com/ebook-comportate-ebook/9788412135596/11485753)
+
 ![](../../.gitbook/assets/imagen.png)
