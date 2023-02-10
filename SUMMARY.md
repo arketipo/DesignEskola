@@ -42,6 +42,7 @@
       * [Personas](itinerario-formativo/pensar-en-producto/el-tripode/personas.md)
       * [Tecnología](itinerario-formativo/pensar-en-producto/el-tripode/tecnologia.md)
   * [Diseñar para las personas](itinerario-formativo/disenar-para-las-personas/README.md)
+    * [Biología del comportamiento](itinerario-formativo/disenar-para-las-personas/biologia-del-comportamiento.md)
     * [Behavioral Design](itinerario-formativo/disenar-para-las-personas/behavioral-design.md)
   * [Proceso de trabajo](itinerario-formativo/proceso-de-trabajo/README.md)
     * [Aprender más rápido](itinerario-formativo/proceso-de-trabajo/aprender-mas-rapido.md)
