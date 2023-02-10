@@ -11,6 +11,7 @@ Lecture Collection | Human Behavioral Biology - Robert Sapolsky
 
 #### Libros
 
-[https://www.casadellibro.com/ebook-comportate-ebook/9788412135596/11485753](https://www.casadellibro.com/ebook-comportate-ebook/9788412135596/11485753)
+**Behave** - Robert Sapolsky
 
-![](../../.gitbook/assets/imagen.png)
+**Chaos** - James Gleik (sobre la corriente contraria a dividir los problemas para resolverlos)
+
