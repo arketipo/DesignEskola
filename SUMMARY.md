@@ -2,8 +2,8 @@
 
 * [DesignEskola](README.md)
 * [En qué ando metido](que-estoy-estudiando.md)
-* [BLOG](blog.md)
-* [En Diseño, todos los caminos llevan a Roma](en-diseno-todos-los-caminos-llevan-a-roma.md)
+* [BLOG](blog/README.md)
+  * [En Diseño, todos los caminos llevan a Roma](blog/en-diseno-todos-los-caminos-llevan-a-roma.md)
 * [CULTURA DE DISEÑO](cultura-de-diseno/README.md)
   * [Bases del Diseño](cultura-de-diseno/bases-del-diseno/README.md)
     * [Patrones y Geometría](cultura-de-diseno/bases-del-diseno/patrones-y-geometria.md)
