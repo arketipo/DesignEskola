@@ -37,6 +37,7 @@
   * [Aprendizaje autónomo](itinerario-formativo/aprendizaje-autonomo.md)
   * [Otra manera de pensar](itinerario-formativo/otra-manera-de-pensar.md)
   * [El Inglés no es negociable](itinerario-formativo/ingles.md)
+  * [DesignOps](itinerario-formativo/designops.md)
   * [Pensar en Producto](itinerario-formativo/pensar-en-producto/README.md)
     * [El trípode](itinerario-formativo/pensar-en-producto/el-tripode/README.md)
       * [Negocio](itinerario-formativo/pensar-en-producto/el-tripode/negocio.md)
