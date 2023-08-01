@@ -1,13 +1,6 @@
 # Table of contents
 
-* [DesignEskola](README.md)
-* [En qué ando metido](que-estoy-estudiando.md)
-* [BLOG](blog/README.md)
-  * [En Diseño, todos los caminos llevan a Roma](blog/en-diseno-todos-los-caminos-llevan-a-roma.md)
-* [CULTURA DE DISEÑO](cultura-de-diseno/README.md)
-  * [Bases del Diseño](cultura-de-diseno/bases-del-diseno/README.md)
-    * [Patrones y Geometría](cultura-de-diseno/bases-del-diseno/patrones-y-geometria.md)
-  * [El "buen" Diseño](cultura-de-diseno/el-buen-diseno.md)
+* [CULTURA DE DISEÑO](README.md)
   * [Documentales sobre Diseño](cultura-de-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Películas sobre Diseño](cultura-de-diseno/peliculas-para-aprender-sobre-diseno.md)
   * [Lo que he aprendido sobre Diseño… afeitándome](cultura-de-diseno/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)

@@ -1,2 +1,0 @@
-# Bases del Diseño
-
