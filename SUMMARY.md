@@ -99,7 +99,6 @@
   * [Referencias UX-UI](recursos/referencias-ux-ui.md)
   * [Sistemas de Diseño](archivo/recursos/sistemas-de-diseno.md)
   * [Youtube](archivo/recursos/youtube.md)
-* [by @arketipo](http://www.arketipo.net)
 
 ## Archivo
 
