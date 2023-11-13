@@ -75,3 +75,5 @@ Water Roller
 {% embed url="https://www.youtube.com/watch?v=dHkb--_BhGI" %}
 
 {% embed url="https://www.youtube.com/watch?v=l7-5x0ra2tc&t=49s" %}
+
+{% embed url="https://www.producttalk.org/2021/08/product-discovery/?utm_source=Linkedin&utm_medium=tweet-this&utm_campaign=Weekly+Social+Media" %}
