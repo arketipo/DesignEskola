@@ -1,6 +1,7 @@
 # Table of contents
 
-* [CULTURA DE DISEÑO](README.md)
+* [Design Eskola](README.md)
+* [CULTURA DE DISEÑO](<README (1).md>)
   * [Documentales sobre Diseño](cultura-de-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Películas sobre Diseño](cultura-de-diseno/peliculas-para-aprender-sobre-diseno.md)
   * [Lo que he aprendido sobre Diseño… afeitándome](cultura-de-diseno/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
