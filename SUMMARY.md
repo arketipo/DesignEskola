@@ -4,6 +4,7 @@
 * [Cultura de Diseño](<README (1).md>)
   * [Documentales sobre Diseño](cultura-de-diseno/documentales-para-aprender-sobre-diseno.md)
   * [Películas sobre Diseño](cultura-de-diseno/peliculas-para-aprender-sobre-diseno.md)
+  * [Series sobre Diseño](cultura-de-diseno/series-sobre-diseno.md)
   * [Lo que he aprendido sobre Diseño… afeitándome](cultura-de-diseno/lo-que-he-aprendido-sobre-diseno...-afeitandome.md)
 * [La profesión](la-profesion/README.md)
   * [Empezar en Diseño Digital](la-profesion/como-empezar-diseno-digital.md)

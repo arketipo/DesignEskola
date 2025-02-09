@@ -1,5 +1,19 @@
 # Documentales sobre Diseño
 
+{% embed url="https://www.filmin.es/pelicula/el-hombre-que-diseno-espana" %}
+
+{% embed url="https://www.filmin.es/pelicula/valencia-22-city-of-design" %}
+
+{% embed url="https://www.filmin.es/pelicula/letras-que-marcan" %}
+Ricardo Rousselot
+{% endembed %}
+
+{% embed url="https://www.filmin.es/pelicula/eames-el-arquitecto-y-la-pintora" %}
+
+{% embed url="https://www.hustwit.com/" %}
+
+{% embed url="https://www.youtube.com/watch?v=Bxar61GRRc8" %}
+
 ## Biomimética
 
 Si de algo se puede aprender sobre Diseño es de la naturaleza.
@@ -55,3 +69,64 @@ Pocos capítulos pero muy bien editados. Creo que son especialmente valiosos par
 ## Segredos da tribo
 
 {% embed url="https://www.youtube.com/watch?v=TSk-OmwaGKc" %}
+
+{% embed url="https://www.youtube.com/watch?v=vtVh6lCvu-o" %}
+Via [https://www.linkedin.com/in/ivanledu/](https://www.linkedin.com/in/ivanledu/)
+{% endembed %}
+
+{% embed url="https://vimeo.com/ondemand/koolhaashouselife" %}
+[https://www.linkedin.com/in/palomallaneza/](https://www.linkedin.com/in/palomallaneza/)
+{% endembed %}
+
+{% embed url="https://vimeo.com/ondemand/graphicmeans" %}
+
+{% embed url="https://www.filmin.es/pelicula/dark-star-el-universo-de-hr-giger" %}
+
+{% embed url="https://www.filmin.es/pelicula/mas-que-un-museo" %}
+Museo Munch
+{% endembed %}
+
+## Moda
+
+{% embed url="https://www.filmin.es/pelicula/auge-y-caida-de-john-galliano" %}
+John Galiano
+{% endembed %}
+
+{% embed url="https://www.filmin.es/pelicula/dior-y-yo" %}
+Dior
+{% endembed %}
+
+{% embed url="https://www.filmin.es/pelicula/la-casa-de-cardin" %}
+Cardin
+{% endembed %}
+
+{% embed url="https://www.filmin.es/pelicula/redisenando-el-manana" %}
+
+{% embed url="https://www.filmin.es/pelicula/maija-isola" %}
+
+{% embed url="https://www.filmin.es/corto/munari-se-puede-hacer-de-otra-manera" %}
+Bruno Munari
+{% endembed %}
+
+{% embed url="https://www.filmin.es/pelicula/los-suenos-de-otros" %}
+Los sueños de otros
+{% endembed %}
+
+## Conversaciones
+
+{% embed url="https://www.filmin.es/corto/bcn-bxl-coderch-de-koninck-mas-alla-del-tiempo" %}
+
+## Arquitectura
+
+{% embed url="https://www.filmin.es/pelicula/aalto" %}
+Aalto
+{% endembed %}
+
+{% embed url="https://www.filmin.es/corto/bienvenidos-a-la-ricarda" %}
+
+## Fotografía
+
+{% embed url="https://www.filmin.es/pelicula/koudelka" %}
+Koudelka
+{% endembed %}
+

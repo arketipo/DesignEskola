@@ -4,7 +4,7 @@ description: >-
   aprender que en el cine
 ---
 
-# Películas para aprender sobre Diseño
+# Películas sobre Diseño
 
 ### Si el mundo real os pilla muy lejos
 
@@ -81,3 +81,7 @@ Una película de la que hablo habitualmente para generar debate.
 {% embed url="https://www.youtube.com/watch?v=7-HfQJvtjdQ" %}
 
 Una de las mejores inversiones que puedes hacer para aprender a mirar mejor el mundo es una suscripción a [filmin](https://www.filmin.es/).
+
+{% embed url="https://www.filmin.es/pelicula/chic" %}
+
+{% embed url="https://www.filmin.es/corto/circles" %}
