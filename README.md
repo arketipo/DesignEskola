@@ -1,5 +1,5 @@
 ---
-description: Blog profesional de Diego Rodríguez (arketipo)
+description: Blog personal de Diego Rodríguez (arketipo)
 cover: .gitbook/assets/design-eskola-moleskine.jpg
 coverY: -274
 layout:
